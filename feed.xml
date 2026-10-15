@@ -13,13 +13,13 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
-   <title>Preview: Thursday 15 October</title>
-   <description>One-minute preview. SEB capital add-on, Nordea results, Bank of America fine, AI debt fears.</description>
-   <itunes:summary>One-minute preview. SEB capital add-on, Nordea results, Bank of America fine, AI debt fears.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-15.mp3" length="620504" type="audio/mpeg"/>
+   <title>Thursday 15 October: Nordea pauses buybacks, AI debt hits Asia</title>
+   <description>Nordea buyback pause on ECB model review and the SEB read-across, Kospi and Nikkei sell-off on AI debt fears, hot US PPI but falling yields, US regional banks, Iambic IPO, and 15 October 2008.</description>
+   <itunes:summary>Nordea buyback pause on ECB model review and the SEB read-across, Kospi and Nikkei sell-off on AI debt fears, hot US PPI but falling yields, US regional banks, Iambic IPO, and 15 October 2008.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-15.mp3" length="8126842" type="audio/mpeg"/>
    <guid isPermaLink="false">bank-credit-briefing-2026-10-15</guid>
-   <pubDate>Thu, 15 Oct 2026 21:51:17 +0000</pubDate>
-   <itunes:duration>00:01:17</itunes:duration>
+   <pubDate>Thu, 15 Oct 2026 22:36:52 +0000</pubDate>
+   <itunes:duration>00:16:55</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
