@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>Bank Credit Briefing</title>
+  <link>https://k95hjfrvg2-del.github.io/bank-credit-briefing/</link>
+  <atom:link href="https://k95hjfrvg2-del.github.io/bank-credit-briefing/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-gb</language>
+  <description>Private daily briefing on European, US and Asian banks through a credit lens, with IPOs, a cross-asset wrap and market history. AI-generated from public sources; not investment advice.</description>
+  <itunes:author>Bank Credit Briefing</itunes:author>
+  <itunes:image href="https://k95hjfrvg2-del.github.io/bank-credit-briefing/cover.jpg"/>
+  <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>Preview: Thursday 15 October</title>
+   <description>One-minute preview. SEB capital add-on, Nordea results, Bank of America fine, AI debt fears.</description>
+   <itunes:summary>One-minute preview. SEB capital add-on, Nordea results, Bank of America fine, AI debt fears.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-15.mp3" length="620504" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-10-15</guid>
+   <pubDate>Thu, 15 Oct 2026 21:51:17 +0000</pubDate>
+   <itunes:duration>00:01:17</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>
