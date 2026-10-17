@@ -1,0 +1,27 @@
+name: Auto-publish Claude branches
+on:
+  push:
+    branches: ['claude/**']
+permissions:
+  contents: write
+  pages: write
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Merge the Claude branch into main
+        run: |
+          git config user.name "Bank Credit Briefing"
+          git config user.email "podcast@users.noreply.github.com"
+          git fetch origin "$GITHUB_REF_NAME"
+          git merge --ff-only FETCH_HEAD || git merge --no-edit -X theirs FETCH_HEAD
+          git push origin main
+          git push origin --delete "$GITHUB_REF_NAME" || true
+      - name: Rebuild GitHub Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
