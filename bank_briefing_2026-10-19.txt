@@ -1,0 +1,141 @@
+Good morning, and welcome to the Bank Credit Briefing for Monday the nineteenth of October, twenty twenty-six. Because it is a Monday, this edition covers the whole weekend and the last seventy-two hours.
+
+Here is what matters today.
+
+First, the Swedish regulator, F I, has added roughly ten billion Swedish kronor to the capital requirement of S E B, on top of an existing add-on. The shares fell, and buybacks are now in question.
+
+Second, the European Central Bank has cleared UniCredit to take control of Commerzbank, with no cap on how far the stake can go.
+
+Third, credit stress around the artificial intelligence build-out is growing. CoreWeave's bonds trade like distressed debt, Brent oil closed near one hundred and ten dollars, and Wall Street had a rough Friday.
+
+Behind those, French debt is still the background worry for European bank spreads, and the euro bank index has already corrected by about eight percent this month.
+
+Later in the programme: no big bank reports today, so we look back at the week's results. Then regulators, the I P O watch for the United States and Asia, the week ahead, a review of your themes in the press, the cross-asset wrap, some market anecdotes, and a very fitting date in market history.
+
+Let's start with Sweden.
+
+On Wednesday the fourteenth, the Swedish regulator F I announced a new temporary capital add-on for S E B. Its review of S E B's internal credit risk models for corporate exposures found deficiencies that are broader than it had previously identified.
+
+The reported size is about ten billion kronor of extra core equity tier one. That sits on top of a ten billion add-on that has been in place since twenty twenty-three, so the total is around twenty billion. Earlier guidance, which I could not re-verify this morning, pointed to risk exposure amounts rising by about one hundred and fifty billion kronor from the end of this year, and a hit to the capital buffer of around one hundred and twenty basis points.
+
+The add-on lasts until F I approves the updated models. S E B says it expects to submit its model applications in the third quarter of twenty twenty-seven at the latest. So this is a twelve-month-plus overhang, not a one-quarter issue.
+
+The market reaction was sharp. S E B shares fell. Analysts quoted in the Swedish press, at Citi and at Handelsbanken, said buyback expectations need to come down substantially, and that a pause is possible. It also landed shortly after the sudden departure of the chief executive, Johan Torgeby, which adds a governance question to a capital question.
+
+The credit read is different from the equity read. For senior and subordinated bondholders, a bigger requirement means a thicker cushion, at the expense of shareholders. Distributions are the shock absorber. The risk to watch is whether management has to rebuild the buffer through retained earnings rather than cash returns, and whether F I applies the same lens to other Nordic banks using internal models. Swedbank and Handelsbanken are the obvious peer questions, though I found no sign of a similar action against them.
+
+Next, Italy and Germany.
+
+On Thursday the fifteenth, the European Central Bank approved UniCredit crossing the thirty percent threshold in Commerzbank, and allowed it to keep buying with no upper limit. UniCredit's economic stake is already reported at about forty-eight percent following its exchange offer, which closed in July.
+
+UniCredit expects the remaining regulatory steps to be done around year-end, when it would hold roughly half of the voting rights and gain control. The chief executive, Andrea Orcel, has talked about full integration taking until twenty twenty-nine or twenty thirty.
+
+Commerzbank's board still calls the terms inadequate and says UniCredit cannot take fundamental structural decisions alone. The Italian economy minister welcomed the decision, which is quite a turn from Rome's resistance during the earlier Banco B P M episode. The German finance minister asked for constructive talks. Commerzbank reports on the fifth of November.
+
+For credit investors, three things. One, change-of-control and ownership language in Commerzbank's bonds and ratings: agencies will have to decide whether a stronger parent lifts or complicates the picture. Two, group funding: a combined balance sheet could mean fewer, larger issuers and different supply patterns in senior preferred and non-preferred. Three, cross-border capital and liquidity treatment, which regulators in Frankfurt and Milan will want to see worked out in detail.
+
+Third story: the A I credit wobble.
+
+On Friday, the S and P five hundred fell about one point one percent, to seven thousand six hundred and fifty-nine. The Nasdaq dropped about two point one percent, and for the week it lost four and a half percent. Chip stocks led the decline.
+
+Underneath, credit is where the stress shows. Reuters reported that CoreWeave's bonds fell to distressed levels. Secondary reports put its unsecured notes between the high seventies and low eighties, with yields around fifteen percent. Credit default swap protection on its roughly fifty billion dollars of debt was quoted at about one thousand basis points. The chief executive called the reaction irrational and says the backlog covers the debt.
+
+Why do bank credit investors care? Because banks sit in the middle of this. Reports say J P Morgan and M U F G, among others, have spent more than six months trying to distribute about thirty-eight billion dollars of construction debt tied to a data-centre project leased to Oracle. A separate eighteen billion dollar data-centre financing, called Project Jupiter, has reportedly traded at eighty-nine to ninety-one cents. These come from secondary reports, so treat the details with care. But the direction is clear: the banks that underwrote the boom are holding more of it than they planned, and the private credit funds that were meant to take it are more selective.
+
+Now, the reporting season. No watchlist bank reports today, so a quick look back.
+
+In the United States, last week's third-quarter numbers were mixed. J P Morgan missed on earnings and revenue. Goldman Sachs posted its second-best revenue quarter ever. Citigroup beat expectations, yet its shares fell about four percent. Wells Fargo was uneven. Bank of America and U S Bancorp reported later in the week. The K B W bank index was down more than eight percent over the previous three months. Investors are paying for strong trading and fees but worrying about credit, inflation at three point seven percent, and the A I cycle.
+
+In the Nordics, Nordea reported on Thursday. Net profit fell four percent to one point one eight billion euros. Return on equity was fifteen point one percent. Loan losses were seven basis points. Core equity tier one was fifteen point eight percent, one point nine points above the requirement. Guidance was unchanged, with return on equity above fifteen percent and a cost to income ratio of forty-four to forty-five percent. One outlet reported a pause in buybacks, but Nordea's own release only mentions buyback considerations, so I could not confirm that.
+
+The credit takeaway: asset quality is clean and buffers are wide. The debate is all about distribution, which again is good for bondholders and bad for equity.
+
+Coming up this week, among European names: B N P Paribas and Santander both report on Wednesday the twenty-eighth. I will confirm the others as dates are published.
+
+Regulation and supervision. Apart from the S E B decision, the E C B put out a message on the fifteenth titled, in essence, bank resilience is key: it argued that any simplification of banking rules should preserve the stronger capital base built since twenty twelve. A second E C B note on the sixteenth discussed proportionality for smaller banks. The E C B's own simplification task force has also floated aligning M R E L and T L A C more closely without cutting loss-absorbing resources, though that is a recommendation, not a rule.
+
+In the United Kingdom, the P R A published its final Basel three point one rules in January. It says they do not raise overall requirements. The remaining C R R restatement in P R A rules is expected on the first of January, twenty twenty-seven, or shortly after.
+
+In the United States, the three agencies' proposals to loosen capital for the largest banks are out for comment; one law-firm estimate puts the cut in required core equity at up to about five percent for the largest banks. There is a gap opening between Washington easing and Europe tightening on a bank-by-bank basis, and it matters for competitiveness arguments in Brussels.
+
+Europe round-up.
+
+The euro area bank index, S X seven E, closed Friday at two hundred and ninety-one, up about point eight percent. Earlier this month it fell about eight percent, into a technical correction, on rising bond yields and French budget fears.
+
+In France, the budget is the story. The O A T to Bund spread was about one hundred and thirty-seven basis points on Friday, with the French ten-year at four point seven nine percent. Earlier this month it was reported as high as one hundred and forty-seven to one hundred and fifty. The Assembly is expected to vote on the budget on the twentieth and the twenty-seventh of October, and a clean majority looks unlikely. Societe Generale is reported down about twenty-five percent from its August peak. France is about a quarter of B N P Paribas's revenue, and Societe Generale and Credit Agricole are more exposed. There is also concern that the E C B may be reluctant to buy French bonds to narrow the spread.
+
+A word on why this matters for spreads. When a sovereign trades at one hundred and thirty-five basis points or more over Germany, domestic banks inherit part of that risk through their government bond holdings, their funding costs and the ratings ceiling. Senior preferred paper from the large French groups has tended to move with the sovereign spread, while covered bonds have been steadier. The next test is whether the budget vote passes, or whether we get another political reset.
+
+In Italy, the B T P to Bund spread is around one hundred and seven to one hundred and eleven basis points, depending on the source. Italian banks hold a lot of domestic government paper, so they are exposed to the sovereign, but they also have a better relationship with their own sovereign than a year ago.
+
+In the funding market, GlobalCapital reports the busiest October ever for dollar investment-grade bonds from financial issuers, as banks front-load funding. I could not date the article precisely, so take it as indicative.
+
+The United States round-up is largely covered: strong trading, mixed credit, a bad Friday for technology. Worth watching on the credit side are the regional banks' commercial real estate and non-bank lending exposures, and the Federal Reserve is expected to hold rates.
+
+One more point on the United States. With the ten-year Treasury yield above five percent, unrealised losses on bond portfolios are back on the agenda, and regional banks with long-dated securities and commercial real estate loans are the names to watch if the equity sell-off spreads from technology to financials. The big money-centre banks look much better placed, with trading income and strong capital to cushion them.
+
+Now to Asia.
+
+Overnight, the Nikkei fell about one point two percent. The Hang Seng rose about half a percent, Shanghai was down about point three, and the Kospi fell point seven. Sydney opened up about point three percent. Oil eased a little from one hundred and ten dollars. I found no bank-specific results or supervisory news from Asia over the weekend.
+
+For Japanese megabanks, the ten-year J G B yield reached about three point one percent in early October, the highest since twenty twenty-two. That helps margins but raises unrealised bond losses. M U F G next reports on the thirteenth of November. In China, the second-quarter industry net interest margin rose for the first time since twenty twenty-two, to one point four one percent, and the large banks' bad-loan ratio was one point two one percent. Big five results come in late October.
+
+Time for the I P O watch.
+
+In the United States, it was a quiet week. Renaissance Capital counted three I P Os and two special purpose acquisition companies. The largest was City Therapeutics, a biotech, which upsized and priced at the midpoint to raise two hundred million dollars at a valuation of about one billion dollars. Iambic Therapeutics priced at sixteen dollars, the midpoint, on the fifteenth. A blank-cheque company, T C G X Acquisition Corp Two, raised one hundred million dollars and opened up about twelve percent on Friday, at eleven dollars twenty. Klook, the Asian travel booking platform, withdrew a planned I P O of about four hundred million dollars. That is the trend: windows are open for biotech, shut for anything that looks risky.
+
+In Asia, Hong Kong is the engine. Over the first nine months it raised more than three hundred and eighty-eight billion Hong Kong dollars from one hundred and sixteen listings, roughly double last year. K P M G sees a full year of up to five hundred billion. But the debuts are less rosy: of thirty listings in the third quarter, fourteen fell below their offer price on day one. Kinwong Electronic raised about five point one billion Hong Kong dollars, priced at the top, and still dropped as much as eight percent at first. ESWIN Computing listed on the ninth of October with an expected raise of about two and a half billion dollars; I could not confirm the final amount. For banks, the point is a huge fee pool in Hong Kong, but weaker aftermarket performance can slow it.
+
+In India, Tonbo Imaging, a defence electronics maker, closes its offer today. It was subscribed about seven point eight times by the end of day two, and is due to list on the twenty-third. Then comes the big one: Jio Platforms opens on the twenty-first and closes on the twenty-third, with a price band of one thousand and sixty-five to one thousand one hundred and nineteen rupees per share.
+
+On to the week ahead. Tuesday the twentieth, the French Assembly votes on the budget. Wednesday the twenty-first, the Jio I P O opens. The twenty-third, Tonbo lists and Jio closes. Wednesday the twenty-eighth, B N P Paribas and Santander report. The twenty-seventh brings the second French budget vote. Commerzbank reports on the fifth of November, and M U F G on the thirteenth.
+
+The key date is Tuesday, the French budget vote.
+
+Now, the review of your themes in the press.
+
+A note first. I normally review the Financial Times here, but its pages could not be opened by my tools this morning, so I cannot honestly tell you what it ran. Instead, here are five stories on the same themes, from other outlets, and not from the F T.
+
+One, French debt. Commentators this weekend argue that the budget has no majority and that the O A T spread is keeping score. The relevant point for credit: French covered bonds and senior debt trade with the sovereign.
+
+Two, the European bank M&A map. After the E C B decision, attention turns to whether Commerzbank holders sell, and whether Italian and German governments stay relaxed.
+
+Three, private credit and A I. CoreWeave's bond slump is the first real test of how private credit and bank lines price data-centre debt. Watch the sell-down of the Oracle-linked construction loan.
+
+Four, capital rules. The E C B is defending resilience while Brussels debates simplification, including how M R E L and T L A C fit together. The Basel three point one outcome in the United Kingdom is meant to be neutral, which supports the sterling bank credit story into twenty twenty-seven.
+
+Five, commercial property and Pfandbriefe. I found no new dated item over the weekend, so I will not invent one. The French spread and higher long yields are the real pressure points for covered bond spreads. A ten-year Treasury above five percent is also hard for office valuations.
+
+I will try again to reach the F T tomorrow.
+
+Cross-asset wrap.
+
+Rates. The United States ten-year yield closed Friday at five point one percent, down about fifteen basis points on the week, its biggest weekly fall since February. The two-year was about four point seven three. In Europe, the ten-year Bund was about three point four two, the two-year three, and the thirty-year three point seven nine. The gilt ten-year was around five point four. So what: a curve this high hurts bond portfolios and commercial property, but supports net interest income.
+
+Credit. I could not verify iTraxx or C D X levels this morning, so I will give direction only. Stress is in A I and data-centre names, not yet in bank senior paper.
+
+Oil. Brent settled at about one hundred and ten dollars, up three and a half percent on Friday and the highest since May, with Iran reportedly stepping up attacks on ships in the Strait of Hormuz. Oil at that level feeds inflation, which is already at three point seven percent in the United States.
+
+Gold. December futures settled at four thousand one hundred and eighty-one dollars an ounce, up point three percent.
+
+Equities. S and P down one point one, Nasdaq down two point one, Dow down point three. Bank index in Europe up point eight on Friday.
+
+Here is my view, and it is only a view. The standout move is oil at one hundred and ten dollars, combined with a ten-year Treasury at five percent. The market is weighing an energy shock, sticky inflation and an A I capital cycle all at once. Banks come out looking like the safe part of the credit system, for now. But their risk is not in their own capital. It is in what they have underwritten and not yet sold.
+
+Market anecdotes.
+
+First, record funding. Banks have, by one report, been issuing dollar investment-grade bonds at a record pace this October, to top up for regulatory capital and to get ahead of volatility.
+
+Second, the Anthropic chip-leasing vehicle. In the second quarter, Apollo and Blackstone led a thirty-five billion dollar vehicle that buys chips and leases them to the A I lab Anthropic. U B S called it the largest private credit deal on record.
+
+Third, a governance twist. S E B received its capital hit just after its chief executive left abruptly.
+
+This day in market history.
+
+Today is the nineteenth of October. On this day in nineteen eighty-seven, Black Monday, the Dow Jones fell five hundred and eight points, twenty-two point six percent, to one thousand seven hundred and thirty-eight point seven four. It remains the largest one-day percentage fall on record. The S and P five hundred fell around twenty point five percent.
+
+The backdrop will sound familiar. Stocks had risen about forty-four percent in seven months. There was tension in the Persian Gulf, fear of higher interest rates and a long bull market. And a new mechanical force, portfolio insurance, forced sellers into a falling market.
+
+The lesson for today is that leverage and automatic selling turn a correction into a gap. Exchanges introduced circuit breakers afterwards. And the Gulf and high rates are with us again, thirty-nine years later.
+
+That is the Bank Credit Briefing for the nineteenth of October. This was prepared early in the morning, so please check your terminal for late news. Thank you for listening.
