@@ -1,0 +1,149 @@
+Good morning, and welcome to the Bank Credit Briefing for Tuesday, the twentieth of October, twenty twenty-six.
+
+This is your credit-focused read of banks in Europe, the United States and Asia, with the I P O watch and the cross-asset wrap.
+
+Here are the headlines.
+
+First: French sovereign stress keeps weighing on European bank credit. The ten-year spread of French government bonds over Bunds sits near one hundred and forty-two basis points, and European banks were the weakest sector in the market on Monday.
+
+Second: in Sweden and Finland, the capital story is about models, not markets. The Swedish regulator, F I, has imposed a temporary capital add-on on S E B, and Nordea has paused its buyback while the E C B reviews its corporate risk models.
+
+Third: Uni Credit has won E C B approval to go above thirty percent in Commerzbank, and says it expects to control the German bank by the end of the year.
+
+After that: the bank results that still matter from last week, the Asia overnight session, the I P O watch with a debut in Seoul, a record listing in Manila and the giant Jio Platforms offer opening tomorrow, the calendar, a short review segment, the cross-asset wrap, some market anecdotes, and this day in market history.
+
+Let me start with France, because it is the thread that runs through almost everything else.
+
+The ten-year French spread over Germany is around one hundred and forty-two basis points. One tracker has the French ten-year yield at about four point eight five percent, against about three point four three percent for the Bund. Reuters data, carried by MarketScreener, put the spread at a two-week high of one hundred and forty-five basis points at one point on Monday.
+
+The trigger is the budget. The government plan cuts the deficit from five point four percent of output this year to five point zero percent in twenty twenty-seven. The market does not believe the budget has a majority, and it is pricing that doubt into the spread. There is also street protest over the cost of living and public services, which adds to the political risk premium.
+
+For banks, this matters through three channels. The first is the direct holding of sovereign bonds. Sovereign exposures were roughly thirteen percent of European bank assets at the end of twenty twenty-five, according to the coverage I have seen. The second is the funding channel, because French bank senior and subordinated spreads trade as a function of the sovereign. The third is the equity and capital channel, because lower share prices make any issuance of loss-absorbing paper harder to explain.
+
+The numbers on the equity side are stark. The Euro Stoxx Banks index entered a correction earlier this month, roughly eight percent down at the time, and about eleven percent below its fourteenth of August peak in one report. Societe Generale is down about twenty-five percent from its August high. Credit Agricole and Deutsche Bank have each fallen more than fifteen percent from their recent highs.
+
+
+
+Regulators argue that higher net interest income is, for now, offsetting bond losses, so this is a spread story, not a solvency story.
+
+The date to circle is this Friday, the twenty-third. Moody's is scheduled to review France, currently rated double-A three with a negative outlook, according to a French consumer-finance article. That date comes from a single source, so treat it as likely rather than certain. S and P follows on the twenty-seventh of November, at single-A plus with a stable outlook. A downgrade by Moody's would not be a surprise to the market, but a move to the lower rungs would affect the eligibility of French collateral and the rating ceilings that agencies apply to French banks.
+
+Now to the Nordics, where two stories sit side by side.
+
+Story one is S E B. Last Wednesday, the fourteenth, F I announced that S E B will temporarily face a higher capital requirement because of deficiencies in its internal credit risk models for corporate and other non-household lending. F I's review this year found the shortcomings to be more extensive than the ones it identified in twenty twenty-three.
+
+The size, as reported: roughly ten billion Swedish kronor of extra core equity tier one requirement, with risk-weighted assets rising by about one hundred and fifty billion kronor from the end of this year. That is a hit of roughly one hundred and twenty basis points to the capital buffer. One summary I saw put the increase in the capital base at about twenty billion kronor by year end, but that appears to mix in the older twenty twenty-three add-on, so I would use the ten billion figure until the regulator's own release is checked line by line.
+
+The add-on stays in place until F I approves updated models. S E B says it expects to start submitting its applications for the internal ratings approach in the third quarter of twenty twenty-seven at the latest. So, this is a long-dated drag on distributable capital, not a one-quarter event.
+
+S E B reports its third-quarter numbers this Thursday, the twenty-second, at about half past six in the morning Central European time. The pre-close call pointed to net interest income down roughly fifty million kronor on the quarter, financial income at the low end of its two-billion range, and stable, robust credit quality. The question for Thursday is not earnings. It is what management says about the buffer over its requirement, the pace of buybacks, and how it will manage the extra risk-weighted assets.
+
+Story two is Nordea, which reported last Thursday, the fifteenth. Operating profit fell four percent to about one and a half billion euros, and net profit was one thousand one hundred and eighty-one million euros. Return on equity was fifteen point one percent. Net fees rose nine percent, and assets under management hit a record of five hundred and nine billion euros.
+
+Loan losses were seventy-four million euros, or seven basis points, against a small net gain a year ago. Management kept its twenty twenty-six targets: return on equity above fifteen percent, and a cost-to-income ratio between forty-four and forty-five percent.
+
+The headline, though, was the pause in share buybacks while the E C B finishes a review of Nordea's corporate risk models. The shares fell about five percent. Same theme as S E B, a different supervisor: when the model approval is in question, the buyback is the first thing to give.
+
+The credit take is simple. Both banks are very strongly capitalised and highly profitable. Senior and subordinated creditors are not in any danger. But for equity holders and for those pricing additional tier one, the signal is that Nordic supervisors are tightening on internal models. The read-across is to Swedbank, which reports on Thursday as well, to Danske, to Handelsbanken and to D N B, all of which carry large corporate books under internal models.
+
+Now to Germany and Italy.
+
+Uni Credit won E C B approval last Thursday to build its stake in Commerzbank beyond thirty percent. After a hostile offer completed in July, Uni Credit holds about forty-eight percent. It says it expects to take control by the end of the year, with around fifty percent of voting rights, subject to remaining regulatory conditions. The German government has been clear that it opposes the deal.
+
+For credit, the questions are about ownership and funding. Would a controlled Commerzbank still issue on its own name? How would the two groups treat internal capital and resolution planning? And what happens to the rating agencies' view of a subsidiary of a different jurisdiction? In the near term, expect rating agencies to comment, and expect Commerzbank bond spreads to track the Uni Credit parent more than the German sovereign.
+
+More broadly, the E C B is leaning in to cross-border consolidation. Its vice president, Boris Vujcic, argued recently that Europe's gap with the United States is about capital markets rather than bank capital, since median tier one capital has more than doubled since two thousand nine to above sixteen percent. Finance ministers discussed a Commission report in September that called for less political interference in bank mergers. Scope Ratings has argued that domestic deals offer larger synergies than cross-border ones, which matters if you are weighing which mergers genuinely improve credit quality.
+
+And one data point from the other direction. Santander agreed in February to buy Webster Financial in the United States for twelve point two billion dollars, aiming for an eighteen percent return on tangible equity there by twenty twenty-eight. Europe's banks are buying growth abroad as well as consolidating at home.
+
+Now, the banks reporting today.
+
+I looked for watchlist banks reporting on Tuesday the twentieth and did not find any with confirmed results. The big wave from the United States and the Nordics came last week, and the next European cluster arrives on Thursday. So, today is a day for digesting what we have, and I will go through the American numbers in the round-up. If a result lands later this morning, check your terminal.
+
+Next, the supervisors and regulators.
+
+Two actions matter this week, and both are about internal models. The F I add-on on S E B is the larger one, at roughly one hundred and twenty basis points of buffer. The E C B review of Nordea's corporate models has stopped Nordea's buyback. In Basel Three and C R R three terms, the supervisory message is that model risk is being priced through Pillar Two add-ons and through slower distributions, ahead of the output floor phasing in. For subordinated and additional tier one holders, the lever to watch is the distance to the maximum distributable amount trigger. For senior investors, the lever is the minimum requirement for own funds and eligible liabilities. Neither bank is close to a trigger, but the direction of travel is clear.
+
+Now the Europe round-up.
+
+On Monday, banks were the weakest sector in Europe, down one point four percent, Reuters reported. The C A C forty fell about one point two percent in early trade and lagged the Dax. The German market did better, which tells you the sell-off is French-specific rather than European.
+
+On M and A, I would watch the Germany-Italy axis, where Uni Credit and Commerzbank is the live case, and the question of whether other cross-border deals follow the E C B's encouragement.
+
+On private credit and the financing of the A I build-out: private credit funds now hold an estimated one hundred and thirty-five billion dollars of outstanding data centre debt, up from about forty billion in twenty twenty-three, according to a September analysis from Datacentres dot com. At the same time, banks remain at the table. A thirteen-bank group, with B N P Paribas, Credit Agricole, Societe Generale and Standard Chartered as coordinators, arranged about two point four five billion pounds for Virtus Data Centres at the end of September. The credit angle is the one I have raised before: banks are arrangers and warehouse lenders, while the long-term risk is migrating to non-bank holders. That is good for bank capital but changes where the next stress will show up.
+
+Now to the United States.
+
+The big banks reported last week, and the result was mixed. On Tuesday the thirteenth, J P Morgan earned five dollars and fifty-seven cents a share, against a consensus around five ninety, and its revenue of about fifty point two billion dollars also fell short. Goldman Sachs earned seventeen dollars and one cent, far ahead of about thirteen fifty expected. Citigroup beat, at two dollars and eighty-five cents. Wells Fargo narrowly beat on earnings per share, but its revenue and net interest income missed.
+
+Bank of America reported on Wednesday, and Morgan Stanley the same day. Morgan Stanley earned three dollars and three cents a share on revenue of twenty point three billion dollars, with a return on tangible equity of twenty-two point six percent. Wealth management revenue was a record nine point one billion dollars, with two hundred and thirty-two billion dollars of net new assets. Equities revenue jumped forty-one percent to five point eight billion dollars, while fixed income fell seven percent to about two billion dollars. The shares fell about three percent.
+
+U S Bancorp followed on Thursday with earnings of one dollar thirty-four a share, up ten percent, and record revenue of seven point nine seven billion dollars. M and T Bank reported net income of seven hundred and seventy-five million dollars, with net interest margin easing to three point six five percent and the efficiency ratio rising to fifty-four point four percent.
+
+The credit read-across: the profit pool has shifted toward equities and wealth, while fixed income trading and net interest income are softer. Credit quality at the regional end looks stable. With the ten-year Treasury yield above five percent, the swing factor for American banks is not provisions but unrealised losses and deposit costs.
+
+Now to Asia.
+
+Hong Kong was closed on Monday for the Chung Yeung holiday, so the Hang Seng stood at Friday's close of twenty-four thousand one hundred and eighty-seven as the market reopened this morning. In Tokyo, the Nikkei fell zero point six two percent to about sixty-four thousand nine hundred and eighteen, after plunging by more than fourteen hundred points intraday, as Friday's semiconductor sell-off in the United States carried over. Shanghai rose zero point three nine percent, and India's Sensex fell one point one seven percent.
+
+In China, the People's Bank kept its loan prime rates unchanged this morning for the seventeenth month in a row: three percent for the one-year, three point five percent for the five-year. Margins for Chinese banks therefore stay under the same pressure, with no relief from lending-rate cuts.
+
+I did not find any bank-specific Asian results or supervisory actions in the window. The point that matters for the Japanese megabanks is the rising correlation between the A I equity sell-off and their data centre lending, and a weak yen against the dollar. For the Korean market, the Elice debut is the sign to watch. More on that in a moment.
+
+Time for the I P O watch.
+
+In the United States, I found no sizeable I P O pricing in the window. The only deal I could confirm is a hundred-million-dollar blank-cheque company, T C G X Acquisition Corporation Two, which priced on Thursday the fifteenth. Analysts have linked the quarter to I P O uncertainty, so the pipeline is the story rather than the pricings.
+
+In Asia, three deals matter.
+
+Start with Seoul. Elice Group, a Korean company building artificial-intelligence data centres, priced its Kosdaq offering at ninety thousand five hundred won, the top of its range. It sold about two point two million new shares and raised about two hundred and one billion won, roughly one hundred and fifty million dollars. Institutional demand was almost three hundred and eighty-nine times covered. Mirae Asset Securities is the lead manager and Samsung Securities the joint lead. At pricing, the market value was just above one trillion won.
+
+It debuted this morning. According to one report, the shares fell as much as thirty-two percent to sixty-one thousand four hundred won in early trading. I could only find this in a secondary source, so treat the level as indicative. The lesson is plain: an order book that is three hundred and eighty-nine times covered is not a guarantee, and the market is questioning data centre valuations after the weak equity week.
+
+Next, Manila. Mynt, the parent of the GCash mobile wallet, listed on the Philippine Stock Exchange today. It priced at six pesos sixty centavos a share, below the earlier expectation of seven to ten pesos. It sold about nine point two three billion shares, including the over-allotment, and raised sixty point nine billion pesos, a record for the Philippines. FinTech Futures, citing the Wall Street Journal, puts the valuation at about seven billion dollars at that price. I do not yet have first-day trading data. The point for banks: a mobile wallet at that scale is a funding and deposit competitor in a market where bank branches are thin.
+
+Finally, India. Jio Platforms opens its offer tomorrow, the twenty-first, for three days. The price band is one thousand and sixty-five to one thousand one hundred and nineteen rupees. The deal values the company at about ten point three trillion rupees, roughly one hundred and six billion dollars, and raises about thirty thousand two hundred crore rupees, around three point one billion dollars, for just under three percent of the company. Trading is expected to begin on the twenty-eighth. One report names nineteen banks on the deal, including Kotak, Morgan Stanley, Bank of America, Axis, B N P Paribas and Citi. That is a very large fee pool, and the early-October reports put the valuation well below the one hundred and seventy to one hundred and eighty billion dollars that bankers talked about last year. I would check the final offer documents for the lead-manager list.
+
+Now, looking ahead.
+
+Tomorrow, the twenty-first: the Jio Platforms offer opens in Mumbai.
+
+On Thursday the twenty-second: S E B reports at about half past six Central European time, with a call at a quarter past eight. Swedbank reports the same day.
+
+On Friday the twenty-third: Moody's scheduled review of France, rated double-A three with a negative outlook.
+
+Next week: the Federal Reserve meets, with markets expecting no change. Jio Platforms is expected to start trading on Wednesday the twenty-eighth. And on the twenty-seventh of November, S and P reviews France.
+
+Now, a short review segment of the financial press, which I will keep brief and honest.
+
+I had planned a review of the stories the Financial Times is running on European banks, capital, bank mergers, credit markets, commercial property, private credit and French debt. My research tools cannot open or search the F T this morning, so I cannot responsibly summarise what it is running. Rather than guess, I will not. What I can say is that the themes you follow there are the same ones I have covered from other sources today: the E C B push for cross-border bank mergers, Uni Credit and Commerzbank, French debt and the budget, and private credit in data centre finance. Check the F T front page for the detail, and I will try the F T again tomorrow.
+
+Now the cross-asset wrap, using Monday's closes.
+
+Equities first. In New York, the Nasdaq rose one point one percent to about twenty-six thousand four hundred and thirty, the S and P five hundred rose zero point four one percent to about seven thousand six hundred and ninety, and the Dow slipped a fraction. That was a rebound after the S and P's largest weekly drop since late June. So what for banks: a tech rebound helps trading and underwriting sentiment, but it does not fix the I P O tone.
+
+Rates. Sources differ on the ten-year Treasury yield: roughly five point one percent, either a few basis points higher or lower on the day. Whatever the exact close, it is above five percent. In Europe, the French spread near one hundred and forty-two basis points, as I covered. So what for banks: higher yields raise net interest income but also mark-to-market losses and credit stress in commercial property.
+
+Oil and gold. West Texas crude settled up about two percent at one hundred and three dollars sixty-six a barrel, and Brent was little changed at about one hundred and nine fifty-five, on reports of Houthi attacks on Saudi facilities. Gold slipped half a percent to about four thousand one hundred and sixty dollars an ounce. So what for banks: oil above one hundred dollars feeds inflation, which keeps central banks cautious on cuts and keeps yields high.
+
+Foreign exchange. The dollar index rose, the euro slipped toward one dollar twelve cents, and the yen was the weakest major currency. So what for banks: a weak yen supports Japanese megabank earnings from abroad, but raises the intervention risk.
+
+Credit. I do not have verified index levels for iTraxx or C D X from yesterday, so I will give direction only: bank spreads in Europe widened with the French sovereign.
+
+Here is my view, labelled as such. The day ties together as a story about the price of duration and the price of politics. The risk-free curve is high, oil is high, and the French premium is rising. In that setting, banks with thick capital and strong earnings, such as the Nordics, are being slowed by supervisors, not by markets. Banks in France are being repriced by the market, not by supervisors. For credit holders, the second is the one to hedge.
+
+Now, a few market anecdotes.
+
+First, the Elice debut. An order book almost three hundred and ninety times covered, a price at the top of the range, and then a drop of as much as a third in early trading. In the same week, Mynt priced below the range that was talked about earlier. Two Asian deals, two different lessons about price discipline.
+
+Second, Hong Kong. The exchange was closed on Monday for the Chung Yeung festival, so the Hang Seng index spent the day, in effect, frozen at Friday's close while the Nikkei swung by more than fourteen hundred points. Closed markets do not stop risk, they just delay when it gets priced.
+
+Third, Jio. The offer is for roughly three percent of the company, yet it is about three billion dollars, because the whole company is valued at over one hundred billion. A small sliver of a very large thing is the largest listing India has seen.
+
+Finally, this day in market history.
+
+On the twentieth of October, nineteen eighty-seven, the day after Black Monday in New York, panic hit London. The F T S E one hundred fell more than twelve percent, its worst single-day drop on record according to Morningstar. Hong Kong had already decided to close its exchange, and kept it closed for several days.
+
+The lesson for today is about closed markets and funding. In nineteen eighty-seven, the shock moved around the world faster than anyone could price, and the policy answer was liquidity from central banks. Today, there are Gulf tensions, high interest rates, and a sell-off in technology shares, as there was then. French bond spreads are not a crash. But the pattern is familiar: markets can look calm until a fiscal or political date forces a price, and Friday has one.
+
+That is the Bank Credit Briefing for the twentieth of October. This was prepared early in the morning, so please check your terminal for late news. Thank you for listening.
