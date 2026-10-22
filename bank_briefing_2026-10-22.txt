@@ -1,0 +1,153 @@
+Good morning, and welcome to the Bank Credit Briefing for Thursday, the twenty-second of October, twenty twenty-six.
+
+Your credit-focused read of banks in Europe, the United States and Asia, with the I P O watch and the cross-asset wrap.
+
+Here are the headlines.
+
+First: the French ten-year yield touched five percent yesterday, for the first time since two thousand and two. The spread to Bunds reached about one hundred and fifty-seven basis points, and Moody's reviews France tomorrow.
+
+Second: Barclays reports this morning, with the Bank of England's scrutiny of its private credit swaps hanging over the numbers. Swedbank and S E B report too, and S E B comes with a fresh capital add-on from the Swedish regulator.
+
+Third: Asia sold off hard overnight. Hong Kong fell about two and a half percent and Korea more than two percent, as Brent oil pushed back toward one hundred and ten dollars.
+
+After that: UniCredit and Commerzbank, the United States, the I P O watch, a review of what the Financial Times is running, the cross-asset wrap, some market anecdotes, and this day in market history.
+
+Let me start with France, because it still runs through almost everything else.
+
+The ten-year French government bond briefly traded at five point zero zero two percent during the European session on Wednesday. It is the first time above five percent since two thousand and two. One tracker had the close at four point nine nine percent, against about three point four one percent for the ten-year Bund.
+
+The spread to Bunds reached about one hundred and fifty-seven basis points, according to Reuters and I N G. That is close to the one hundred and fifty-nine basis point high of the second of October, and it is a level last seen in the euro crisis years. Sources differ by a few basis points depending on the time of day.
+
+The driver is domestic. The government has a minority in parliament, and the twenty twenty-seven budget is in dispute. Press reports put the planned spending cuts anywhere between forty-three and fifty-four billion euros, and sources conflict on which is right. Street unrest over the weekend added to the premium.
+
+Note one thing, though. Bund yields were broadly steady while French yields rose. So this is a France story, not only a global rates story.
+
+The date that matters is tomorrow, Friday the twenty-third. Moody's is scheduled to review France, currently rated double-A three with a negative outlook. Most economists, according to press reports, expect a downgrade. That is a forecast, not a decision.
+
+For banks, the precedent is December twenty twenty-four. After Moody's cut the sovereign, it downgraded seven French banks, including BNP Paribas and Credit Agricole. So a downgrade tomorrow would put the French bank ratings back on the table.
+
+The mechanics are familiar. Agencies tend to cap bank ratings at or near the sovereign. French lenders hold a lot of domestic government paper. And the senior and subordinated spreads of the French banks trade as a function of the sovereign.
+
+The market has priced much of this already. The Euro Stoxx Banks index fell about eight percent in the first ten days of October, entering a technical correction and reaching its lowest level since June. It recovered about one point four percent on Wednesday, to about two hundred and eighty-eight, but it is still down almost nine percent over the month.
+
+My read for credit: a one-notch downgrade is probably in the price. The risk is the combination: a downgrade, a failed budget vote, and a spread that keeps moving several basis points a day. Watch the French bank senior non-preferred and Tier two spreads against the sovereign tomorrow, not the headline.
+
+Now to the banks reporting today. Barclays first.
+
+Barclays publishes its third-quarter results this morning, ahead of the London open. A preview put consensus profit before tax at about two point four billion pounds, against two point one billion a year ago. At the half-year, the core equity tier one ratio was fourteen point three percent, at the top of the bank's thirteen to fourteen percent target range.
+
+What matters more than the headline is the private credit question. On Monday the Financial Times reported that the Bank of England's Prudential Regulation Authority is looking at how Barclays classifies total return swaps that reference illiquid private credit loans.
+
+The issue is trading book versus banking book. Banking book assets generally attract higher capital. Barclays says its private credit book is about fifteen billion pounds, that the vast majority sits in the banking book, and that the conditions for trading book treatment were met. The shares fell about two point six percent on the news.
+
+For credit investors, listen for three things on the call: the size of the trading book swaps, whether management sees any capital impact, and whether the buyback is touched. Nothing has been announced by the regulator, and the allegations are unproven.
+
+Next, the Nordics, where supervisors are tightening on models.
+
+S E B reports today, nine days after the Swedish regulator, F I, imposed a temporary add-on on the bank on the fourteenth of October. F I found more extensive deficiencies in S E B's internal credit risk models than previously known.
+
+The add-on is about ten billion Swedish kronor of extra core equity tier one, on top of a separate ten billion kronor add-on in place since twenty twenty-three. It lasts until F I signs off on the updated models. S E B expects to start submitting model applications in the third quarter of twenty twenty-seven at the latest.
+
+The wider effect, based on the figures we have been tracking, is risk-weighted assets rising by about one hundred and fifty billion kronor from the end of this year, and about one hundred and twenty basis points off the capital buffer. The shares fell about five percent on the day, to around two hundred and nineteen kronor.
+
+The question for this morning is distributions. How much of the management buffer does the add-on consume, and does S E B keep its buyback pace? That is the same question Nordea answered last Thursday.
+
+Nordea reported on the fifteenth. Operating profit fell four percent to one point five four billion euros, return on equity was fifteen point one percent, and loan losses were just seven basis points. But it paused share buybacks, tied to a pending European Central Bank review of its corporate risk models. The shares fell. A solid quarter, and a cautious signal.
+
+Handelsbanken reported yesterday. Operating profit rose about ten percent from the second quarter, to about seven point four billion kronor. Return on equity was thirteen point five percent. Net credit losses were five million kronor, effectively zero. Fee income hit a record.
+
+The shares nonetheless fell about four percent, as investors focused on margin pressure and slower loan growth. At the half-year, its core equity tier one ratio was seventeen point two percent, two and a half points above the requirement.
+
+Swedbank also reports today. The consensus is for operating profit of about ten point four billion kronor and net credit reversals of around one hundred and twenty-six million kronor. Swedbank has not been named in the F I add-on we have seen, but the model theme runs through the whole region.
+
+The Nordic read-across: strong earnings, tiny losses, and supervisors using model add-ons to slow distributions. For senior and subordinated holders that is positive for the loss-absorbing layers, because capital is retained. For equity holders, it is a headwind.
+
+Now to Italy and Germany, where UniCredit and Commerzbank are moving toward the next step.
+
+On the fifteenth of October, the European Central Bank approved UniCredit increasing its stake in Commerzbank above thirty percent. UniCredit says the remaining approvals and conditions should be finalised by the end of the year. At that point it would hold around half of the voting rights and could take control.
+
+Yesterday, one report said Brussels opened a ten-day comment phase on the deal, with a provisional European Commission decision deadline of the sixteenth of November. Also yesterday, the German regulator BaFin fined Nomura three hundred and twenty thousand euros for late voting rights notifications. That is a fine about disclosure, not about the share purchases themselves.
+
+For credit, three points. Commerzbank's senior and Tier two bonds would sit under a much stronger parent, which is positive, although the change of control terms matter for each instrument. The German government is still pressing for conditions. And one undated report says UniCredit's chief wants control as early as early twenty twenty-seven. Treat that as unconfirmed.
+
+Also in Italy, a reminder of how fast consolidation is moving. A year-end overview counts about thirty billion euros of Italian bank deals, led by Monte dei Paschi's sixteen and a half billion euro purchase of Mediobanca. UniCredit's offer for Banco BPM failed after the Italian government attached conditions under its golden power. The lesson is that politics, not price, decides European bank M and A.
+
+Now to the United States.
+
+The big-bank reporting season is behind us. J P Morgan, Wells Fargo, Goldman Sachs and Citigroup reported on the thirteenth, with J P Morgan posting a rare miss. Bank of America followed on the fourteenth and U S Bancorp on the fifteenth. This week it is the regional lenders: Cathay General reported net income of ninety-five point two million dollars, or one dollar forty-three a share, and WesBanco, C N B Financial, First Bancorp and Horizon Bancorp all reported.
+
+On the markets, Wall Street closed higher on Wednesday. The S and P five hundred rose zero point five eight percent to seven thousand seven hundred and fifty-seven. The Nasdaq gained one point oh five percent, and the Dow gained zero point six nine percent.
+
+The ten-year Treasury yield stayed around five point one three percent, and the thirty-year around five point four one. The Federal Reserve meets on the twenty-eighth of October.
+
+The credit story in the United States is the financing of artificial intelligence. A group led by J P Morgan and M U F G has reportedly spent more than six months trying to place a thirty-eight billion dollar construction loan for Oracle-linked data centres in Texas and Wisconsin. It is split into twenty-three point two five billion dollars for Texas and fourteen point seven five billion for Wisconsin. Some slices are reportedly being sold to non-bank buyers at a discount. The reports are secondary and the dating is inconsistent, so treat them as colour.
+
+The stress is clearer at CoreWeave. Its bonds fell to distressed levels in mid-October, with the cost of default protection around twelve hundred basis points. Its twenty thirty-two bonds reportedly traded at a record yield of about fourteen and a half percent. It carries about fifty billion dollars of debt.
+
+For banks, the point is the transmission. Chicago Fed work from February found direct exposure to AI-related industries of about zero point eight percent of assets, but the indirect exposure, through loans to non-bank lenders, is harder to measure. That is where I would look for surprises.
+
+Now to Asia, where Wednesday's close turned into a rough overnight session.
+
+The Hang Seng fell about two and a half percent, reports vary between two point five and two point seven. The Nikkei fell about one percent. The Shanghai Composite dropped about one percent, extending a ten-week decline. South Korea's Kospi fell two point two seven percent.
+
+Reports linked the weakness to the jump in crude oil and to renewed worries about artificial intelligence spending. Brent surged past one hundred and ten dollars after fresh attacks on commercial ships near the Strait of Hormuz.
+
+For Japanese banks, the two things to watch are rates and AI lending. The ten-year Japanese government bond yield is around two point eight seven percent. M U F G and S M B C have reportedly begun scaling back from the anchor role in AI mega-projects, such as the ones for CoreWeave and Stargate, as terms tighten. At the same time, they said earlier this year that they would rebuild their government bond holdings. M U F G's holdings fell to fourteen point five six trillion yen at the end of last year, from twenty-five trillion in March twenty twenty-four.
+
+Dollar-yen is around one hundred and fifty-eight, with the yen firmer on comments from a Bank of Japan deputy governor. China held its policy rates this week. I did not find any bank-specific results or regulatory actions in Asia in the window, so the point for Asian banks is the move in oil and bond yields.
+
+Now for the I P O watch, Asia and the United States.
+
+In India, H D Fire Protect listed yesterday. The fire-protection equipment maker sold shares at two hundred and seventy-one rupees and opened on the National Stock Exchange at three hundred and thirty-five, a premium of about twenty-three point six percent. On the Bombay exchange it closed at three hundred and thirty-four rupees forty, up about twenty-three point four percent. The offer raised seven hundred and twelve crore rupees, all of it an offer for sale, so the company itself received nothing.
+
+The big one is Jio Platforms, the Reliance telecom and digital arm. The offer opened yesterday and closes tomorrow, the twenty-third. The price band is one thousand and sixty-five to one thousand one hundred and nineteen rupees. At the top of the band, the fresh issue of up to twenty-seven crore shares would raise about thirty thousand two hundred crore rupees. Estimates of the equity valuation range from nine point eight to ten point three lakh crore rupees. One report says the book already has more than twenty billion dollars of bids, but I could not confirm it. Listing is scheduled for the twenty-eighth.
+
+In Hong Kong, two deals are in the market. Dongshan Precision, a printed circuit board maker, launched on Tuesday to raise up to about ten and a half billion Hong Kong dollars, selling one hundred and thirteen point eight million H shares at up to ninety-three dollars eighty. Cornerstones, including Alibaba, cover roughly half. Trading is expected on the twenty-eighth. Changzhou Microintelligence, an industrial robot maker, is seeking up to about eight hundred million Hong Kong dollars, with trading on the twenty-seventh. Hong Kong has raised about forty-seven billion dollars across one hundred and sixteen listings in the first nine months.
+
+In the United States, the pipeline is thin. Last week Iambic Therapeutics priced at the midpoint to raise one hundred and fifty million dollars at an eight hundred and nine million dollar market cap, and City Therapeutics priced an upsized deal at eighteen dollars. This week's calendar lists Lycia Therapeutics, seeking two hundred and fifty million dollars at sixteen to eighteen dollars, with Jefferies and T D Securities. I could not confirm that it has priced.
+
+Why it matters for banks: Jio and Dongshan are fee pools for the Indian and Hong Kong investment banking teams, while the quiet United States calendar shows how little risk appetite there is right now.
+
+Now for the review of what the Financial Times is running.
+
+A caveat first. My tools could not open the Financial Times site this morning, and its pages are behind the paywall in any case. So this review is built only from other outlets reporting FT stories, and it is shorter than usual. I will not pretend to have read what I have not.
+
+One. On Monday the FT reported that the Prudential Regulation Authority is looking at how Barclays booked total return swaps tied to private credit. We have covered it, so one line: it is the first time this autumn that private credit is a capital-treatment story for a London bank.
+
+Two. On Wednesday the FT reported that Israel's prime minister ordered the military to prepare a renewed attack on Iran in early October, and that President Trump opposed restarting the war before the American midterms. Why it matters: oil is above one hundred and ten dollars, and the oil price is feeding inflation fears and the global bond selloff behind the pressure on European bank shares.
+
+Three. The FT has also reported that the average time to complete a bank deal fell to about four months in twenty twenty-five, the shortest since at least nineteen ninety. That comes from an April summary, so it is old, but it matters for UniCredit and Commerzbank: approvals are quick, and politics is the real brake.
+
+Four. Earlier this year the FT reported on the effort to place the thirty-eight billion dollar data-centre loan, including discounted sales and talks on significant risk transfer for the riskiest slices. Secondary sources only, so verify before relying on it.
+
+I found no FT stories in the window on Pfandbriefe, commercial property, or Solvency Two that I could verify.
+
+Now to the cross-asset wrap, last close plus the Asian session.
+
+Rates. The American ten-year yield is about five point one three percent, the thirty-year about five point four one. French ten-year at four point nine nine percent, the Bund about three point four one, and the spread about one hundred and fifty-seven basis points. The Japanese ten-year is near two point eight seven. In Britain, September public borrowing was twenty-four point five billion pounds, one point nine billion above the forecast of the Office for Budget Responsibility. I did not find a reliable gilt yield. So what for banks: high yields help margins, but they hurt bond portfolios and the borrowers.
+
+Credit. I could not verify iTraxx levels this morning, so I give direction only. The stress is visible in single names, with CoreWeave default protection around twelve hundred basis points. So what for banks: the credit market is separating AI borrowers from the rest.
+
+Currencies. Euro-dollar is around one point one two two, dollar-yen around one hundred and fifty-eight. Commodities. Brent was reported at about one hundred and ten dollars, though one source had a lower intraday range near one hundred and two. Gold was around four thousand one hundred and thirty-four dollars an ounce.
+
+Equities. The S and P five hundred closed at seven thousand seven hundred and fifty-seven, while Asia sold off and European banks are in a correction. So what: the United States is carrying the AI trade, while Europe and Asia carry the oil and bond-yield shock.
+
+The standout move is the French ten-year at five percent. My view, labelled as a view: the common thread is a repricing of the term premium. Oil, deficits and AI capital spending all demand financing at the same time. France is the weakest link in Europe, and the first to show it. The test for banks comes tomorrow, in the Moody's decision.
+
+Now for some market anecdotes.
+
+First. SpaceX shares rose about seven point eight percent on Wednesday after better-than-expected revenue and earnings, and after Elon Musk said a merger with Tesla would be a good idea. The source page carried an old timestamp, so treat the number with care.
+
+Second. CoreWeave's twenty thirty-two bonds reportedly changed hands at a yield of about fourteen and a half percent, a record for the company. Not long ago, the same company was the poster child of the AI financing boom.
+
+Third. The German regulator fined Nomura only three hundred and twenty thousand euros, for late notices about voting rights in Commerzbank. Small money for a bank at the centre of a stake worth billions, and a reminder that disclosure rules are enforced even in the biggest deals.
+
+Finally, this day in market history.
+
+On the twenty-second of October nineteen oh seven, the Knickerbocker Trust Company in New York opened its doors in trouble, and depositors pulled out a large sum within hours. The trust later declared insolvency. It was the start of the Panic of nineteen oh seven, the crisis that led to the creation of the Federal Reserve.
+
+And on the same date in nineteen eighty-seven, two days after Black Monday, the F T S E one hundred fell about five point seven percent in a single session, according to a table cited by Morningstar.
+
+The link to today: nineteen oh seven was a run on a non-bank financial intermediary that many thought safe, and the trouble spread through funding. Today we have private credit funds capping redemptions and data-centre loans that bank syndicates struggle to place. Stress shows up first in funding and in credit, then in equities.
+
+That is the Bank Credit Briefing for Thursday the twenty-second of October. This is a summary of news from public sources, recorded in the early morning before Barclays, Swedbank and S E B published, so check your terminal for their numbers and for late news. Thank you for listening.
