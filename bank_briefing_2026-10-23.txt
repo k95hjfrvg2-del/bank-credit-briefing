@@ -1,0 +1,131 @@
+Good morning, and welcome to the Bank Credit Briefing for Friday, the twenty-third of October, twenty twenty-six.
+
+Your credit-focused read of banks in Europe, the United States and Asia, with the I P O watch, a review of the Financial Times, and the cross-asset wrap.
+
+Here are the headlines.
+
+First: European banks had their worst day since March. The euro zone bank index fell four point two percent on Thursday, as French yields, oil and a rout in artificial intelligence stocks hit at the same time.
+
+Second: Barclays reported a twelve percent rise in third-quarter profit and a five hundred million pound buyback. But the Bank of England's scrutiny of how it books private credit swaps is still the story for credit holders. And in Sweden, S E B and Swedbank both reported, with S E B carrying a fresh capital add-on.
+
+Third: the chip selloff that hit Wall Street on Thursday spread to Asia overnight. Korea and Japan fell hard, and the Treasury market had its biggest daily rally in more than three years.
+
+After that: UniCredit and Commerzbank, the regulators, the I P O watch, the F T review, the cross-asset wrap, some market anecdotes, and this day in market history.
+
+Let me start with the day that hit European bank equity.
+
+On Thursday the euro zone banking index dropped four point two percent. That is its weakest session since March. The broad Stoxx six hundred fell about one percent, its biggest drop in three weeks. Italy's main index lost about two and a half percent, Spain's about two percent, and the French C A C forty about one and a half percent. The London market was the calm one, with the F T S E one hundred down only about a third of a percent.
+
+Three things drove it. Brent crude hit a five-month high on Middle East tension. French bond yields kept rising, which is a double hit for banks, through sovereign portfolios and through the funding cost of the peripheral names. And the artificial intelligence trade cracked, with chip names like A S M L and Infineon down five to six percent.
+
+The worst single stock story was Spanish. Bankinter fell about seven point six percent after its third-quarter numbers showed higher deposit costs squeezing the margin. That matters beyond one bank. After two years of Spanish banks telling us the margin had bottomed, a deposit cost surprise is a reminder that funding competition has not gone away.
+
+For credit holders the read is mixed. Equity weakness of this size, with senior spreads only modestly wider, tells you the market is pricing a valuation shock, not a solvency shock. Capital ratios across the sector are high. The European Banking Authority said on the ninth of October that banks in its sample would average a core equity tier one ratio of about fifteen point one percent on the fully loaded Basel rules. But the direction of French spreads is the thing to watch, because French banks hold the largest stock of their own sovereign.
+
+Now to the one sovereign that matters most for this sector.
+
+The French ten-year yield has been hovering at or near five percent this week, the highest in about twenty-four years. Trackers had the spread over Bunds at roughly one hundred and forty-seven to one hundred and fifty basis points, the widest since the euro crisis. Moody's has France at A a three with a negative outlook, set a year ago. S and P and Fitch have both already moved France into the single-A bucket this year.
+
+A scheduled Moody's review of France falls today. I could not confirm a decision at the time of recording, so check the terminal. The market is clearly positioned for bad news, so the reaction function is asymmetric. A downgrade that is already in the price may produce a relief move. A hold with a more negative tone could hurt more than the rating action itself.
+
+For bank credit, the transmission is straightforward. A French downgrade to single-A tends to lower the ceiling on French bank ratings, since banks are rarely rated above their sovereign by much. It also raises the cost of covered bond and senior preferred funding for B N P Paribas, Credit Agricole, Societe Generale and B P C E relative to Dutch and German peers. Watch the senior non-preferred curve for French names against their Italian counterparts. Italian banks have been rerated as sovereign risk there compressed, and the inversion that investors keep pointing to, with Italian spreads tighter than French, continues to be a live theme.
+
+Now to Barclays.
+
+Barclays reported third-quarter profit before tax of two point three billion pounds, up twelve percent on last year. That was slightly under the average analyst forecast of about two point four billion. Earnings per share rose eighteen percent to twelve point three pence. Return on tangible equity was eleven point seven percent, against ten point six a year ago. The bank announced a buyback of up to five hundred million pounds. Equities trading revenue jumped forty-seven percent, which carried the quarter, while total revenue missed. The bank also said it will cut around five thousand jobs as it uses artificial intelligence to improve efficiency.
+
+The credit story sits behind the profit line. Three days ago the F T reported that the Prudential Regulation Authority is examining a whistleblower complaint about how Barclays booked total return swaps used to finance private credit loans. The allegation is that they were placed in the trading book, on the argument that they were hedged, rather than the banking book, which would require more capital. Barclays says its treatment follows accounting and capital rules, and that its private credit exposure is about fifteen billion pounds, mostly in the banking book.
+
+For senior and Tier two holders, the amount is manageable against a balance sheet this size. The risk is process and reputation: a capital reclassification, a Pillar two add-on, or a pause in the distribution plan. A five hundred million pound buyback announced with the PRA looking on suggests management is not expecting a large capital hit, but that is an inference, not a disclosure. I would watch for any comment on the supervisory process at the full-year results.
+
+Now to the Nordics, where the regulator story is the main one.
+
+S E B reported an operating profit of nine point four billion Swedish kronor, a return on equity of thirteen percent, and a core equity tier one ratio of seventeen point one percent. That gives a capital buffer of two hundred and fifty basis points. The shares fell, because management set out the effect of the new capital requirement from the Swedish regulator, F I. As I flagged earlier this week, that is a model add-on of roughly ten billion kronor of extra core equity tier one, with risk-weighted assets rising by around one hundred and fifty billion kronor from the end of December. The effect on the buffer is about one hundred and twenty basis points.
+
+So the headline buffer of two hundred and fifty basis points shrinks toward a hundred and thirty on a pro forma basis. That is still comfortable, but it constrains the pace of buybacks. For fixed income holders the effect is positive at the margin: more capital retained is better for senior and AT1 holders, and the add-on is temporary. The equity market is paying for it, not the bond market.
+
+Swedbank also reported. Net profit was eight point two billion kronor, with a return on equity of fifteen point six percent, above its fifteen percent target. But earnings per share missed estimates and the shares fell about four point three percent. The core equity tier one ratio was seventeen point two percent. The management buffer was two hundred and fifteen basis points over a requirement that rose from fourteen point eight percent to fifteen point one. The rise in the requirement is the part to note. Nordic requirements are creeping up even as profits stay strong.
+
+On the question of who reports today: I could not confirm any large watchlist bank reporting results this morning. The banks that reported in the last day are Barclays, S E B, Swedbank and Bankinter. If anything lands later, it will be on the terminal.
+
+Now to Germany and Italy, where the Commerzbank story keeps moving.
+
+The European Central Bank cleared UniCredit last week to take its stake in Commerzbank above thirty percent, and in principle to go as high as one hundred percent. UniCredit expects the remaining regulatory steps to be completed by the end of the year, at which point it would hold around half of the voting rights. Berlin has told Andrea Orcel that Commerzbank must stay listed, stay headquartered in Frankfurt and keep lending to the Mittelstand. Reports suggest he is looking at deep job cuts in Germany.
+
+Commerzbank shares fell about four point three percent on Thursday, in line with the sector. A survey of German finance chiefs suggests growing opposition to the deal among corporate clients. Commerzbank reports its third-quarter results on the fifth of November.
+
+For bond investors the deal is a ratings and structure question. If UniCredit ends up with control, the question becomes whether Commerzbank debt is supported by the group or ring-fenced, and how the resolution perimeter and MREL stack are arranged across two jurisdictions. Until there is clarity, Commerzbank senior and subordinated paper trades on the standalone credit with some takeover optionality. Cross-border bank M and A of this size is untested in the banking union, and the political conditions Berlin has set are exactly the kind of thing that raise execution risk.
+
+On the regulatory front, there are no new capital add-ons beyond the Swedish one. But a few things are worth keeping on the radar.
+
+The European Banking Authority's June dashboard put minimum requirements for own funds and eligible liabilities, known as M R E L, between twenty-four point six and twenty-eight point nine percent of risk-weighted assets, depending on the bank category. It also flagged about two hundred and thirty-one billion euros of eligible instruments that will fall out of eligibility by the end of this year because of remaining maturity. That is a heavy refinancing calendar for senior non-preferred and Tier two supply into year end.
+
+The Commission has also proposed a softened and time-limited application of the market risk rules, known as F R T B, from the first of January twenty twenty-seven. For the investment banks, that is a small tailwind for capital. I would add that the output floor under the Basel three rules is phasing in, and the European Banking Authority says its impact has grown, even if average capital is high.
+
+In the United States, there is little fresh bank news in the window. The big banks reported in the middle of the month, and the story from that round is that Bank of America missed on revenue after trading, and took a regulatory penalty, and its shares dropped. U S Bancorp reported net income of about two point two billion dollars, with record net revenue of nearly eight billion dollars. The theme for the American banks today is the market. The S and P five hundred fell one point two percent on Thursday and the Nasdaq fell two point six percent, its worst session since June, as Meta's spending and its first cash outflow in over a decade rekindled doubts about returns on artificial intelligence.
+
+That matters for American banks in two ways. First, trading and underwriting revenue depend on the risk appetite that just took a hit. Second, banks are carrying a lot of the financing for the data-centre build-out.
+
+On that point, reports this month say J P Morgan and M U F G, among others, have spent more than six months trying to distribute about thirty-eight billion dollars of construction debt tied to Oracle-leased data centres in Texas and Wisconsin. Oracle's five-year credit default swap has traded at record levels this autumn, with a figure around two hundred basis points widely cited, though other sources show higher numbers at other dates, and S and P has cut the company to triple B minus. Meta's twenty-seven billion dollar Hyperion project bonds have traded down to the low nineties in price, with spreads around two hundred and thirty basis points over Treasuries, according to secondary reports. These figures vary by source and date, so treat them as a range.
+
+The credit point is the one I would stress. The banks are warehousing construction risk that they want to distribute to institutional buyers. When the equity market sells off on doubts about the returns, the bid for that paper can thin. A stuck syndication is a balance sheet and capital problem for the arranging banks.
+
+Now to Asia.
+
+The Thursday chip rout in the United States, where the Philadelphia semiconductor index fell six point seven percent, spread across Asia on Friday. Reports differ on the exact closes, but the pattern is clear. Korea led the losses, with the Kospi down between one point seven and two point two percent and the tech-heavy Kosdaq down about three and a half percent. S K Hynix lost about two and a half percent. The Nikkei lost about one point three percent, and Japan was also spooked by a strong inflation print. Mainland Chinese blue chips fell about one percent to the lowest level since July twenty twenty-five, and are some twenty percent below the June peak.
+
+Hong Kong was the exception. The Hang Seng edged up by about a tenth of a percent after a three percent fall on Thursday.
+
+For Asian banks, two things matter. Strong Japanese inflation raises the odds of further Bank of Japan tightening, which helps the megabanks M U F G, S M F G and Mizuho on net interest income, but also pushes Japanese government bond yields up and hurts their bond portfolios. And the Korean and Japanese banks are lenders into the same technology supply chains that are selling off. I did not find any bank-specific results from Asia in the window.
+
+Now to the I P O watch.
+
+The U S calendar this week is thin and skewed to biotech. Lycia Therapeutics, a South San Francisco biotech developing a treatment for food allergy, set terms to raise about two hundred and fifty million dollars by selling fourteen point seven million shares at sixteen to eighteen dollars on the Nasdaq. Jefferies, T D Securities, Evercore, Guggenheim and Life Sci Capital are the bookrunners. Pricing was expected this week, and I could not confirm the final price or first-day trading, so I will not guess.
+
+Last week's debut of City Therapeutics is a better guide to appetite. It closed Friday at twenty-two dollars and forty cents, against an I P O price of eighteen dollars, a gain of about twenty-four percent. Reports on Iambic's first day conflict, so I will leave it out.
+
+In Asia, Transsion planned to list H shares in Hong Kong on the fifteenth of October, to raise roughly four hundred and nine million dollars. Nikkei Asia reports that Hong Kong is on track for a record year in I P O proceeds, but momentum is slowing, with more mainland companies delaying listings as new stocks struggle in early trading.
+
+The read-across for banks is that the fee pool is still strong for the year. SpaceX, which listed in June and raised seventy-five billion dollars at one hundred and thirty-five dollars a share, set a high bar. But with the Nasdaq down two and a half percent in a day, I would expect next week's pipeline to be pared back.
+
+Looking ahead. Today, Moody's review of France. On the third of November is the United States election, and markets are already trading oil on how the result may affect Iran policy. On the fifth of November, Commerzbank reports. I could not confirm the dates for UniCredit and Intesa Sanpaolo's third-quarter results, so check the issuer calendars.
+
+Now to the F T review. A note first: the Financial Times site is closed to my search tools, so I could only verify FT stories that other outlets cite. That gives me a short list today, and I am paraphrasing from those reports.
+
+First, the Barclays story I covered above. The F T reported on the nineteenth that the Bank of England is examining whether swaps financing private credit loans were booked in a way that understated risk. For a credit investor, it matters because it tests how supervisors treat hedged but illiquid exposures, a question that applies well beyond one bank. If the P R A insists on banking book treatment, expect higher capital against these structures across the sector.
+
+Second, the F T has been tracking credit default swap spreads on the large artificial intelligence spenders. As cited in Forbes on the twenty-second, its reporting has Nvidia's five-year protection at a record of about one hundred and one basis points this month and Meta's at a record of about one hundred and eight. A year ago these were treated as near risk-free names. For bank credit, it matters in two ways: it prices the borrowers behind the data-centre loans on bank books, and it shows investors wanting hedges, which tends to be followed by wider new-issue concessions.
+
+Third, the same reporting notes that Meta's latest bond drew about a third less demand than its sale a year earlier. If true, it tells you that the supply of AI financing will increasingly have to be absorbed by banks and private credit rather than the public bond market. That is where Bloomberg estimates about two hundred billion dollars of AI data-centre debt already sits.
+
+I tried to find FT coverage on European bank mergers, Pfandbrief and commercial property, and French debt, but could not verify any FT story from the window, so I will not invent one. On the property side, the public data point is from CBRE, which on the nineteenth said German office investment volume reached four point six billion euros in the first nine months, up fourteen percent, and warned that elevated financing costs could still show up in prices. The Pfandbrief index showed office values up one point nine percent year on year in the first quarter.
+
+Time for the cross-asset wrap.
+
+Rates first. The standout move was in United States Treasuries. The ten-year yield fell more than seventeen basis points on Thursday to about four point nine seven percent, its lowest in almost a month, in what Reuters called the biggest daily rally in more than three years. So what for banks: a rally of that kind in a risk-off session helps the value of securities portfolios, and eases pressure on unrealised losses at American regionals. But it also signals that investors want safety, which is the opposite of what an I P O pipeline wants.
+
+In Europe, the French ten-year is near five percent, the spread to Bunds is around one hundred and fifty basis points, and Italy has been trading with French spreads wider than its own. So what: this is the key variable for euro zone bank funding costs.
+
+Credit. I do not have verified levels for the iTraxx or C D X indices this morning, so I will say only that the F T-cited protection costs on the AI-linked names sit at records.
+
+Currencies and commodities. Brent is around one hundred and twelve dollars, a five-month high, up more than fifty percent since the Iran war began in late February. Gold and silver fell on Thursday despite lower yields, according to Kitco, which is unusual and suggests forced selling. So what: higher oil with falling growth expectations is the stagflation combination that is hardest for banks, because it lifts credit costs while capping the benefit from rates.
+
+Equities. The S and P five hundred fell one point two percent, the Nasdaq two point six percent, the chip index six point seven percent. Europe's bank index fell four point two percent. Asia mostly fell on Friday.
+
+Now, a view, and it is only a view. Today's moves look like three separate stories, French politics, oil and the artificial intelligence trade, all landing on the same day. But they share one channel: financing conditions. Banks are exposed to the sovereign, to the energy shock through credit costs, and to the data-centre build-out through lending and underwriting. If the three keep coinciding, expect the market to price bank credit less on earnings and more on balance-sheet concentration. The strong capital ratios mean the sector can take it, but spreads will not tell you that until the volatility settles.
+
+Now for some market anecdotes.
+
+First, Meta. This week the company posted its first free cash outflow in more than a decade, because of its artificial intelligence spending, and the shares fell almost seven percent. It also announced a two-for-one stock split. A company that spent years returning cash to shareholders is now borrowing on project finance terms.
+
+Second, Oracle. Reports this month say its bonds maturing in twenty fifty-five were trading at about seventy-seven cents on the dollar. A bond with thirty years to run at that price tells you the market is now pricing the duration as much as the credit.
+
+Third, the S E B and Swedbank pairing. Both banks earn returns on equity of thirteen to sixteen percent and hold core equity tier one ratios above seventeen percent. And yet both stocks fell on the day, because the market cares more about the direction of the requirement than the level of the ratio.
+
+And now, this day in market history.
+
+On the twenty-third of October nineteen twenty-nine, the Dow Jones Industrial Average fell about six point three percent in one session. That brought the decline from the September peak to nearly twenty percent. More than six million shares changed hands, then the second-highest volume the New York Stock Exchange had ever seen. It was the day before Black Thursday, the twenty-fourth, and a few days before the crash that followed.
+
+The lesson for today is about leverage and financing. In nineteen twenty-nine, a large part of the market was financed by brokers' loans lent against shares, and when prices fell, margin calls forced more selling. Today's version is not margin loans on stocks, it is debt against data centres and long-dated leases. The pattern to watch is the same: when asset values slip, the financing that supports them is the first thing to be questioned. I am not predicting a crash. I am saying the channel is worth watching.
+
+That is the Bank Credit Briefing for Friday, the twenty-third of October. A reminder that this is a recorded summary built from news up to this morning, so check the terminal for late developments, especially the Moody's decision on France. Thanks for listening, and have a good weekend.
