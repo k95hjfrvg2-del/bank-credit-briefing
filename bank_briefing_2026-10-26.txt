@@ -1,0 +1,169 @@
+Good morning. This is the Bank Credit Briefing for Monday the twenty-sixth of October, twenty twenty-six.
+
+Because it is a Monday, we cover the whole weekend: European, American and Asian banks, the I P O watch, and the cross-asset picture.
+
+Four things matter this morning.
+
+First, the artificial intelligence credit scare. Default protection on the data-centre borrowers hit records last week, one chip-maker pulled its American I P O, and Citi is now lending to the stressed end of the sector.
+
+Second, France. The ten-year bond is hovering around five percent, and the budget fight is far from over.
+
+Third, supervision. Sweden's regulator has put a second capital add-on on S E B, and the European Banking Authority says capital is solid but the output floor is biting.
+
+Fourth, the central bank week. The Fed, the E C B and the Bank of Japan all meet, with markets leaning toward a Fed hike in December.
+
+Later: the Asia and I P O segments, a short F T review, the cross-asset wrap, anecdotes, and a date from market history.
+
+Let us start with the story that is moving credit.
+
+Last week the cost of insuring the big artificial intelligence spenders rose to records. CoreWeave's five-year credit default swap traded above one thousand basis points, a level analysts treat as distress. Its unsecured notes due twenty thirty-one and twenty thirty-two were yielding above fifteen percent.
+
+Oracle's five-year protection hit a record of about three hundred and fifteen basis points on the nineteenth. Meta's reached about one hundred and eight and Nvidia's about one hundred and one, both records, according to Morgan Stanley data cited in the press.
+
+Context: artificial intelligence related debt issuance is estimated at around four hundred and sixty-six billion dollars so far this year, against about one hundred billion over the same period last year.
+
+Why does this belong in a bank credit briefing? Because the banks are the bridge. On Thursday, Nebius announced a three point five billion dollar secured bridge loan from Citi, signed on the seventeenth, maturing in just under a year, to fund data centres and chips. Nebius shares fell about six percent that day, even with the new financing.
+
+That is the pattern to watch. When the bond market gets nervous, the borrower turns to a bank for a short, secured, expensive loan. The bank earns a fee and takes the risk, and often plans to refinance it into the market later. If the market stays shut, the bridge stays on the balance sheet.
+
+The same week, S K Hynix cancelled the planned American I P O of its Solidigm storage unit, citing market volatility. Neocloud shares, including CoreWeave, Nebius and Iren, are each down by more than thirty percent this month.
+
+The credit read-across. For the banks, direct exposure looks manageable and, so far, secured. The risk is in the underwriting pipeline and in the syndicated loans that have not yet been placed. For investors in senior bank bonds, this is a headline risk rather than a capital risk. For subordinated and A T one paper, it matters only if losses start to hit trading and fee lines together.
+
+Now to France.
+
+The French ten-year yield closed at about four point nine two percent last Tuesday and briefly touched five percent, the first time in more than two decades. The spread over Bunds was around one hundred and fifty-three basis points, according to figures cited from I N G.
+
+The budget is a minority government's budget. The revenue half went to the Assembly on the twentieth. Sources disagree on what comes next: some point to a first vote on the third of November, others to a final vote on the seventeenth. The Socialists have threatened a censure motion. Treat both dates as live.
+
+The credit read-across is direct. French banks hold large amounts of French government bonds, and their funding costs follow the sovereign. When the spread widens, it widens for B N P Paribas, Credit Agricole, Societe Generale and B P C E, usually by less than the sovereign, but in the same direction.
+
+For covered bonds and senior preferred, the move so far is more a repricing than a panic. The risk to watch is a failed budget, a snap election, and a rating action on the sovereign, in that order.
+
+Now to supervision and regulation.
+
+Start with Sweden. On the fourteenth, the Swedish regulator, F I, imposed a temporary capital add-on on S E B because it found more extensive deficiencies in the bank's internal credit risk models than previously known.
+
+The numbers, as reported by the Swedish press citing the bank: about ten billion Swedish kronor of extra core equity tier one requirement, risk exposure up by about one hundred and fifty billion kronor from the thirty-first of December, and a hit to the capital buffer of around one hundred and twenty basis points. That risk exposure figure is the bank's own estimate, as reported, not an F I figure.
+
+The add-on stays until F I approves corrected models. S E B says it will file new applications no later than the third quarter of twenty twenty-seven. The shares fell, and one secondary report says buybacks were suspended. I could only find a single source for that, so treat it as unconfirmed.
+
+The credit takeaway. This is a model add-on, not a solvency event. S E B still has a comfortable buffer, but the headroom to its maximum distributable amount threshold shrinks, and the distribution capacity falls. The senior bondholder is largely unaffected. The equity holder and the A T one holder pay attention to the buffer. And the read-across is to every bank using internal models, especially in the Nordics and the Netherlands.
+
+Now Europe-wide. On the ninth, the European Banking Authority published its dashboard on the new capital rules, C R R three and C R D six. The average fully loaded core equity tier one ratio is projected at fifteen point one percent. The relative increase in minimum tier one capital from the output floor is six percent, up from five point one percent in the earlier edition. And no capital shortfalls are projected before twenty thirty, assuming unchanged balance sheets.
+
+So the headline is comfort, the detail is drift. The floor is biting a little more with each edition.
+
+In the United States, on the second of October the Fed published a proposal to modify the capital plan rule and the stress capital buffer. Earlier this year it decided to keep current stress buffer requirements until twenty twenty-seven. And the agencies' re-proposal of the Basel three endgame, which replaces the advanced approaches with a single expanded risk-based approach, is still in the comment phase. Direction of travel: lower or flat requirements for the big American banks, which supports distributions.
+
+In Asia, the Reserve Bank of India issued final directions on credit valuation adjustment and on minimum capital for market risk on the seventh. That is the Indian version of the Basel market risk reforms.
+
+Now, who reports today? I could not find any watchlist bank reporting results on Monday the twenty-sixth, and I will not invent one. The last big European print was Barclays on Thursday.
+
+Barclays reported third-quarter profit before tax of about two point three billion pounds, up twelve percent. Income was seven point four billion pounds, against about seven point six billion expected. The cost to income ratio was sixty-two percent. Core equity tier one was fourteen point two percent, and fourteen point zero percent after a new buyback of up to five hundred million pounds.
+
+The credit read: revenue miss, but capital at fourteen percent is well above requirements and the buyback is modest. Nothing there troubles a senior bondholder.
+
+Nordea, on the fifteenth, reported a core equity tier one ratio of fifteen point eight percent, one point nine percentage points above its requirement. That is the benchmark against which the S E B story looks painful.
+
+On the American side, U S Bancorp reported third-quarter net income of about two point two billion dollars, up ten percent from a year earlier, with a core equity tier one ratio of ten point eight percent. M and T Bank earned seven hundred and seventy-five million dollars, with core equity tier one at about ten point two percent.
+
+Coming up this week: Banco Santander is expected on Wednesday the twenty-eighth, though one calendar lists the twenty-seventh with a presentation on the twenty-eighth. Check the bank's calendar for the other European names.
+
+Now the Europe round-up.
+
+The sector had a poor week. Last Thursday banks led a broad sell-off in European shares, the sharpest in three weeks, and Friday brought another modest decline. The STOXX six hundred closed Friday around six hundred and thirty-five, down between a third and a half of a percent depending on the source, and the week's fall was above one percent.
+
+The drivers were the French budget, the oil price, and the technology sell-off. Banks remain well above where they were two years ago, so this is a pullback, not a reversal, but it is the kind of pullback that tests the new-issue market.
+
+In M and A, the most important live deal is UniCredit and Commerzbank. On the fifteenth, the European Central Bank approved UniCredit going above thirty percent of Commerzbank and raising the stake without an upper limit. UniCredit expects to hold about fifty percent of the voting rights around the end of the year, once remaining approvals and conditions are done.
+
+For a credit investor, this is the one to watch. A controlling shareholder changes the debate on Commerzbank's capital distribution, its funding, and its senior and subordinated bonds. Control by an Italian parent also puts cross-border capital and liquidity questions on the table, along with the German government's view, which has been hostile.
+
+I did not find new news on Mediobanca or Banco B P M in the window, so I will leave Italy there.
+
+Commercial real estate and private credit. The specialist press reported this month that an Australian manager has suspended redemptions across its lending strategies, and that German insurers are launching new real estate debt funds as banks retreat in the D A C H markets. Those are small items, but they point the same way: the banks are pulling back from commercial property lending, and non-bank lenders are filling the gap, with more liquidity risk.
+
+Now to the United States.
+
+Friday was a down day, though not a rout. The Dow fell one point two percent to fifty-two thousand two hundred and fifteen. The S and P five hundred lost half a percent to seven thousand six hundred and twenty-four. The Nasdaq slipped a fifth of a percent. Most stocks fell, and about three of every four S and P stocks closed lower.
+
+The chip index rose slightly after Thursday's sell-off. Oil was above one hundred dollars a barrel on renewed fears of conflict between the United States and Iran. The volatility index closed at about twenty.
+
+American Express fell more than three percent after saying it would cut about five percent of its global workforce to prepare for artificial intelligence.
+
+For the big banks, the last two weeks of results were strong on trading. Goldman Sachs earned about five point three billion dollars, seventeen dollars a share against about thirteen fifty expected. JPMorgan had a rare miss. Wells Fargo earned fifteen point three billion dollars in profit, five dollars and fifty-seven cents a share, below the five ninety expected. Credit quality was the quiet part: no sign yet of stress in consumer or corporate books.
+
+Now to Asia.
+
+Markets were mostly lower this morning. Japan's Nikkei slipped a tenth of a percent to about sixty-two thousand six hundred. South Korea's Kospi fell one point one percent, to about five thousand four hundred and ninety-four. Hong Kong's Hang Seng edged up two tenths of a percent to about twenty-three thousand one hundred and thirty-eight, and Shanghai lost four tenths of a percent.
+
+I did not find bank-specific results or regulatory actions in Asia in the window. The point that matters for Asian lenders: oil prices and the possibility of a Fed hike in December. Both push up funding costs in dollars. Japanese megabanks, which are big lenders to infrastructure and data centres, are the ones to watch for any change in tone on artificial intelligence lending. I could not verify this morning's Japanese government bond yields, so I will leave them out.
+
+Time for the I P O watch.
+
+In the United States, I could not find any I P O that priced or debuted in the last three days, which is itself a signal. The one story is a cancellation: S K Hynix pulled the Solidigm I P O last Thursday, citing market conditions.
+
+The big deal is in India. Jio Platforms, Reliance's telecoms and digital arm, set its price band at one thousand and sixty-five to one thousand one hundred and nineteen rupees. The issue is entirely new shares, about thirty thousand two hundred crore rupees. At the top of the band, the company is valued at about ten point three lakh crore rupees, roughly thirty-three times earnings for the last financial year.
+
+One source says the book closed on the twenty-third at twenty-two times covered. Allotment is expected today, and listing on the Bombay and National exchanges is expected on the twenty-eighth, although one source says the twenty-ninth. I could not find the lead banks, so I cannot tell you the fee read-across.
+
+Elsewhere: in South Korea, three companies list on the KOSDAQ this week. T and E Korea lists on the twenty-ninth, and Creatz and Intellivix on the thirtieth. Intellivix priced at the top of its range with heavy demand, and Creatz at the bottom. A Tokyo growth-market listing is expected on the thirtieth. In Paris, N four Group began trading today at twenty-three euros eighty-one.
+
+Why it matters. A shut American market and a busy Indian one tell you where risk appetite is. For the banks, the fee pool this quarter is going to be Asian equity capital markets and bridge loans.
+
+Now looking ahead.
+
+Tomorrow, the twenty-seventh, is the anniversary of Big Bang, more on that shortly. Wednesday the twenty-eighth: the Bank of Japan decision, expected on hold at one point two five percent, with a December hike expected by most economists. Santander reports. Jio is expected to list.
+
+Thursday the twenty-ninth: the Fed, expected to hold at three point seven five to four percent. The market prices a quarter-point hike in December at roughly seventy to eighty percent depending on the source. The E C B is also expected to hold, at two point five percent. Some calendars place the Fed on the twenty-eighth, so check.
+
+In France, a first budget vote on the third of November, or the seventeenth, depending on the source.
+
+The key date for the week is the Fed decision and Chair Warsh's guidance on December.
+
+Now a short review of what the Financial Times is running.
+
+A note first. The F T site is closed to my search tools, and I cannot get around its paywall. I could not read today's headlines, so I will not pretend to. What I can do is tell you which F T stories are being cited by other outlets, and say clearly that the attribution is second-hand.
+
+One. A regulatory tracker published this month cites F T reporting that the Bank of England is looking at how Barclays labels derivatives that finance private credit. If the supervisor treats hedged but illiquid exposures more strictly, expect higher capital charges across the sector. I could not confirm the date.
+
+Two. The same tracker cites an F T analysis from August showing private credit non-accrual loans at a multi-year high. That is the foundation under the story about banks lending to private credit funds. The six largest American banks are estimated to have around three hundred billion dollars of committed lending to fund sponsors.
+
+Three. On the artificial intelligence build-out, the F T has been following the record default protection costs on the big spenders. I covered the levels earlier; the point for you is that the cost of hedging is now a price signal for how much risk the banks will carry.
+
+That is all I can honestly verify. I found nothing second-hand on bank M and A, commercial property or French debt that I could attribute to the F T, so I will not invent it.
+
+Now the cross-asset wrap.
+
+Rates. The American ten-year yield closed Friday at about five percent, falling back from above for the first time in four weeks, in a flight to safety. The two-year ended at four point six nine percent. The thirty-year was around five point three two percent. So what for banks: higher for longer on the long end supports net interest income, but it keeps unrealised losses in securities books and pressure on commercial property values.
+
+In Europe, the French ten-year is at about five percent with a spread near one hundred and fifty basis points. I could not verify Friday's Bund, gilt or B T P levels, so I give direction only: safe-haven demand for Bunds, pressure on French paper.
+
+Credit. Default protection on the artificial intelligence names is at records, as covered. I do not have verified levels for the main European and American credit indices, so I will not quote them.
+
+Currencies and commodities. Oil is above one hundred dollars on United States and Iran fears. Gold fell below four thousand dollars, as higher oil strengthens expectations for Fed hikes. I did not verify the euro or yen levels.
+
+Equities. American indices fell on Friday, European shares fell over the week, and Asia is mixed this morning.
+
+The standout move is the oil price above one hundred dollars, because it connects everything else: inflation, the Fed hike pricing, French fiscal stress, and the cost of credit.
+
+Now a view, and it is only a view. The market is trading three stories at once, oil, France and artificial intelligence, but they share one channel, the price of money. Banks sit in all three. Capital is strong, as the E B A reminds us, so I do not see a solvency question. The question is spreads. Bank credit will be priced less on earnings and more on concentration, and that tends to hit subordinated paper first.
+
+Now some market anecdotes.
+
+First, American Express. On Friday it said it would cut about five percent of its workforce, citing the need to prepare for artificial intelligence. The shares fell more than three percent. A company telling investors that artificial intelligence is a reason to cut costs saw its shares fall, not rise. The market is not rewarding the story it used to.
+
+Second, Nebius. It announced a new three point five billion dollar bridge loan from Citi on Thursday, and its shares fell about six percent the same day. Good news on financing, read by the market as a sign of how much financing is needed.
+
+Third, CoreWeave. Its notes due in twenty thirty-one and thirty-two yield above fifteen percent. That is a yield you normally see in distressed credit, from a company that raised money in a headline-grabbing I P O not long ago.
+
+Finally, this day in market history.
+
+Tomorrow, the twenty-seventh of October, is the anniversary of Big Bang, in nineteen eighty-six. On that Monday the London Stock Exchange ended fixed commissions, moved from open-outcry floors to screen-based trading, and opened the door to foreign ownership of British brokers.
+
+A year later, on the nineteenth of October nineteen eighty-seven, came Black Monday. The Dow fell twenty-two point six percent in a day, and London's FTSE one hundred fell ten point eight percent. Some commentators argue that the new, faster, cheaper trading amplified the selling.
+
+The link to today: infrastructure changes quickly, and risk follows it. In nineteen eighty-six it was electronic trading volume. In twenty twenty-six it is the speed at which debt is raised for data centres. Both times, a structure built for good times met a bad day. The lesson is not that it ends badly, but to ask who holds the risk when liquidity goes.
+
+That is the Bank Credit Briefing for Monday the twenty-sixth of October. Markets move quickly, so check your terminal for anything that has broken since I recorded this. Thank you for listening, and have a good week.
