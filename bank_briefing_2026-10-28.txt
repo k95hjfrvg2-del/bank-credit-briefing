@@ -1,0 +1,137 @@
+Good morning, and welcome to the Bank Credit Briefing for Wednesday, the twenty-eighth of October, twenty twenty-six. Banks, regulators, I P Os and markets, through a credit lens.
+
+Here is what matters today.
+
+First, H S B C. The group posted a third-quarter pre-tax profit of nine point six billion dollars, up thirty-two percent. But revenue missed, wealth growth stalled, and the shares fell more than five percent to a four-month low. The European bank index lost one point three percent on the day.
+
+Second, French debt. The ten-year O A T crossed five percent last week for the first time since two thousand and two, and the budget vote is still ahead.
+
+Third, Deutsche Bank reports this morning. And tonight, the Federal Reserve decides, with markets leaning toward a hold and a possible hike in December.
+
+Later in the show: the I P O watch, with Anthropic's filing and a big debut in Mumbai, then the cross-asset wrap, market anecdotes, and this day in market history.
+
+Let us start with H S B C, because it set the tone for European banks yesterday.
+
+The headline number looks strong. Profit before tax of nine point six billion dollars is up thirty-two percent on a year ago. Profit after tax was seven point six billion. For the first nine months, profit before tax is twenty-nine point two billion dollars, up twenty-six percent.
+
+Now the fine print. Most of that jump is a base effect. Last year's third quarter carried a one point four billion dollar legal provision that did not repeat. Strip out notable items and currency, and pre-tax profit is about ten billion dollars, up roughly ten percent.
+
+The miss was on revenue. Revenue of around eighteen point six billion dollars came in below forecasts, and the story was wealth. Fee growth in wealth slowed, even though wealth balances rose three percent since December, to one point six trillion dollars.
+
+Management held its full-year guidance. Banking net interest income is still expected to be at least forty-six billion dollars. There is another share buyback of up to one billion dollars, and an interim dividend of ten cents a share.
+
+So what does it mean for a credit investor? Three things.
+
+One: nothing here threatens capital. A one billion dollar buyback is small for a group of this size, and the dividend is unchanged in spirit. For senior and subordinated holders, this is a quarter of steady earnings with a soft equity reaction. Equity pain with no credit pain is the usual pattern for H S B C.
+
+Two: the quality of earnings. When a headline is flattered by a non-recurring base, the market looks at the underlying line, and underlying growth of ten percent is fine but not exciting. The wealth slowdown matters because wealth fees are the part of the story that diversifies the group away from interest rate sensitivity.
+
+Three: guidance. Holding net interest income at forty-six billion or more, in a world where the Fed may hike rather than cut, is a comfortable position. A higher-for-longer curve helps the deposit franchise.
+
+My caveat: I could not confirm the core equity tier one ratio from the sources available this morning, so check the release for the headline capital number before you lean on it.
+
+Now to the supervisory side, where there is one clean data point from Belgium.
+
+K B C Group said on Tuesday that the E C B has completed its twenty twenty-six supervisory review. The Pillar Two requirement stays at one point nine five percent of risk-weighted assets, and Pillar Two guidance stays at one percent. In other words, no add-on and no relief.
+
+That is the quiet outcome supervisors want to show. The E C B has said it is now communicating review outcomes by the end of October, about six weeks earlier than before, and it is moving to a revised Pillar Two methodology that applies from the first of January, twenty twenty-seven. Expect more banks to publish unchanged or marginally changed requirements over the next days. A flat requirement is mildly credit positive, because it protects the distance to the maximum distributable amount trigger and keeps buyback plans intact.
+
+The risk to watch is the transition. The new method starts to bite in twenty twenty-seven, so banks with large model-based adjustments could see requirements move at the next cycle, not this one.
+
+Two more European stories matter for the sector structure.
+
+In Germany, the E C B authorised UniCredit on the fifteenth of October to cross the thirty percent threshold in Commerzbank and keep buying without an upper limit. UniCredit already holds about forty-eight percent after its offer in July. The company says the remaining steps should come around year end, taking it to roughly half of the voting rights. A full merger with its German subsidiary, H V B, has been pushed out to twenty twenty-nine or twenty thirty, according to the reports I found.
+
+For Commerzbank bondholders, this means the credit is moving under a new controlling shareholder, without a formal merger. Watch for any change to the funding and M R E L plan, and any talk of passing up capital. Polish rules on the minority shareholders of M Bank are one reason UniCredit is staying just under a majority.
+
+In Italy, the shareholder meeting at Monte dei Paschi is called for tomorrow, Thursday the twenty-ninth. One analysis published yesterday expects shareholders to reject the chief executive's counter-move, which would clear the way for Intesa Sanpaolo's exchange offer. That is a single-source forecast, not a result, so treat it as a scenario. If it plays out, Intesa could end up controlling Monte dei Paschi, Mediobanca and a stake in Generali around December or January. For credit, the question would be which senior and subordinated curves get re-rated as a result, and what the combined group does with legacy Additional Tier One paper.
+
+Let me also flag the Banco B P M situation. Sources conflict. One says a UniCredit bid was withdrawn after Rome attached conditions; another says Crédit Agricole would contribute its Italian activities in exchange for B P M shares. I could not verify either this morning, so I will leave it there.
+
+Now, who reports today.
+
+Deutsche Bank presents its third-quarter results this morning, with the numbers due early in the European session. I do not have the figures as I record this. Here is what to look for. Analysts were expecting revenue of about eight point two billion euros, up around two hundred million, but lower earnings. Last quarter, net profit was about one point six billion euros. The legal overhang is a Malaysian claim connected to one M D B, which seeks one point one billion dollars.
+
+For credit, the things that matter are the core equity tier one ratio against the requirement, the provision for credit losses, which has been the soft spot in commercial real estate and leveraged finance, and the payout plan. Strong investment bank numbers are the base case after a record year. The main downside surprise would be a larger provision line.
+
+In the United States, it is regional bank season, and the small and mid-size names are reporting as we speak. Banc of California reported earnings per share of forty-six cents, up twenty-one percent on the year. Independent Bank Corporation in Michigan reported net income of seventeen point nine million dollars, with net interest income up fifteen percent on the quarter after a merger. National Bank Holdings said its net interest margin widened to four percent, with a four million dollar impairment on a fintech investment. And First Guaranty Bancshares shrank its balance sheet to three point two billion dollars from four point one, lifting its leverage ratio to eight point three percent. The common thread is margin repair and balance sheet tidying. Nothing systemic here. The six big American banks reported on the thirteenth of October.
+
+Now Asia.
+
+The overnight session was strong. Japan's Nikkei rose about one point four percent, after gaining one point seven percent on Tuesday to sixty-three thousand points. Shanghai gained about half a percent, helped on Tuesday by banks and oil producers, on the day the Communist Party's Central Committee plenum opened. Hong Kong was up about two tenths of a percent.
+
+The star was Korea. The Kospi jumped about six percent after S K Hynix reported a roughly sevenfold jump in third-quarter operating profit, to around eighty-three trillion won, on surging memory prices tied to artificial intelligence demand.
+
+Why does that matter for bank credit? Because the AI build-out is now a lending and underwriting story for Asian and global banks, through data-centre loans, project finance and bond deals. A profit number like this supports the cash flow story behind that lending, and it helps equity valuations that sit behind margin loans and structured products. It also concentrates risk. If memory pricing turns, a lot of the same collateral weakens at once.
+
+For Japanese megabanks, the other variable is the yen and Japanese government bond yields. I did not find a move overnight that changes the picture. In Australia, the central bank sounded hawkish, and New Zealand surprised by holding, which supports the Australian dollar and the margin outlook for the big four there.
+
+No Asian bank result of note landed overnight, and I did not find a regulator action in the window.
+
+Now the I P O watch.
+
+The biggest story is not a pricing but a filing. Anthropic filed its registration statement on Monday the twenty-sixth. Reports say it plans a Nasdaq listing, seeking roughly one hundred billion dollars at a valuation around two trillion dollars. The filing itself leaves the price range and share count blank, and the company has not confirmed the numbers. Timing estimates run from mid-November to the week of Thanksgiving. Its last private round, in May, raised sixty-five billion dollars at nine hundred and sixty-five billion.
+
+A disclosure: this script was written with an A I model made by Anthropic. I report only what has been published.
+
+For banks, the read-across is fees. A hundred billion dollar raise would be by far the largest I P O ever, and the underwriting syndicate would share a very large fee pool. It also tests the market's appetite for AI risk. Commentary this week includes a bear case calling it a possible peak in the AI trade. The credit angle: if the deal prices well, it supports the financing of the whole AI chain, from chips to data centres. If it struggles, spreads on AI-linked debt and private credit could widen.
+
+In India, Jio Platforms listed today on the N S E. The offering raised thirty thousand, two hundred and thirteen crore rupees and was subscribed about twenty-two times. It was priced at one thousand, one hundred and nineteen rupees. One report says it opened at one thousand, three hundred and fifty-eight rupees, a premium of about twenty-one percent. That is a single source, so confirm it against the exchange. I will not estimate a market capitalisation, as I do not have the share count.
+
+In Hong Kong, an I P O calendar showed Suzhou Dongshan Precision, raising about one point three six billion dollars, and Microintelligence, a smaller deal, as expected to debut today. Those dates come from a calendar page I could not fully verify, so treat them as expected, not confirmed.
+
+In the United States, the week is quiet. The only deal I found on the Renaissance Capital calendar is OPay, the Africa-focused fintech, planning to raise about three hundred and twenty million dollars at a market value of about four point two billion. Sources conflict on the date and the range, so I will leave it as a pipeline item. The Renaissance I P O index is up about six percent this year, against thirteen percent for the S and P five hundred.
+
+Looking ahead.
+
+Tonight, the Federal Reserve announces its decision, with a press conference from Chair Kevin Warsh. Futures put about ninety percent on a hold at three point seven five to four percent, and roughly eighty percent on a hike in December.
+
+Tomorrow, Thursday the twenty-ninth: the E C B decision, where the deposit rate is expected to stay at two point five percent; American gross domestic product and the P C E inflation reading; and the Monte dei Paschi shareholder meeting. And the French budget vote remains the political risk for the euro curve.
+
+Now to France, because it is the biggest spread story in Europe.
+
+The ten-year O A T briefly crossed five percent on the twenty-first of October, the first time since two thousand and two. By the twenty-fourth, according to CNBC, yields had risen another eleven basis points, and the spread to Bunds was the widest since November twenty eleven. Estimates of the spread range from about one hundred and forty to one hundred and fifty basis points, depending on the date and source. I would use a range, not a point.
+
+The trigger was a wave of protests over living costs, with roughly half a million people marching, according to the interior ministry. The cause, as J P Morgan argues, is the deficit and a minority government with no majority for its budget. The prime minister is considering Article forty-nine point three, which would push the bill through unless a confidence vote succeeds. The target is a deficit of five percent of G D P in twenty twenty-seven. Moody's rates France double-A three with a negative outlook.
+
+For bank credit, the channel is direct. French banks hold large amounts of French government bonds, and their funding costs are anchored to the sovereign. A widening spread feeds into covered bonds, senior preferred and non-preferred paper from B N P Paribas, Crédit Agricole, Société Générale and B P C E, and into the insurers. It also affects the cost of equity, so dividend discount models shift.
+
+What would worry me is a government collapse followed by a rating action. A downgrade from a second agency would mean index and collateral questions. For now, the sovereign is stressed but functioning.
+
+There is a counter-signal. The German ten-year yield fell to three point three four percent on Tuesday, near its lowest since the end of August, as investors sought safety. That flight to quality is the other side of the French trade.
+
+Now the cross-asset wrap.
+
+Rates first. The American two-year is near four point seven three percent, the ten-year near five percent, and the thirty-year around five point three. The two-year has stayed between four point seven and four point eight two in every session this month. The market is saying policy stays restrictive. So what for banks: higher yields help asset-side margins, but they hurt held-to-maturity securities and commercial real estate refinancing.
+
+Euro area: the Bund at three point three four percent, and a purchasing managers' survey showing private-sector growth at a four-month low in October. A slowing economy and a stressed periphery is not a good mix for loan growth.
+
+Credit: I did not find reliable index levels for iTraxx or C D X this morning, so I will not quote any.
+
+Currencies. The dollar index reached a two-week high around one hundred and two point four ahead of the Fed. A firmer dollar tightens funding for emerging market and Asian borrowers with dollar debt.
+
+Commodities. Oil eased on Gulf diplomacy but is still very high. West Texas was around one hundred dollars and Brent somewhere between one hundred and nine and one hundred and sixteen, depending on the time of the quote. High energy prices keep inflation sticky, which is why the Fed is debating a hike. Gold was hovering near four thousand dollars, bouncing a little more than one percent on Tuesday as oil fell.
+
+Equities. European banks lost one point three percent, with H S B C the drag. The wider Stoxx six hundred closed higher, helped by earnings and lower crude. Wall Street posted back-to-back gains as chips rallied.
+
+Now, my view, labelled as a view. The day is a tug of war between two stories. One is inflation and energy, which keeps rates high and pushes the Fed toward a hike. The other is growth at the edge: an AI boom that is lifting Korea and Wall Street while Europe's real economy slows and France strains. For bank credit, high rates are good for earnings and bad for asset quality at the margin. The first shows up in results this season. The second shows up later, in provisions. I would stay constructive on senior bank credit, keep an eye on the sovereign channel in France, and be selective in lower-tier capital instruments if the Fed surprises hawkishly.
+
+Now some market anecdotes.
+
+First, the Anthropic I P O is already a betting market. Traders on the prediction platform Polymarket put the odds of a first-day close above two trillion dollars at about forty-two percent. And overseas crypto traders are trading perpetual futures on the company before it lists, which imply a value of roughly one point eight eight trillion dollars. That is a proxy, not a price, but it shows how much speculation sits around a deal that has not yet set a range.
+
+Second, S K Hynix. A sevenfold jump in quarterly operating profit, to about eighty-three trillion won, moved a whole national index by six percent in one session. When one stock can swing an entire market, concentration risk is the story.
+
+Third, from the French protests. The government says it has deployed roughly seventy thousand police, and the prime minister says more than twelve hundred people were arrested. It is a reminder that bond spreads are made on the street as much as in the budget office.
+
+Finally, this day in market history.
+
+On the twenty-eighth of October, nineteen twenty-nine, the Dow Jones Industrial Average fell by roughly thirteen percent in a single session, known as Black Monday. Sources differ between about twelve point eight and thirteen point five percent. More than nine million shares changed hands. The next day, Black Tuesday, brought more selling, and over the two days the market lost around a quarter of its value.
+
+And on the same date in two thousand and eight, in the heat of the financial crisis, the S and P five hundred jumped by nearly eleven percent, one of its biggest rebounds. It was not the bottom. The market fell further into the spring of two thousand and nine.
+
+What is the lesson for today? Two sharp one-day moves, in opposite directions, on the same date. Big rebounds can happen in the middle of a bear market, and big falls can come from a crowded, leveraged trade. Today's version of crowded is the AI trade and the sovereign debt of heavily indebted countries. It does not mean a crash is coming. It means that liquidity and leverage matter more than headlines.
+
+A note on what I could not do this morning. I was not able to access the Financial Times, so there is no F T review today. And a number of figures, such as Deutsche Bank's results and H S B C's capital ratio, were not yet available.
+
+That is the Bank Credit Briefing for Wednesday the twenty-eighth of October. Please check your terminal for late news before you trade. This is information, not investment advice. Thank you for listening, and have a good day.
