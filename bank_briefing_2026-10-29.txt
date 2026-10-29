@@ -1,0 +1,129 @@
+Good morning, and welcome to the Bank Credit Briefing for Thursday, the twenty-ninth of October, twenty twenty-six. Banks in Europe, the United States and Asia, through a credit lens.
+
+Here is what matters today.
+
+First. The Federal Reserve held rates yesterday, but two officials voted to raise them. Ten year Treasury yields are now above five percent, and markets see a December hike as close to a done deal.
+
+Second. Europe's third-quarter bank results are a story of record profits and fragile share prices. Deutsche Bank and B N P Paribas delivered, Standard Chartered raised its targets, while Santander and H S B C were punished.
+
+Third. French government debt is still the stress point. The spread to Bunds touched its widest since two thousand and eleven last week, and Moody's has kept a negative outlook.
+
+Later in the show: Société Générale and I N G report today, the I P O watch from Mumbai and Hong Kong, a sixty-three billion dollar financing for artificial intelligence compute, the cross-asset wrap, and a very famous Tuesday in market history.
+
+Let us start with the central banks, because they set the tone for everything else.
+
+The Fed left its policy range at three point seven five to four percent. The vote was ten to two. Governor Lisa Cook and Cleveland Fed president Beth Hammack both wanted a quarter point increase. Chair Kevin Warsh also said the number of rate-setting meetings would be reduced. The two year yield jumped to about four point seven eight percent after the statement, then settled near four point seven one. The ten year ended around five point oh two percent, and the thirty year around five point three three to five point three five.
+
+Futures now put roughly eighty-five percent odds on a hike to four to four and a quarter percent at the next meeting, on the ninth of December.
+
+What does this mean for bank credit? Two things. First, a higher-for-longer curve is a gift to net interest income, but it is a headwind for commercial real estate, for leveraged borrowers, and for the unrealised losses sitting in securities books. Second, a thirty year yield above five and a quarter percent keeps term premium in focus for every long senior and subordinated bond. Supply is easier to absorb when the market believes the central bank is done. It is not done.
+
+Today the European Central Bank meets, with the decision due at one fifteen in the afternoon, Frankfurt time. A hold is the clear consensus. Euro-area inflation was reported at three point eight percent in September, with higher oil prices feeding it, so the risk sits with the tone of the press conference rather than the rate itself. Bund yields were around three point four percent this morning, and traders had trimmed rather than added to hike bets.
+
+Now to the top story in Europe: the quarter's results.
+
+Deutsche Bank reported yesterday its best third quarter on record. Profit before tax was two point six billion euros, up eight percent. Profit after tax was one point nine billion euros, and nine-month profit after tax reached five point nine billion, up seven percent. Core equity tier one stood at fourteen percent, the top of the bank's own operating range. The credit takeaway is simple: capital is high, earnings are broad, and the bank has room to keep paying out. One caution. Sources I checked disagree on the provision line, so I will not quote a figure for credit losses.
+
+B N P Paribas posted net income of three point four six billion euros, up thirteen and a half percent. Core equity tier one was twelve point nine percent at the end of September, including about fifteen basis points of drag from the Athlon acquisition. Management expects to be back above thirteen percent by the end of the year. Cost of risk was nine hundred and sixty-four million euros, with only a small contribution from performing-loan provisions. A new one point three billion euro buyback starts next month. For bondholders, the message is that capital is being rebuilt while distributions continue. That is a comfortable place for senior holders.
+
+U B S was more mixed. Net profit was two point six nine billion dollars, up eight percent. Wealth revenue and client inflows beat expectations, but net income and investment bank pretax income missed, and the shares fell about two percent. The bank said its buyback pace depends on holding core equity tier one around fourteen percent. Swiss capital reform remains the swing factor for that number.
+
+Santander was the day's main drag. Results were broadly in line and management said it is on track for its twenty twenty-six targets, but weaker earnings in Brazil pushed the shares down between four and a half and five and a half percent. Credit read-across: a Latin American earnings wobble does not touch Santander's capital story, but it does remind senior investors how much of the group's diversification comes from emerging markets.
+
+The sector overall closed lower. The Euro Stoxx Banks index fell about one percent on Wednesday, with some commentary pointing to unease about lenders' exposure to government debt. Keep that thought, because it leads straight to France.
+
+Standard Chartered went the other way. Third-quarter pretax profit rose between twenty-seven and twenty-nine percent, to roughly two point two five to two point three billion dollars, beating consensus. Wealth income rose twenty-six percent and global markets twenty-one percent. Affluent net new money hit a record of twenty billion dollars. The bank now expects income growth above seven percent this year and a return on tangible equity of about fourteen percent, up from twelve. Shares rose between three and five percent depending on the listing.
+
+H S B C, which reported on Tuesday, is the cautionary tale. Pretax profit was up thirty-two percent to nine point six billion dollars, and a one billion dollar buyback was announced. But net interest income missed by a wide margin, wealth revenue was flat at two point seven billion after strong growth in the first half, and the Hong Kong-listed shares closed down five point six percent. One positive for credit: charges linked to Hong Kong commercial property came down.
+
+The pattern is clear. This is a market that rewards guidance upgrades and punishes any miss in income quality. For credit, that matters less. Capital ratios across the group are strong, and the dispersion in equity reaction is not reflected in senior spreads.
+
+Now to the regulators, where one decision is still reverberating through the Nordic market.
+
+On the fourteenth of October, the Swedish regulator, F I, told S E B that it must hold more capital because of deficiencies in its risk models. The temporary add-on is about ten billion Swedish kronor of extra core equity tier one requirement. It comes on top of an existing add-on of about the same size that S E B has carried since twenty twenty-three. The new rule is built as a floor on the risk exposure amounts of the affected models and applies from the thirty-first of December this year. Together, the two add-ons lift S E B's total risk exposure by around fifteen percent. The requirement stays until S E B implements model changes the regulator approves. The bank aims to submit revised models by the third quarter of twenty twenty-seven.
+
+At the end of June, S E B's core equity tier one requirement was one hundred and fifty-four billion kronor. One report put the hit to the capital buffer at about one hundred and twenty basis points. I could not verify that number against the regulator's own text, so treat it as an estimate.
+
+Eight days later S E B reported net profit of seven point five billion kronor, below the seven point nine one billion analysts expected, and paused its share buyback, citing loan growth and the higher requirement. The shares fell on capital concerns. For senior and additional tier one holders, the pause is good news in credit terms. It retains capital, and the management buffer rebuilds faster. But the shock is a reminder that model risk is a live supervisory theme in the Nordics. Nordea also paused buybacks when it reported on the fifteenth of October, with return on equity at fifteen point one percent, and its shares fell about five percent.
+
+Elsewhere, I found no new prudential action from the P R A, the European Central Bank or American regulators in the last twenty-four hours.
+
+The rating agencies, however, did act on France. Moody's held the sovereign at double A three with a negative outlook on the twenty-third of October.
+
+Let me turn to French debt, because for banks in Paris it is the key transmission channel.
+
+The ten-year French government bond spread over Bunds was one hundred and fifty-six basis points on Monday, after touching around one hundred and seventy-eight on the twenty-second of October. That was the widest since late twenty eleven. The government's two thousand and twenty-seven budget, presented on the first of October, targets a deficit of five percent of G D P, down from five point four percent, through roughly forty-three billion euros of measures. The problem is the absence of a stable majority to pass it.
+
+Two reports gave different figures for French public debt, one hundred and twenty-one point seven percent and one hundred and nineteen percent of G D P. The difference looks like definition and timing, so I will say simply: around one hundred and twenty percent.
+
+Why does it matter for banks? French banks hold large sovereign portfolios, and their funding costs and senior spreads trade with the O A T curve. A wide spread also raises the cost of the covered bond market for any issuer whose domestic sovereign is the benchmark. Societe Generale and Credit Agricole both report within twenty-four hours, so this is where the market will look for comment on sovereign exposure.
+
+Italy is the quieter story. The B T P spread to Bunds closed at one hundred and fourteen point eight basis points on Wednesday, up from one hundred and thirteen point eight. The ten year Italian yield was four point five one percent. The spread was reported at around one hundred and seventeen this morning. For Italian banks, a spread close to Italy's recent range is helpful, but the French move shows how fast sentiment can shift.
+
+Now, the banks reporting today.
+
+Societe Generale reports third-quarter and nine-month results this morning. At the time I compiled this episode, the numbers were not yet available, so here is the baseline instead. In the second quarter, group net income was one point seven nine billion euros, taking first-half net income to a record three point five billion. Core equity tier one was thirteen point two percent after a one point five billion euro extraordinary buyback, which ran from August to the end of September. An interim dividend of seventy-five cents per share was paid. The return on tangible equity target for the year is about eleven percent, and management says it wants to run capital close to thirteen percent. The questions for today are net interest income in French retail, the investment bank, and any new sovereign-related comment.
+
+I N G also reports this morning. In the second quarter, I N G posted a net result of one point nine four seven billion euros, and raised its income guidance to more than twenty-four and a half billion euros for the year. Its capital target is around thirteen percent, and its return target is above fifteen percent. A beat on fee income and customer balances would be consistent with the story so far. Watch the capital guidance and any new buyback.
+
+Deutsche Bank has a fixed-income investor call this afternoon, at three o'clock Frankfurt time, which is a useful moment for debt investors to question the group on capital and funding after yesterday's record result.
+
+In the United States, smaller banks continue to report. The Bancorp reports after the close. Among smaller names this week, TowneBank earned eighty-one point eight million dollars, up from forty-four point three million a year earlier, and Ameris earned one hundred and sixteen million dollars. Nothing in the regional space this morning changes the story from the large banks' mid-October results, but it does confirm earnings are healthy.
+
+On the large banks, a reminder of what we heard two weeks ago. JPMorgan earned fifteen point three billion dollars, up six percent but short of expectations. Goldman Sachs profit was up twenty-nine percent, with record advisory revenue. Citi had revenue of twenty-three point eight billion, up eight percent, its best third quarter in a decade.
+
+The headline from American banks this week is not results but financing. Bank of America, Blackstone, Citi and Morgan Stanley announced a sixty-three billion dollar financing structure to buy artificial intelligence accelerators from Broadcom, for use by Anthropic. The structure uses a special purpose vehicle that buys the chips and leases them to the end user. Broadcom's support for residual value covers the first-lien portion, and Citi and Morgan Stanley are among the banks arranging that first-lien debt.
+
+For credit investors, the lesson is the architecture. The risk is being carved up between residual value, lease credit and first-lien lenders. These are exactly the layers where ratings, haircuts and recovery assumptions matter. The banks earn fees and then distribute much of the risk to the investors. That is good for bank capital. It is worth watching how this debt trades once it reaches the market, because a stretch in these spreads would be an early signal for the whole data-centre financing complex.
+
+Now to Asia.
+
+Overnight, Japan's Nikkei rose around half a percent in early trade, to just under sixty-four thousand. Hong Kong's Hang Seng was roughly flat, near twenty-three thousand, while the Shanghai-Shenzhen index fell about six tenths of a percent. The standout was South Korea. The Kospi crossed six thousand, after memory chipmaker S K Hynix reported quarterly profit that almost tripled. One headline said it has sold out its memory output until twenty twenty-nine. That is a claim from a secondary source, so treat it as a headline, not a fact.
+
+For Asian banks, the point is the same as in Europe. The artificial intelligence build-out is a source of loan demand and of fee income, and Japanese and Korean lenders have much to gain. I did not find a new bank-specific regulatory or results event in Asia overnight, so this is the context rather than a story. The one earlier datapoint: Standard Chartered's Hong Kong-listed shares jumped more than five percent after its upgrade, and H S B C's fell almost as much on its miss.
+
+Another India item: Bandhan Bank shares rose about two percent after a very large jump in quarterly profit.
+
+Time for the I P O watch.
+
+The deal of the week is in India. Jio Platforms, the telecom and digital arm of Reliance, listed on the B S E and the N S E yesterday, the twenty-eighth. The issue was priced at one thousand, one hundred and nineteen rupees, the top of its band. The shares opened at one thousand, three hundred and fifty-eight, a premium of twenty-one point four percent, and closed around one thousand, four hundred and seventeen, up about twenty-six point seven percent. The market capitalisation at the close was about thirteen point oh five lakh crore rupees, which made it India's second most valuable listed company, behind its parent Reliance at about fifteen point six eight lakh crore. One report says it was the biggest first-day gain for an Indian issue above fifteen thousand crore rupees, and that the valuation passed one hundred billion dollars. Demand was heavy. One report cited oversubscription of twenty-two times.
+
+Why does it matter? Indian bank underwriters earn fees, and a successful mega-listing reopens the window for other large issuers. For Indian lenders, it also pulls retail money out of deposits and into equity, though only at the margin.
+
+In Hong Kong, the picture is far more cautious. Suzhou Dongshan Precision Manufacturing listed on the twenty-eighth, raising nine point eight eight billion Hong Kong dollars, about one point three billion U.S. dollars. It priced at eighty-six point eight Hong Kong dollars, about seven and a half percent below the top of the range. Retail investors covered only half of their allocation, at point five two times, while the international book was three times covered. Bloomberg, via a summary, put the valuation around thirty billion dollars. The shares fell about two percent on the first day. Earlier in the week, three of four new listings opened below their offer prices. And yet Hong Kong has raised a record forty-seven billion U.S. dollars across one hundred and sixteen listings in the first nine months of this year.
+
+The next big name in Hong Kong is Syngenta, which is targeting a valuation of at least sixty-six billion U.S. dollars, though I could not confirm the date.
+
+In the United States, it is quiet. The one deal on the calendar this week is OPay, an Africa-focused digital bank, seeking about three hundred and twenty million dollars at a market value of around four point two billion, in a range of nineteen to twenty-one dollars. I did not find the result of that pricing. All eyes are on Anthropic, whose public filing is still pending. A listing before the end of the year is the latest signal, rather than November. Renaissance Capital counts around one hundred and seventeen American I P Os so far this year, a drop of about a third from last year, and its I P O index is up six percent against thirteen percent for the S and P five hundred.
+
+Looking ahead.
+
+Today: the E C B decision at one fifteen in the afternoon, Frankfurt time, and results from Societe Generale and I N G. Tomorrow, the thirtieth: Credit Agricole reports its third quarter before the market opens. It has flagged a gain of about three hundred million euros from the S B I F M flotation, and a contribution from Banco B P M of about one hundred and fifty million euros per quarter. On the ninth of November: UniCredit presents third-quarter results, and on the ninth of December, the next Fed decision with new projections. And watch for any filing from Anthropic.
+
+Now the cross-asset wrap.
+
+Rates. The ten year Treasury yield is around five percent, and the two year about four point seven percent. For banks, a higher curve is supportive of margins but corrosive for the value of fixed-rate assets. The ten year Bund is near three point four percent, so the transatlantic gap is wide.
+
+Spreads. French O A T spreads of about one hundred and fifty-six basis points on Monday, down from a high near one hundred and seventy-eight. Italy's B T P spread, about one hundred and fifteen. For banks, French and Italian senior and subordinated issuers trade with their sovereign. I did not find a verified reading for the credit indices, so I will not quote one.
+
+Equities. Wall Street closed higher for a third day, with the S and P five hundred up point two eight percent to seven thousand, seven hundred and forty-four, the Nasdaq up point two seven percent to twenty-six thousand, five hundred and fifty, and the Dow up point one nine percent to fifty-two thousand, four hundred and seventy-five. In Europe, the Euro Stoxx Banks index fell about one percent while the broad market was roughly flat. The reported figures for the Stoxx six hundred varied by source.
+
+Currencies, gold and Brent. I could not verify closing levels for the euro, the yen or gold. What I can say is that oil prices were higher, with the Iran-related energy shock sustaining inflation worries in Europe.
+
+Now, one interpretation that ties the day together, and this is a view, not a fact. The market is rewarding the banks that make money from wealth, trading and fees, and punishing those whose net interest income disappoints, even in an environment of rising rates. At the same time, the sovereign curve is the real risk. A Fed that may hike, a French budget without a majority and a bond market that is testing both, all of that eventually shows up in bank funding costs. Record profits today do not protect spreads if the sovereign gets disorderly.
+
+Now, a few market anecdotes.
+
+First: the Anthropic financing is not just large. It is a bank-built structure whose risk is cut into layers, with the chip maker guaranteeing the residual value of its own chips. That is a very twenty twenty-six way to finance technology.
+
+Second: Jio's debut. It opened more than twenty-one percent above its offer price, and by the close it was worth more than one hundred billion dollars, making it the second most valuable company on the Indian market. A company that did not exist as a listed entity on Tuesday morning had overtaken nearly everyone in the country by Wednesday night.
+
+Third: South Korea's index above six thousand. A memory chip company's profit, nearly tripled, has pulled a whole national market through a round number.
+
+And now, this day in market history.
+
+On the twenty-ninth of October, nineteen twenty-nine, a Tuesday, the New York Stock Exchange traded more than sixteen million shares in one session, then a record. The tickers ran hours behind. The Dow fell nearly twelve percent that day, to two hundred and thirty point oh seven. This came five days after Black Thursday, when about thirteen million shares had changed hands. The market did not reach its bottom until July nineteen thirty-two, with the Dow at forty-one point two two, and stocks were then worth around a fifth of their value in the summer of nineteen twenty-nine.
+
+The link to today is leverage and liquidity, not valuation. The crash was made worse by margin lending and a market that could not process its own volume. Today the leverage is elsewhere: in off-balance-sheet vehicles, residual value guarantees, and long-dated sovereign debt. The mechanics differ. The lesson, that the first drop is rarely the last, is the same.
+
+That is the Bank Credit Briefing for Thursday, the twenty-ninth of October. Results from Societe Generale and I N G, and the E C B decision, were still to come when this was recorded, so please check your terminal for late news. Thank you for listening.
