@@ -1,0 +1,135 @@
+Good morning, and welcome to the Bank Credit Briefing for Friday, the thirtieth of October. European, American and Asian banks, through a credit lens.
+
+Three stories lead today.
+
+First, the European Central Bank held its deposit rate at two point five percent, hinted at a hike in December, and Christine Lagarde announced that she will leave early, on the seventh of February. French spreads sit near the widest levels of the year.
+
+Second, an A I spending scare. Alphabet fell more than twelve percent on Wall Street, Amazon and Intel stumbled after the close, and Asia paid the bill this morning. The Korean market fell almost five percent.
+
+Third, results. Societe Generale and I N G reported on Thursday, and both are handing capital back to shareholders. Add Deutsche Bank, B N P Paribas and Santander from Wednesday, and the European bank earnings season is ending strongly.
+
+After that: supervisory capital decisions for twenty twenty-seven, Asia, the I P O watch, the week ahead, a cross-asset wrap, some market anecdotes, and this day in market history.
+
+Let us start with the central bank.
+
+The European Central Bank left the deposit rate at two point five percent. The main refinancing rate stays at two point six five. Lagarde said the council discussed raising rates and then agreed unanimously to wait. Reuters read the statement as a clear signal that a quarter-point hike to two point seven five percent is on the table in December, and one market source put the probability at around eighty percent. Treat that number with some caution, because I could only find it on one site.
+
+The surprise was Lagarde herself. She said she will step down on the seventh of February, about nine months before her eight-year term ends. She framed it as wanting freedom to speak on world events beyond monetary policy. President Macron called for a coordinated succession process.
+
+For credit, there are three points. A hawkish hold with a departing president is an awkward mix. The market now has to price both the December decision and a new name at the top, at a moment when energy costs are rising and France is under stress. Two-year yields fell sharply on the day and the euro slid to around one dollar eleven, its lowest since last May. So the market read the message as hawkish words with limited follow-through, and the curve flattened.
+
+Second, the French angle. The ten-year O A T paid about one hundred and fifty-five basis points over Bunds on Thursday. The O A T yield was about four point nine three percent against three point three eight on the Bund. The spread was about one hundred and fifty-six on Wednesday, and the peak this year was one hundred and seventy-six, on the twenty-third of October. So the spread has pulled back from the extreme, but it is still the widest it has been in decades outside that spike.
+
+Third, why that matters for bank investors. The big French banks hold domestic sovereign debt worth something like fifteen to thirty percent of their best-quality capital. So a wider O A T spread is not only a mark-to-market issue on the liquidity book. It also feeds the cost of funding. Analysts at S and P noted at the beginning of October that B N P Paribas, Societe Generale and Credit Agricole traded below eight times earnings, against a median of ten point three for twenty large European banks. The earnings are good. The discount is political.
+
+Now to the second story, the A I scare.
+
+Alphabet lost more than twelve percent on Thursday. Reports tie the drop to heavy spending on artificial intelligence that has turned its free cash flow negative. Microsoft, by contrast, beat expectations. After the close, Amazon fell about seven percent in extended trading on a holiday-quarter sales forecast below expectations, and Intel dropped something like eighteen percent or more on weak fourth-quarter guidance and a warning on personal computer demand. The exact moves vary between sources, because they were captured at different times.
+
+For a bank credit investor, this is the financing question, not just an equity story. Lenders have been funding the data-centre build-out through project loans, leasing structures, residual value guarantees and securitisation. The funding thesis rests on the hyperscalers being willing to spend and able to pay. Today the market asked a different question: what if the return on that spending is slower than hoped, and the spending is eating cash flow? That does not make the loans bad. The leases and offtake contracts are long, and the counterparties are strong. But it does change the tone for new issuance, for risk transfer trades on these portfolios, and for the banks with the largest concentration, which include the Japanese megabanks and the big US investment banks.
+
+Treasuries rallied as equities fell. The ten-year yield was around five percent, and one source described it as a seven-week low. Earlier this month the ten-year touched five point three four two percent, its highest since two thousand and two. So rates have eased from the peak, but this is still an extremely high level of yield, and banks are still sitting on large unrealised losses in their bond books.
+
+Third story: results.
+
+Societe Generale reported third-quarter revenue of about seven point one seven billion euros and net income of about one point eight nine billion, both ahead of consensus. Management raised its return on tangible equity target for the year to above eleven percent, from above ten. Core equity tier one stood at thirteen point four percent at the end of September, against a requirement of ten point two six percent. That is roughly three hundred and twenty basis points of headroom. The bank completed a one point five billion euro extraordinary buyback on the thirtieth of September. The shares were up by about half a percent. For credit, this is a bank with a comfortable buffer, rising profitability, and a stock that is still cheap because of France.
+
+I N G reported net profit of one point eight five billion euros, up three point five percent on the year. Return on tangible equity was sixteen point three percent in the quarter. Risk costs were four hundred and three million euros, including a one hundred and eleven million euro charge from an I F R S nine model update. Without that charge, and without costs from risk transfer deals, risk costs were well below the twenty basis point through-the-cycle level. Core equity tier one rose thirty basis points to thirteen point three percent. A new buyback of one point six five billion euros started on the twenty-ninth of October, along with a cash component of two hundred and fifty million. Management expects core equity tier one to stay around thirteen percent, and return on tangible equity above fifteen percent. There are also further restructuring costs coming in the fourth quarter, including one hundred and seventy-five million euros in wholesale banking.
+
+The credit read is positive but with a flag. Significant risk transfer trades reduced risk-weighted assets by three billion euros in the quarter, and added sixteen basis points of capital so far this year. That is the same instrument that sits at the centre of the A I financing debate.
+
+Now, reporting today.
+
+I could not confirm any watchlist bank reporting on Friday morning. The heavy lifting came on Thursday with Societe Generale and I N G. Let me give you the other bank results from the past three days in one block.
+
+Wednesday: Deutsche Bank, B N P Paribas and Santander all beat profit forecasts. Deutsche profit rose about two percent, led by retail and corporate banking. Its fixed income and currency revenue fell three percent, less than the five percent drop at US peers. B N P Paribas profit rose fourteen percent to three point four six billion euros, and it announced a one point three billion euro buyback. Equities trading jumped about fifty percent. Santander's underlying profit rose nineteen percent, helped by recent acquisitions in Britain and the United States. Brazil was the weak spot, with higher provisions after the election of Lula da Silva.
+
+Barclays reported last week, on the twenty-second. Pre-tax profit was about two point three billion pounds, up around twelve percent. Core equity tier one was fourteen point two percent, or fourteen point zero after a new five hundred million pound buyback. Year-to-date distributions are two point eight billion pounds. Equities trading jumped forty-seven percent, while fixed income revenue fell. The bank also announced job cuts, with artificial intelligence cited as the efficiency driver.
+
+The pattern across all of these is the same. Equities trading is strong, fixed-income trading is soft, capital is ample, and buybacks are large. For senior bondholders that is a comfortable picture. For additional tier one it means call-ability and strong demand. For subordinated investors the key question is how much of this capital return is simply being recycled in the banks' own funding programmes.
+
+Now the regulators and supervisors.
+
+This is the season of annual capital decisions from the European Central Bank for twenty twenty-seven, and several have been published this week.
+
+B B V A said the ECB set its twenty twenty-seven minimum core equity tier one at nine point three six percent, and total capital at thirteen point six percent. The Pillar two requirement rises from one point five percent to one point seven, while a small extra add-on linked to provisioning expectations has been removed.
+
+I N G said its Pillar two requirement is unchanged at one point seven percent. The core equity tier one requirement stays at eleven point one two percent, total capital at fifteen point three seven, and the leverage ratio requirement at three point six percent.
+
+B N P Paribas, according to one financial news aggregator, saw its Pillar two requirement rise by seventeen basis points to one point nine percent, effective from the first of January. I could not check this against the ECB or the bank's own release, so treat it as unconfirmed.
+
+Elsewhere, the Spanish bank Abanca saw its requirement rise because Spain's countercyclical buffer on its exposures increased from zero point three six to zero point eight eight percent. And in Germany, B a Fin cut the Pillar two requirement of flatex-Degiro by one hundred basis points to one point five percent and removed its individual surcharge.
+
+The takeaway for credit investors is that the supervisory direction is mixed, but not punitive. Small increases for B B V A and B N P, flat for I N G. The management buffers on top of the requirements are broad, usually above two hundred basis points. The real regulatory risk this season is in the model add-ons and national buffers, such as the Swedish regulator's action on S E B in October, rather than in the Pillar two numbers.
+
+In Japan, the Bank of Japan held its policy rate at one point two five percent by an eight to one vote, with one member, Takata, seeking a hike. It said underlying inflation is consistent with its two percent target, and that it will more than double its sales of exchange-traded funds from twenty twenty-seven. For Japanese banks, steady rates mean steady net interest margins, and the ETF sales will remove a long-standing support from the equity market.
+
+Now a round-up of Europe.
+
+The European banking index was broadly flat on Wednesday and Thursday. The market is torn between two things. Earnings are beating forecasts and capital returns are large. At the same time, French bond stress, a possible December hike and the A I selloff are all weighing on sentiment. Credit-wise, bank paper has been resilient. Primary issuance in the financial sector has been heavy. One market publication described the dollar investment-grade market for financial issuers as having its busiest October on record, with banks front-loading funding to top up regulatory requirements. I could not confirm the date of that report, so treat it as colour rather than a number.
+
+Italy, Germany and the rest. No major merger news was confirmed in my sources for the past twenty-four hours. The capital return story dominates, and the coming week is quieter on results.
+
+Now the United States.
+
+Wall Street banks reported their third quarters two weeks ago, and the big story since then has been the technology sector. Thursday's session was dominated by Alphabet and Microsoft. The Federal Reserve held rates on Wednesday. Index levels differ between sources, so I will give direction only: technology fell, the broader market held up better, and Treasuries rallied.
+
+For US banks, the read-across is twofold. First, the investment banks are heavily involved in financing the A I build-out, both in loans and in bond underwriting, so a spending scare hurts the pipeline. Second, lower long yields help the unrealised losses on bank bond portfolios, and ease the pressure on deposit costs.
+
+Now to Asia.
+
+Asian markets fell sharply on Friday. South Korea led the way. The Kospi fell four point nine percent, and a sidecar halted programme trading after futures dropped five percent. That is the first sell-side halt in eleven trading days. The Kospi is now down more than seventeen percent in October. Samsung Electronics and S K Hynix were hit hard. In Tokyo, the Nikkei lost between two and a half and three percent, depending on the time of the quote. Taiwan also fell sharply, with T S M C among the main losers. Hong Kong was the exception, up one point four percent.
+
+For Asian banks, the point to watch is the link between chip stocks and bank funding. In Korea, a fall of this size feeds quickly into retail margin loans and brokerage collateral. In Japan, the megabanks lend widely into the A I and data-centre chain. I found no bank-specific news from Asia in the past day, so the message is simply this: it is an equity shock first, and credit spreads have not yet confirmed it.
+
+The yen firmed modestly after the Bank of Japan, with the dollar around one hundred and fifty-eight yen on Thursday.
+
+Time for the I P O watch.
+
+In the United States, the main deal is Opay. The payments company priced its New York Stock Exchange offering at nineteen dollars, the bottom of its nineteen to twenty-one dollar range. It sold sixteen million American depositary shares, raising about three hundred and four million dollars. Earlier filings pointed to a valuation above four billion dollars at the midpoint of the range. Trading starts today, so I have no first-day move. The low-end pricing tells you that investors are demanding a discount, which is consistent with a day when technology is under pressure.
+
+Also reported as pricing: Aspen Neuroscience at fifteen dollars, the bottom of its range of fifteen to seventeen, on Nasdaq. The sources disagree on some of the details here, so check the calendar before relying on it.
+
+In India, Jio Platforms listed on Wednesday, the twenty-eighth. The offering was worth about three hundred and two billion rupees, and was subscribed twenty-two times, with institutions bidding more than seventy times their quota. It opened at one thousand three hundred and fifty-eight rupees against an issue price of one thousand one hundred and nineteen, a premium of twenty-one percent. That put its market value at about thirteen lakh crore rupees, making it the second most valuable listed company in India after Reliance. It added about five percent on the second day.
+
+In Hong Kong, the debut of Suzhou Dongshan Precision was on Wednesday. The company raised about nine point seven to nine point nine billion Hong Kong dollars, depending on the source. Retail demand covered only about half of its allocation, while institutions covered it more than three times. It opened five percent below the offer price and recovered to just below it. This is a useful contrast with Camsense, which jumped two hundred and sixty-five percent on debut on the thirtieth of September.
+
+Why does this matter for banks? The fees from these deals flow to the underwriters, and a strong Jio listing in India and a lukewarm one in Hong Kong tell you where the appetite is.
+
+The pipeline. Ganzhou Hemay Pharmaceutical expects to set its Hong Kong price by the fifth of November and list on the ninth. Hosin Electronics expects to price by the tenth and list on the twelfth. Suzhou Denglin, a graphics chip designer, is seeking up to one point seven six billion Hong Kong dollars, and its subscription closes on the tenth of November.
+
+Now looking ahead.
+
+The key date is the December meeting of the European Central Bank, where a hike is now signalled. Before then, watch the succession discussion for the ECB presidency, which will start soon, and French budget news. In Asia, the Hong Kong IPO calendar has the Hemay listing on the ninth of November, Denglin closing on the tenth, and Hosin listing on the twelfth. Lagarde leaves on the seventh of February.
+
+And now the cross-asset wrap.
+
+Rates. The ten-year Treasury yield is around five percent, down from its early October high of five point three four two. So what for banks: relief for bond portfolios and for deposit costs. The Bund ten-year is around three point three eight percent and eased after the ECB. The O A T is at four point nine three, a spread of about one hundred and fifty-five basis points. So what: still a political risk premium on French banks.
+
+Credit. Bank issuance has been heavy, and I did not find a verified level for the iTraxx or C D X indices, so I will not give one. The direction was wider on the technology scare, according to market commentary.
+
+Currencies. The euro fell to about one dollar eleven, the lowest since last May. Dollar-yen is near one hundred and fifty-eight. So what: a weaker euro helps European exporters and, marginally, banks with dollar earnings.
+
+Commodities. Bloomberg's headline on the ECB spoke of alarm over oil, but I could not verify a Brent level, so I will leave it at that: energy costs are the stated inflation worry.
+
+Equities. The Kospi fell four point nine percent. That is the standout move of the day. The Nikkei fell two and a half to three percent, Hong Kong rose one point four percent. Alphabet fell twelve percent.
+
+Crypto. One Asia wrap carried the headline that a hack at Binance shook the crypto market. I have no level, so just note it.
+
+Here is a view, not a fact. The market is trying to price three things at once: a central bank that sounds hawkish but is losing its leader, a sovereign that is paying a lot more than Germany, and an A I boom that now has to prove it pays. Banks are in the best capital shape in years, and that is why bank credit has held up. But the three risks all touch the same place: funding costs and the quality of long-dated collateral. If the A I scare spreads from equity into credit, the first place you would see it is in structured and project financings, not in senior bank paper.
+
+Now some market anecdotes.
+
+First, the Korean sidecar. The halt on Friday morning came at about four minutes past ten in Seoul, and was the first sell-side halt in eleven trading days. It is a reminder that Korea has built circuit breakers specifically for the moments when programme selling feeds on itself.
+
+Second, Jio Platforms. A company that did not exist as a listed entity on Tuesday morning was, by Wednesday evening, bigger than almost every other firm in India, behind only Reliance, its parent.
+
+Third, Alphabet. A stock worth trillions of dollars lost more than twelve percent in a day, and the explanation was not a weak quarter in the usual sense, but the simple fact that spending on A I had pushed free cash flow below zero. A thing that used to be seen as an investment is, for one session, being treated as a cost.
+
+And now, this day in market history.
+
+On the thirtieth of October nineteen twenty-nine, a Wednesday, the Dow Jones Industrial Average rose twenty-eight point four oh points, or twelve point three four percent, to close at two hundred and fifty-eight point four seven. It was one of the biggest one-day rebounds in the index's history. It came after two of the worst days the market had ever seen, Black Monday and Black Tuesday. And it was not the bottom. The market kept falling, and reached an interim low on the thirteenth of November.
+
+The link to today is simple. After a violent fall, a violent bounce feels like the all-clear. The Kospi has lost more than seventeen percent in a month, and Friday's drop will tempt some investors to buy. The nineteen twenty-nine lesson is that the size of the bounce tells you about volatility, not about direction.
+
+That is the Bank Credit Briefing for Friday, the thirtieth of October. Late results and the opening of the Opay trading session were still to come when this was recorded, so please check your terminal for late news. Thank you for listening, and have a good weekend.
