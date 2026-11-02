@@ -1,0 +1,133 @@
+Good morning. This is the Bank Credit Briefing for Monday the second of November, twenty twenty-six. Because it is a Monday, we cover the whole weekend and the last seventy-two hours.
+
+Here is what matters this morning.
+
+First, a violent technology sell-off on Friday, driven by doubts over the returns on artificial intelligence spending, and what it means for the banks and private lenders that have financed the data-centre build-out.
+
+Second, a European earnings season that has delivered profits above forecasts almost everywhere, and yet a sector that refuses to rally, with French sovereign risk still the weight on the scale.
+
+Third, a surprise in precious metals: gold had its worst day in a long time on Friday, even as bond yields fell.
+
+Then we cover the banks that reported late last week, regulators, Asia, the I P O watch, a short word on the Financial Times, the week ahead, the cross-asset wrap, some market curiosities, and a lesson from history.
+
+A word of transparency before we start. This is an unattended edition, and some of my usual sources were out of reach this morning. Where I could not verify a number, I will tell you, and I will give direction only.
+
+Let us start with the sell-off.
+
+On Friday the thirtieth of October, technology shares fell hard on growing concern that the returns on artificial intelligence investment may not justify the spending. Coverage on the day spoke of more than one trillion dollars of market value wiped out in the latest leg of the sell-off. A weekend headline from one outlet put the Nasdaq decline at two point nine percent, but I could not confirm that figure from a second source, so treat it as indicative.
+
+For a credit investor the question is where the loans sit. Reporting this past week describes how J P Morgan, M U F G and other lenders reportedly took more than six months to sell down parts of the construction loans for data centres leased to Oracle. Some lenders were said to have tried to offload paper at a discount. That matters because loans stuck on bank balance sheets use up the capacity to write new ones.
+
+Barclays is reported to be seeking insurance protection on more than ten billion dollars of AI infrastructure credit. That is a classic move: when a bank wants to keep the client but reduce the tail, it buys protection, often through a significant risk transfer, and pays for it in earnings.
+
+The other channel is private credit. Large managers, including Blackstone, Blue Owl, Apollo, Pimco and BlackRock, originate much of the data-centre debt. Alternative asset manager shares sold off on concerns about redemption structures, and a lobby group report cited a record private credit default rate flagged by Fitch.
+
+So what for banks? Three things. One, direct exposure looks manageable and mostly senior secured, but syndication risk is real: warehoused loans are a mark-to-market and capital problem, not yet a loss problem. Two, banks also lend to the private credit funds themselves, through back leverage and subscription lines. That is the second-order exposure to watch. Three, most analysts call this significant but not systemic, citing lower leverage in private credit vehicles than banks carried in two thousand and eight. I would agree with the direction of that view, while noting that leverage hidden in the plumbing is exactly what we only see in the stress.
+
+My view, and it is only a view: if the technology sell-off persists into the week, expect European bank credit to trade with the risk-off tape rather than on its own strong fundamentals. Fundamentals are the next story.
+
+Now to the European earnings season.
+
+Most big names reported on Wednesday the twenty-eighth of October, and the pattern was consistent. Profits beat forecasts, capital stayed strong, distributions were announced, and the shares did little.
+
+Deutsche Bank reported its strongest quarterly profit on record, with net profit after tax of about one point nine billion euros. Reports conflict on the share reaction. One source says the shares fell two point six percent on Thursday as the sector retreated, another says they gained on the day of results. I would simply say that the result was not enough to lift the sector.
+
+B N P Paribas lifted net income by about thirteen and a half percent to around three point five billion euros, and announced a one point three billion euro buyback. It said its core equity tier one ratio should finish the year above its thirteen percent target, which leaves room for distributions.
+
+Standard Chartered and Santander also beat profit forecasts. At Santander the story was Brazil: weaker earnings and higher provisions there overshadowed the group beat. For a credit investor, this is a reminder that emerging market consumer credit is where cost of risk tends to surprise first.
+
+U B S delivered a pre-tax profit of about three point six billion dollars, with revenues up five percent from a year earlier, and accelerated its share buyback. Results were broadly in line with expectations. The accelerated buyback is the headline for credit: it signals confidence in capital after a long period of debate about Swiss capital rules.
+
+On H S B C, one report says the shares closed about six percent lower after results because investors had hoped for more from rates. I have only one source for that move, so I will leave it as reported and not rely on it.
+
+On Friday, Erste Group reported record profitability, with a return on tangible equity of twenty-three point eight percent, and upgraded its guidance several times over, despite a modest miss on earnings per share against analyst forecasts. Central and Eastern European banks remain the profitability leaders in the region.
+
+The sector picture: European bank shares are down roughly seven percent since early September, even with beats. The market is discounting rising government borrowing costs, especially French ones, and a fear that the earnings peak has been reached. My reading, labelled as a view: this is a market that pays for balance-sheet certainty, not for earnings momentum. For bondholders that is benign. Senior and subordinated paper is backed by capital ratios that are comfortably above requirements, and shareholders are being asked to take the volatility.
+
+Next, the Nordics, where the story is capital rather than earnings.
+
+Nordea reported third-quarter operating profit of one thousand five hundred and forty-one million euros, down four percent from a year earlier, on operating income of two thousand nine hundred and sixty-eight million euros, up two percent. Return on equity was fifteen point one percent and the core equity tier one ratio was fifteen point eight percent. It kept its full-year outlook for return on equity above fifteen percent and a cost-to-income ratio of forty-four to forty-five percent.
+
+Swedbank reported net profit of eight thousand two hundred and forty-nine million Swedish kronor for the quarter, up fifteen percent on the second quarter but three percent lower than a year earlier.
+
+The wider point from the Nordic tracker I consulted: earnings are lower than a year ago, and Nordea and S E B have both paused buybacks. In S E B's case, you will recall, the Swedish regulator, F I, imposed a model-related add-on in October worth roughly ten billion Swedish kronor of extra core equity requirement, with risk-weighted assets rising about one hundred and fifty billion kronor from the end of this year, a hit of about one hundred and twenty basis points to the capital buffer. For credit, a paused buyback is a positive: capital is retained, and the buffer to the maximum distributable amount stays wide.
+
+I could not confirm any watchlist bank reporting results today, Monday. If any publish this morning, check the terminal.
+
+Now to supervisors and regulators.
+
+In the United States, the Federal Reserve has finalised changes to its stress test framework, designed to reduce year-to-year swings in stress-based capital requirements by about half. The final rule takes effect on the first of December, twenty twenty-six, and the stress capital buffer effective date moves to the first of January for affected firms. The notice was published in the Federal Register on the second of October.
+
+The broader March proposals, which include the re-proposal of Basel three endgame, changes to the standardised approach and a recalibration of the G-SIB surcharge, are still proposals. No agency has given a final date. The direction is lower capital for large U S banks, which is a medium-term tailwind for their distributions and a relative headwind for European peers who must absorb the full Basel three package under the E U's own rules.
+
+On Europe, I found no new action from the E C B, the P R A or BaFin in the window. That is itself information: the pending story is the outcome of the supervisory review cycle, which tends to land in the autumn and the start of the year. Pillar two requirements for twenty twenty-seven are the thing to watch, along with any more model add-ons of the S E B type.
+
+Now to Asia.
+
+Overnight, the Nikkei 225 was down about a third of one percent, near sixty-three thousand, with investors focused on the U S midterm elections tomorrow. The Hang Seng was up around a third of one percent, near twenty-three thousand four hundred.
+
+For the banks: on Thursday the twenty-ninth, the Japanese megabanks rallied. M U F G rose about two and a half percent, and Mizuho about three and a quarter percent, in a rotation into banks after the Federal Reserve held rates. I did not find a figure for S M F G.
+
+In China, the large state-owned banks reported their fastest quarterly profit growth in several years. China Construction Bank's third-quarter report on Friday showed net profit attributable to shareholders up six point five five percent for the first nine months. Shares of the large banks jumped on the numbers, according to one report. For offshore bond investors, the point is that margin pressure appears to be stabilising, but asset quality in property remains the swing factor.
+
+Now the I P O watch, United States and Asia.
+
+In the United States, two biotechnology deals debuted on Nasdaq on Friday. Aspen Neuroscience priced at fifteen dollars, below an indicated range of fifteen to seventeen dollars, and one report had it opening at fourteen dollars and seventy cents. That is a weak debut for a cell-therapy company. Bambusa Therapeutics priced at sixteen dollars, in the middle of its range, but reports of its first trade conflict, so I will not quote a first-day move.
+
+OPay, the payments firm, was scheduled to list on the New York Stock Exchange the same day. One calendar reported it postponed indefinitely after it failed to trade, while others still listed it. Its status is unconfirmed.
+
+The read-across: the I P O window is open but unforgiving, with pricing at or below range when the technology tape is soft. For underwriters, that means fee income is there, but conditional on the market staying calm.
+
+In Asia, Hong Kong has cooled in the fourth quarter. Only three new listings have debuted since October, and all three closed below their offer price. Two other candidates shelved their listings after completing procedures. Yet the year has been very strong: companies raised about three hundred and eighty-eight billion Hong Kong dollars from January to September, against one hundred and eighty-three billion a year earlier. Market participants still expect a year-end rush.
+
+An older calendar lists several Hong Kong listings for the week of the ninth of November. That calendar is months old, so check the exchange before relying on it. For the global banks that lead these deals, Hong Kong fees are the swing factor for the fourth quarter.
+
+Now a short word about the Financial Times review segment.
+
+I am sorry to say that the review of the Financial Times could not be produced today. Both the search tool and the page fetch tool were blocked from reaching the F T website, and I will not work from anything behind the paywall or reconstruct headlines I cannot see.
+
+What I can tell you is what other outlets have said about F T material on your themes. In early October, a report citing the F T described French ten-year yields at their highest since two thousand and two, and the spread to Germany at its widest since twenty eleven. That is outside the window, and it is context only.
+
+The governor of the Bank of France, in an interview with the F T quoted by a news agency, said France risks being squeezed by interest rates unless public finances improve, while stressing that France has no immediate financing problem, with only fourteen percent of its debt maturing in twenty twenty-seven.
+
+French banks hold about fifty-four billion euros of French sovereign debt between B N P Paribas, Societe Generale and Credit Agricole, according to a Bloomberg Intelligence estimate reported last week, and their shares have been among the weakest in European banking since late June. That sovereign-bank link is the main reason French bank spreads carry a premium. I will try to restore the full segment tomorrow.
+
+Now the week ahead.
+
+Tomorrow, Tuesday the third of November, the United States holds its midterm elections. Markets will watch the balance of power in Congress for implications for fiscal policy, bank regulation and Treasury supply.
+
+The United States payrolls report is due later in the week, and gold traders in particular have flagged it. Further bank and I P O dates for the week should be checked on the terminal.
+
+Now the cross-asset wrap. Every level here is from Friday's close or the Monday Asian session, and I will say where I could not verify a number.
+
+Rates. The ten-year Treasury yield fell toward four point nine three percent on Friday. A falling yield alongside falling equities is the classic flight to quality. So what for banks: lower yields help securities portfolios and ease funding costs, but a flatter curve is not a gift to net interest income.
+
+On European rates, I do not have verified levels for Bunds, gilts or the O A T and B T P spreads, so I will give direction only. French spreads remain the pressure point for French banks.
+
+Credit. I do not have a verified level for the iTraxx or C D X indices. The direction was wider on the technology scare.
+
+Currencies. The dollar index was near one hundred and one point nine in Monday's snapshot. I have no reliable Friday close for it.
+
+Commodities. Oil rose on Friday by roughly two to two and a half percent, according to one analyst, though I have no clean settlement price. So what: higher energy prices complicate the inflation story, and that is a negative for rate-cut hopes.
+
+Gold is the standout. It fell about three and a half percent on Friday, touching a low of three thousand eight hundred and seventy dollars and twenty-five cents an ounce, its weakest level in over a year, and it was near three thousand nine hundred and six dollars in Monday's Asian session. The fall came even as yields dropped and the dollar did not clearly rise, which is unusual. It reads like forced liquidation across portfolios, the sort of thing that happens when investors sell what they can, not what they want.
+
+Equities. Technology led the fall in the United States. In Asia on Monday, the Nikkei was down a third of one percent and the Hang Seng up a third of one percent.
+
+Now my interpretation, and it is only a view. The day is a deleveraging day. When gold, which is meant to be a hedge, falls alongside stocks and yields, it tells you investors are selling winners to meet margin or redemption needs. Banks enter that environment with strong capital. The risk is not their solvency; it is the supply of risk they are asked to warehouse, whether data-centre loans, leveraged buyouts or syndicated deals. I would watch the spread of senior non-preferred paper against senior preferred as the barometer.
+
+Now, market curiosities.
+
+The first. Gold fell by about three and a half percent in a single session on Friday to a one-year low, even though Treasury yields fell. Normally lower yields support gold. Analysts called the price action somewhat unusual.
+
+The second. Hong Kong, the world's busiest I P O market this year, has seen all three of its debuts since October close below their offer price. A record year for fundraising, and a cold fourth quarter.
+
+The third. A bank loan to a data centre is meant to be a safe, long-dated, lease-backed asset. This week reporting suggests some of those loans took more than six months to sell to investors. The most solid-looking assets are not always the most liquid.
+
+Finally, this day in market history.
+
+I tried to find a verified event for the second of November and did not find one that I could confirm on a reliable source, so I will not invent one. Instead, here is a lesson from the same season. On Monday the nineteenth of October, nineteen eighty-seven, the Dow Jones Industrial Average fell more than twenty-two percent in one day. It remains the largest one-day percentage fall in its history. That date is not today, but the bed of music you heard at the start was written in the spirit of that trading-floor era.
+
+The lesson that matters today: in nineteen eighty-seven, the crash was amplified by portfolio insurance, a strategy that was supposed to limit losses but, by selling into falling markets, deepened them. Today's equivalent is any strategy that looks like a hedge until everyone tries to use it at once. That includes leveraged positions in gold, and thinly traded loan books.
+
+That is the Bank Credit Briefing for Monday the second of November. Remember that this episode was prepared early and unattended, so late news may have changed the picture. Please check your terminal for anything after the open, especially anything on the data-centre loans, French spreads or Tuesday's election. Thank you for listening, and have a good week.

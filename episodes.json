@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-02.mp3",
+  "title": "Monday 2 November: AI Selloff Hits Credit",
+  "desc": "Tech sell-off puts data-centre loans and private credit in focus, European banks beat Q3 forecasts but shares lag on French risk, and gold slumps 3.5% despite lower yields.",
+  "date": "2026-11-02",
+  "pub": "Mon, 02 Nov 2026 05:17:42 +0000",
+  "bytes": 9237568,
+  "dur": 1154
+ },
+ {
   "file": "Bank_Briefing_2026-10-30.mp3",
   "title": "Friday 30 October: ECB Hold, Lagarde Exit",
   "desc": "The ECB held at 2.5% and signalled a December hike as Lagarde announced an early exit, an AI-spending scare hit Wall Street and Asia with the Kospi down almost 5%, and Societe Generale and ING reported solid results with new buybacks.",
@@ -115,14 +124,5 @@
   "pub": "Sat, 17 Oct 2026 08:14:32 +0000",
   "bytes": 12426388,
   "dur": 1553
- },
- {
-  "file": "Bank_Briefing_2026-10-15.mp3",
-  "title": "Thursday 15 October: Nordea pauses buybacks, AI debt hits Asia",
-  "desc": "Nordea buyback pause on ECB model review and the SEB read-across, Kospi and Nikkei sell-off on AI debt fears, hot US PPI but falling yields, US regional banks, Iambic IPO, and 15 October 2008.",
-  "date": "2026-10-15",
-  "pub": "Thu, 15 Oct 2026 22:36:52 +0000",
-  "bytes": 8126842,
-  "dur": 1015
  }
 ]
