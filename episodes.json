@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-03.mp3",
+  "title": "Tuesday 03 November: Oil Slump, AI, France",
+  "desc": "Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&P's review, and UniCredit closes in on Commerzbank before its Thursday results.",
+  "date": "2026-11-03",
+  "pub": "Tue, 03 Nov 2026 05:07:50 +0000",
+  "bytes": 11299988,
+  "dur": 1412
+ },
+ {
   "file": "Bank_Briefing_2026-11-02.mp3",
   "title": "Monday 2 November: AI Selloff Hits Credit",
   "desc": "Tech sell-off puts data-centre loans and private credit in focus, European banks beat Q3 forecasts but shares lag on French risk, and gold slumps 3.5% despite lower yields.",
@@ -115,14 +124,5 @@
   "pub": "Sat, 17 Oct 2026 14:41:34 +0000",
   "bytes": 11283479,
   "dur": 1410
- },
- {
-  "file": "Bank_Briefing_2026-10-16.mp3",
-  "title": "Friday 16 October: Nordea pauses buybacks",
-  "desc": "Nordea pauses buybacks on tougher ECB model rules, the ECB clears UniCredit to take control of Commerzbank, and US Bancorp and PNC report as hot PPI and an AI credit scare hit markets.",
-  "date": "2026-10-16",
-  "pub": "Sat, 17 Oct 2026 08:14:32 +0000",
-  "bytes": 12426388,
-  "dur": 1553
  }
 ]

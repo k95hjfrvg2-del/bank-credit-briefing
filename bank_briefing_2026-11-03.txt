@@ -1,0 +1,149 @@
+Good morning. This is the Bank Credit Briefing for Tuesday the third of November, twenty twenty-six. The last twenty-four hours in bank credit, across Europe, the United States and Asia.
+
+Here is what matters this morning.
+
+First, oil. Brent dropped about eight percent on Monday, its sharpest fall in months, on signs of progress in talks between Washington and Tehran. Treasuries rallied, but the Nasdaq slid into a correction, and the artificial intelligence trade is still the main stress point for credit.
+
+Second, France. The spread between French and German ten-year bonds is still historically wide, the budget fight goes on, and French banks hold the sovereign risk.
+
+Third, European banks are mostly done reporting, and the pattern is the same almost everywhere: profits beat, shares shrug. HSBC is the cautionary tale of the last week. Raiffeisen reports today, and Commerzbank follows on Thursday, with UniCredit hovering over it.
+
+After that: supervisors, Asia, the I P O watch, a short review of the Financial Times, looking ahead, the cross-asset wrap, market anecdotes, and this day in market history.
+
+A note on sourcing before we start. Search tools give me dated headlines, not terminal screens. Where a level could not be verified for the right date, I give direction only, and I say so.
+
+Let us start with the bond market, because it set the tone for banks yesterday.
+
+Brent crude fell roughly eight percent on Monday, to about one hundred and four dollars a barrel. American crude fell by a similar amount, to about ninety-six dollars. It was the biggest one-day drop since the middle of May. The trigger was diplomatic. Reports said procedural hurdles in the American and Iranian talks had been cleared, with Qatar mediating, and that Tehran's leadership had backed the push.
+
+For fixed income, the oil move matters more than the headline. Oil above one hundred dollars has been feeding inflation expectations and long yields. When it fell, longer Treasury yields eased by around four basis points, to their lowest since September, according to market reports. The ten-year Treasury sits near four point nine percent. The thirty-year is near five point three percent.
+
+Those are very high levels. They are the reason bank securities portfolios, and commercial real estate valuations, are still under pressure, even in a quarter when earnings were good.
+
+For banks, the read is straightforward. A lower oil price helps the inflation path, helps the case for lower policy rates later, and helps duration marks on bond books. But the Dollar index is near one hundred and two, the yen is weak near one hundred and fifty-eight to the dollar, and long yields remain close to cycle highs. One good day does not change the funding backdrop.
+
+The second headline is artificial intelligence, and it deserves care.
+
+On Friday, the technology sell-off was violent. On Monday, it continued. The S and P five hundred fell about half a percent, to seven thousand five hundred and forty-one. The Nasdaq composite fell just over one percent, to about twenty-five thousand one hundred and sixty. Reports say it is now in a technical correction, down more than ten percent from its October high, although sources differ on exactly which Nasdaq index has crossed that line. The Dow, helped by a rotation, actually rose about four tenths of a percent, to just under fifty-two thousand.
+
+Why does this matter to a bank credit investor? Because the build-out of data centres is being financed by debt, and a growing share of it sits with banks, private credit funds and insurers.
+
+Morgan Stanley has estimated that private credit could supply more than half of the roughly one and a half trillion dollars needed for global data centres through twenty twenty-eight. A Chicago Federal Reserve study from February put direct bank exposure to AI-adjacent industries at only about zero point eight percent of assets. But it flagged the indirect channel: bank lending to the private credit funds themselves.
+
+The largest data centre lenders include JPMorgan, M U F G and S M B C, with Blue Owl, Pimco and Blackstone Credit alongside them. Moody's has made a point worth repeating. A finished data centre is not necessarily a cash-flow generating asset, and graphics chips wear out faster than loans amortise.
+
+Here is the credit view. A sell-off in the equity of AI developers does not by itself hurt a senior secured data centre loan with a creditworthy tenant. It does hurt when the tenant is a start-up, when the collateral is chips rather than buildings, or when a bank is lending to a fund that is itself leveraged to those assets. Watch the funds, not the headline banks.
+
+Now to the country that has been the main European stress point: France.
+
+The spread between French and German ten-year bonds has been the headline for weeks. One market source put it at about one hundred and seventy-four basis points on the twenty-second of October, the widest since the early two-thousands. Another put it near one hundred and sixty on Monday. The two sources are not identical, so take the range. Either way, it is far wider than a year ago, and wider than Italy's spread over Germany, which would have sounded absurd not long ago.
+
+The fundamentals are not a mystery. The finance ministry expects public debt to reach a record one hundred and nineteen point three percent of output this year, and about one hundred and twenty-two percent next year. The government's draft aims to cut the deficit to five percent of output from five point four. Economists at I N G argue the package slows the deterioration but does not reverse it. The budget has no stable majority, and there is talk of the government using a constitutional shortcut to pass it without a vote. Reports on the exact voting dates conflict, so I will not give you one. What I can say is that S and P is due to review France's rating on the twenty-seventh of November.
+
+For bank credit, France matters in three ways. First, French banks hold French government debt in their liquidity portfolios, so wider spreads hit marks and funding costs. Second, French bank senior and subordinated paper trades off the sovereign. The big names, BNP Paribas, Credit Agricole and Societe Generale, are tied to the sovereign by rating methodology, so a downgrade would reprice that debt. Third, the European Central Bank has said it would intervene only if moves became disorderly, which tells you where the line is. We are not there.
+
+My conclusion: this is a slow-burn problem for senior and tier two spreads in French banks, not a tail risk this week. The event risk is the rating review at the end of the month.
+
+Now to results. The season is almost over, so here is where it ended up.
+
+First, HSBC, which reported a week ago today and has been the weak spot. Revenue was about eighteen point six billion dollars, below the roughly nineteen billion that analysts expected. Wealth revenue was flat, which was the real disappointment. Pre-tax profit rose thirty-two percent to nine point six billion dollars, helped by the absence of a one point four billion dollar legal charge a year earlier. The expected credit loss charge was zero point eight billion dollars, about thirty-one basis points of loans. The core equity tier one ratio fell two tenths of a percentage point, to thirteen point nine percent, on higher risk-weighted assets, the buyback and lower bond values. HSBC announced a further buyback of up to one billion dollars. The shares fell about six percent.
+
+The credit takeaway: a capital ratio under the bank's own target range while it is still buying back stock is not a credit problem at HSBC's scale. But it tells you the margin for error on distributions is thin, and that management prefers returning capital to growing it.
+
+Second, UBS, which reported on the twenty-eighth of October. Revenue was thirteen point three five billion dollars, up five percent, with a record quarter in the investment bank. The Swiss capital debate, with the government wanting much more capital held against foreign subsidiaries, remains the swing factor for UBS subordinated debt.
+
+Third, Erste Group, which delivered record quarterly profit above one point one billion euros, though earnings per share of two euros seventy-four were below analysts' forecasts. Central and Eastern European banks are earning well, and that is a quiet positive for the Austrian credits.
+
+Fourth, the large American banks, which reported in mid-October. JPMorgan posted a rare earnings miss, with net income of fifteen point three billion dollars, while Goldman Sachs had record advisory revenue and Citigroup beat expectations, with services revenue up fifteen percent. The mood was shaped by AI headlines, I P O uncertainty, high fuel prices and rising borrowing costs. For credit, the message from America is that capital markets revenues are strong and consumer credit is holding. The risk is that a Nasdaq correction undermines the I P O and advisory pipeline that has driven that revenue.
+
+Now, the banks reporting today.
+
+Raiffeisen Bank International publishes its nine-month results today, with a conference call. As I write, I have the calendar date but not the numbers, so I will not guess them. The questions for credit are familiar. What is the Russian contribution to profit, how much capital is still trapped there, and what does the bank say about its core equity tier one ratio and distributions? Check the terminal for the release, which comes out in the European morning.
+
+I could not verify other watchlist banks reporting today. The big wave is behind us. Commerzbank reports on Thursday the fifth of November, which brings us to Germany.
+
+UniCredit received European Central Bank approval on the fifteenth of October to take control of Commerzbank, with no cap on its stake. The remaining processes are expected to finish around year end, when UniCredit could hold about half of the voting rights, counting its derivatives. One German-language report puts it at about forty-nine point seven percent already, but that is a secondary source, so treat it with caution. Reports also mention a plan for around seven thousand job cuts at Commerzbank. The German government and Commerzbank's management have opposed the bid, though some have softened their tone as the stake approached the half-way point.
+
+For credit investors, this is the most important European bank M and A story. A change of control can trigger rating reviews, reshape the funding structure and decide which entity issues senior preferred and non-preferred debt. If UniCredit takes control, the combined group would be rated by reference to UniCredit's strength, which is currently high. For existing Commerzbank bondholders, watch the change-of-control language and whether the group streamlines its funding vehicles. Thursday's results will show how much capital Commerzbank is carrying before it is absorbed.
+
+Now supervisors and regulators.
+
+The most important recent supervisory action in the region remains the Swedish regulator's decision in October on S E B. F I imposed a model add-on that raises S E B's capital requirement by about ten billion Swedish kronor. It lifts risk-weighted assets by about one hundred and fifty billion kronor from the end of this year, and it cuts the management buffer by about one hundred and twenty basis points of core equity tier one. For credit holders, it is a reminder that supervisors are using model add-ons rather than headline buffer increases. The distribution capacity of the bank falls. Senior spreads should not move much, since the bank stays well above its minimum. But tier one and the buyback pace are what take the strain.
+
+Looking ahead on supervision: the European Central Bank published last year's supervisory review results on the eighteenth of November. This year's cycle is likely to land in the same window, though I found no confirmed date. Last year's review set the overall requirement at fifteen point six percent of risk-weighted assets, with Pillar Two at about two point one percent, stable. The latest data shows an aggregate core equity tier one ratio of sixteen percent across the big euro-area banks at the end of the second quarter. Capital is not scarce. The debate is about how it is used.
+
+On German commercial property, the story remains one of retreat. Pbb and Aareal are both withdrawing from United States office lending, and both have looked at significant risk transfers to move loans off their balance sheets. Those moves are background and not news today, but they matter for Pfandbrief investors. Cover pools stay high quality, while the unsecured debt of the issuers carries the loss risk.
+
+Now to Asia.
+
+Overnight markets had a clear theme: recovery after Friday. South Korea's Kospi rose two point two percent on Monday, to about five thousand eight hundred and fifty-nine, after falling three and a half percent on Friday. Chip exports from Korea were reported up two hundred and fifty-nine percent, which helped the rebound. The Nikkei was around sixty-three thousand six hundred, roughly flat to slightly higher. The Hang Seng was up about half a percent, near twenty-three thousand four hundred.
+
+For Chinese banks, JPMorgan research notes a split. State-owned banks' profits rose about nine percent in the first three quarters, while the joint-stock banks' profits fell about eight percent. China Construction Bank reported nine-month net profit of two hundred and seventy-four billion renminbi, up six and a half percent. The state banks are earning more, and the smaller banks are not. Credit holders should prefer the state-owned names, which also have the sovereign behind them.
+
+For Japanese megabanks, the point is the yen. With dollar-yen at about one hundred and fifty-eight, Japanese banks are earning well on their overseas books, but the risk is intervention and the speed of any reversal. Their lending to data centres makes them part of the AI financing story.
+
+I did not find a verified Asian bank rating action or supervisory action in the window. The point for Asian banks is the overnight rally in Korea and the stability in Hong Kong, which tells you funding markets are open.
+
+Time for the I P O watch.
+
+In the United States, the notable debut of the past day was a bank. Narragansett Bancorp, the holding company for BayCoast Bank in Rhode Island and Massachusetts, priced its offering at ten dollars a share on Nasdaq. It sold about nine point one million shares, raising about ninety-one million dollars. It began trading on Monday at ten dollars eighty, eight percent above the offer. It is a small mutual holding company conversion, and it does not move the market. But it shows that small-bank conversions are being done again, which is a signal about community-bank capital.
+
+The big story is Anthropic. Reports say it is aiming to list in the middle of November, with formal marketing possibly starting in the week of the ninth. Sources differ on the date, with one calendar showing the twelfth and others the week of the sixteenth. Goldman Sachs and Morgan Stanley are reported as lead underwriters among about twenty-two banks. One estimate puts the fee pool at around five hundred and sixty million dollars. That is an estimate, not a disclosed figure. If it happens, it is a very large fee event for the banks. It is also a test of whether the Nasdaq correction closes the window. An OPay offering in New York was suspended at the last minute last week, which tells you the window is selective.
+
+In Asia, Seoul has a debut today. Lablup, an AI infrastructure software company, lists on the Kosdaq market. It priced at nineteen thousand won, the bottom of its range, raising about forty-one point four billion won. Institutional demand was reported at about two hundred and eighty-four times the shares offered. Three firms debut in Seoul today, and six others open subscriptions. I do not have the first-day performance, so check the terminal.
+
+In Hong Kong, the boom has cooled. Only three new listings since the start of October, and all closed below their offer prices on debut, according to the South China Morning Post. Dongshan Precision, a circuit board maker, fell ten percent on debut last week. The pipeline is still large. Expect Hemay, Denglin and Hosin in the coming days, and Neautus, a traditional Chinese medicine producer, on the eleventh. A large Chinese AI supplier is also reported to be seeking about one point three billion dollars. Bloomberg reports that regulators are looking harder at cornerstone investor structures.
+
+Why does it matter? Underwriting fees are part of the investment banking recovery that carried the American banks' third quarter. If the AI correction deepens, that fee line is the first to go.
+
+Now, a short review of the Financial Times.
+
+I have to be straightforward here. The Financial Times website was not accessible to my search tools this morning, both for search and for page fetching. I cannot give you a review of today's stories without making them up, and I will not do that. So this is a themes check rather than a review.
+
+The six subjects you follow are all live this morning. On bank capital, the supervisory review is due within two weeks. On bank M and A, the Commerzbank decision and its Thursday results are the focus. On sovereign credit, the French budget and the rating review. On commercial property, German lenders are still exiting American offices. On private credit, the question is the links to banks and data centres. And on AI financing, the Nasdaq correction is the test. For the actual Financial Times coverage, please check your subscription this morning. The next episode will try again, and I will flag if access is still blocked.
+
+Looking ahead. Here are the dates I can verify.
+
+Today, Tuesday the third: the American midterm elections vote, Raiffeisen results, the Lablup debut in Seoul, and the Treasury's quarterly refunding announcement this week, which matters for long yields.
+
+Thursday the fifth: Commerzbank third-quarter results.
+
+The week of the ninth: Anthropic's possible marketing launch, and Hong Kong listings including Hemay, Denglin and Hosin.
+
+The eleventh: Neautus in Hong Kong.
+
+Mid-November: likely publication of the European Central Bank's supervisory review results.
+
+The twenty-seventh: S and P's review of France.
+
+Now the cross-asset wrap.
+
+Rates. The Treasury ten-year is near four point nine percent and the thirty-year near five point three, with long yields at their lowest since September after the oil drop. So what for banks: relief on securities marks, but still a very high rate level for commercial real estate refinancing.
+
+Credit. I could not verify a dated level for the iTraxx Crossover or the senior financial index, so I will give direction only: with equities falling and oil falling, expect little change in investment grade and a modest widening in high yield. So what: bank senior paper is not the stressed part of the market.
+
+Sovereigns. The French spread is somewhere between one hundred and sixty and one hundred and seventy-five basis points depending on the source. So what: it is the main sovereign risk for bank funding in Europe.
+
+Currencies. The Dollar index is about one hundred and one point eight, after a one-month low on Monday. Dollar-yen is near one hundred and fifty-eight. So what: Japanese banks benefit, and intervention risk is the downside.
+
+Commodities. Brent down about eight percent to roughly one hundred and four dollars. So what: lower inflation risk, but it also means energy lending, a profitable area for banks, sees lower collateral values.
+
+Equities. The S and P five hundred fell half a percent, the Nasdaq just over one percent, the Dow rose. Korea rebounded. So what: banks outperform when tech falls, but I could not verify the European bank index move for yesterday, so check the screen.
+
+Here is my view, labelled as a view. The market is rotating out of the story it has been paying for, which is cheap energy-driven AI growth, and into the story it fears, which is expensive long money. Falling oil should help. But a falling Nasdaq and rates at five percent on the long end is a mixed message. For banks, I would favour the senior credits with strong core equity tier one and low exposure to private credit funds, and I would be careful with anything linked to French sovereign risk until the rating review passes.
+
+Now, market anecdotes.
+
+One. On Friday, the Kospi fell three and a half percent. On Monday, it rose two point two percent and closed above five thousand eight hundred. That is a round trip in one weekend, driven by one data point: chip exports.
+
+Two. Oil fell about eight percent in a single session on Monday, its biggest one-day fall since the twentieth of May. The reason was a diplomatic report, not a change in supply.
+
+Three. In Hong Kong, only three companies have listed since October, and all three closed below their offer price on their first day. A venue that has been buoyant this year is now struggling to find buyers.
+
+Finally, this day in market history.
+
+On the third of November, nineteen ninety-nine, the Nasdaq composite closed above three thousand for the first time. The Dow finished that day at ten thousand six hundred and nine, and the S and P five hundred at one thousand three hundred and fifty-five. At that moment, technology stocks were going straight up on the story of a new economy.
+
+The link to today is obvious, and I will not push it too far. Then, as now, the equity story and the financing story were running ahead of cash flows. The Nasdaq peaked about four months later, and took years to recover. Today's correction is not a crash, and valuations are not the same. But what matters to credit investors is who had lent against the story. In two thousand, it was telecom and equipment lenders. This time it is data-centre lenders and private credit.
+
+That is the Bank Credit Briefing for Tuesday the third of November. Markets move fast, and late news could have changed the picture since I wrote this, so please check your terminal. Thank you for listening, and have a good day.

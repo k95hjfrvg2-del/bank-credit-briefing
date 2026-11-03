@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Tuesday 03 November: Oil Slump, AI, France</title>
+   <description>Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&amp;P's review, and UniCredit closes in on Commerzbank before its Thursday results.</description>
+   <itunes:summary>Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&amp;P's review, and UniCredit closes in on Commerzbank before its Thursday results.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-03.mp3" length="11299988" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-03</guid>
+   <pubDate>Tue, 03 Nov 2026 05:07:50 +0000</pubDate>
+   <itunes:duration>00:23:32</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Monday 2 November: AI Selloff Hits Credit</title>
    <description>Tech sell-off puts data-centre loans and private credit in focus, European banks beat Q3 forecasts but shares lag on French risk, and gold slumps 3.5% despite lower yields.</description>
    <itunes:summary>Tech sell-off puts data-centre loans and private credit in focus, European banks beat Q3 forecasts but shares lag on French risk, and gold slumps 3.5% despite lower yields.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-10-17</guid>
    <pubDate>Sat, 17 Oct 2026 14:41:34 +0000</pubDate>
    <itunes:duration>00:23:30</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Friday 16 October: Nordea pauses buybacks</title>
-   <description>Nordea pauses buybacks on tougher ECB model rules, the ECB clears UniCredit to take control of Commerzbank, and US Bancorp and PNC report as hot PPI and an AI credit scare hit markets.</description>
-   <itunes:summary>Nordea pauses buybacks on tougher ECB model rules, the ECB clears UniCredit to take control of Commerzbank, and US Bancorp and PNC report as hot PPI and an AI credit scare hit markets.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-16.mp3" length="12426388" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-10-16</guid>
-   <pubDate>Sat, 17 Oct 2026 08:14:32 +0000</pubDate>
-   <itunes:duration>00:25:53</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
