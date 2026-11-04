@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Wednesday 4 November: Midterms Jolt AI Trade</title>
+   <description>Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.</description>
+   <itunes:summary>Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-04.mp3" length="10559782" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-04</guid>
+   <pubDate>Wed, 04 Nov 2026 05:04:30 +0000</pubDate>
+   <itunes:duration>00:21:59</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Tuesday 03 November: Oil Slump, AI, France</title>
    <description>Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&amp;P's review, and UniCredit closes in on Commerzbank before its Thursday results.</description>
    <itunes:summary>Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&amp;P's review, and UniCredit closes in on Commerzbank before its Thursday results.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-10-18</guid>
    <pubDate>Sun, 18 Oct 2026 15:10:16 +0000</pubDate>
    <itunes:duration>00:21:31</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Saturday 17 October: US banks' losing streak</title>
-   <description>US bank stocks on their longest weekly losing streak since 2008 despite clean regional results, the AI debt scare spreads from CoreWeave to Asia and Jakarta, and Brent hits 110 dollars ahead of the Fed.</description>
-   <itunes:summary>US bank stocks on their longest weekly losing streak since 2008 despite clean regional results, the AI debt scare spreads from CoreWeave to Asia and Jakarta, and Brent hits 110 dollars ahead of the Fed.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-17.mp3" length="11283479" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-10-17</guid>
-   <pubDate>Sat, 17 Oct 2026 14:41:34 +0000</pubDate>
-   <itunes:duration>00:23:30</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>

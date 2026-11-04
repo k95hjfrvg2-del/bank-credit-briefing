@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-04.mp3",
+  "title": "Wednesday 4 November: Midterms Jolt AI Trade",
+  "desc": "Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.",
+  "date": "2026-11-04",
+  "pub": "Wed, 04 Nov 2026 05:04:30 +0000",
+  "bytes": 10559782,
+  "dur": 1319
+ },
+ {
   "file": "Bank_Briefing_2026-11-03.mp3",
   "title": "Tuesday 03 November: Oil Slump, AI, France",
   "desc": "Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&P's review, and UniCredit closes in on Commerzbank before its Thursday results.",
@@ -115,14 +124,5 @@
   "pub": "Sun, 18 Oct 2026 15:10:16 +0000",
   "bytes": 10333248,
   "dur": 1291
- },
- {
-  "file": "Bank_Briefing_2026-10-17.mp3",
-  "title": "Saturday 17 October: US banks' losing streak",
-  "desc": "US bank stocks on their longest weekly losing streak since 2008 despite clean regional results, the AI debt scare spreads from CoreWeave to Asia and Jakarta, and Brent hits 110 dollars ahead of the Fed.",
-  "date": "2026-10-17",
-  "pub": "Sat, 17 Oct 2026 14:41:34 +0000",
-  "bytes": 11283479,
-  "dur": 1410
  }
 ]

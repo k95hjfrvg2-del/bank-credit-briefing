@@ -1,0 +1,161 @@
+Good morning. This is the Bank Credit Briefing for Wednesday the fourth of November, twenty twenty-six. The last twenty-four hours in bank credit, across Europe, the United States and Asia.
+
+Here is what matters this morning.
+
+First, the American midterm elections. Early results pointed to a stronger Democratic showing than markets had priced. Treasury yields fell, the dollar slipped, and in Asia the artificial intelligence trade was hit hard. Japan's Nikkei and Korea's Kospi both dropped more than three percent in the morning session.
+
+Second, China. The Financial Times reported that regulators have told investment banks to pause initial public offering underwriting, to stabilise a weak stock market. That matters for Asian investment banking fees.
+
+Third, Commerzbank. It reports tomorrow at seven o'clock London time, with UniCredit's offer now closed and a very large stake on the table.
+
+After that: the banks that reported, supervisors, France, Asia, the I P O watch, a short review of the Financial Times, the cross-asset wrap, anecdotes, and this day in market history.
+
+A note on sourcing. Search tools give me dated headlines, not terminal screens. Where I could not verify a level for the right date, I give direction only, and I say so. Today I also could not open the Financial Times site directly, and I will explain what that means when we get there.
+
+Let us start with the election, because it moved everything overnight.
+
+As votes were counted on Tuesday night, Democrats scored early wins, including a Senate seat in North Carolina. The Senate race stayed tight at the time of my sources. But prediction markets were leaning towards a Democratic sweep of Congress, and that was enough to move prices.
+
+Standard and Poor's five hundred futures were down about point eight percent. Nasdaq futures were down about one point eight percent. The ten-year Treasury yield fell about six basis points, to roughly four point nine percent, the lowest since early September. The dollar index fell about a third of a percent, to near one hundred and one point four.
+
+Analysts tied the move to two ideas: less fiscal stimulus ahead, and possibly tighter scrutiny of data-centre projects.
+
+Here is the credit angle. A divided or Democratic Congress is, on the usual reading, a headwind for deregulation of large American banks, and a risk for the pace of artificial intelligence spending. Banks are lending into that spending, directly and through private credit. So an equity wobble in the data-centre trade is not only an equity story. It touches loan books, back leverage lines and securitisation pipelines.
+
+That is my view, not a reported fact, and we have only early results. Do not trade it on this.
+
+Now to Asia, where the reaction was sharpest.
+
+The Nikkei fell about three point six percent by the lunch break, to around sixty thousand eight hundred and thirty-five points. That was its lowest level since the end of July. Traders sold chip and equipment names, along with SoftBank Group and fibre-optic cable makers. Reports put the full morning loss anywhere between three and a half and four and a half percent, so treat the exact figure with care.
+
+Korea's Kospi dropped roughly three and a half percent, giving up earlier gains. Hong Kong's Hang Seng and the Shanghai Composite were close to flat. I found no bank-specific coverage for Asia this morning.
+
+For the Japanese megabanks, the read-across is indirect, but real. They are big lenders to data-centre and technology projects, and they hold large equity portfolios. A sharp fall in Tokyo growth stocks hits their unrealised gains. A lower Treasury yield also eases the pressure on their foreign bond books, which is a small offset. Watch how the three megabanks trade today against the Topix.
+
+The bigger Asia story for banks is in China.
+
+On Tuesday the Financial Times reported, citing three sources, that the securities regulator held meetings with investment banks over the past few days and gave informal guidance, known as window guidance. The aim is to revive a sluggish stock market. According to the secondary reports I could read, underwriting of new initial public offerings is being suspended. Large share sales by existing shareholders are also paused until the market recovers. Other reports mention easier buybacks and a review of margin financing rules.
+
+I could not read the original article. I am relying on relays of it, so take the detail as reported, not confirmed.
+
+Why it matters for credit. Mainland brokers and the Hong Kong investment banking arms lose a fee stream if listings stop. Mainland banks also have indirect exposure through their securities units. And it is a policy signal: Beijing is putting equity-market stability ahead of capital raising. That can support sentiment, but it tells you how fragile confidence is.
+
+For the Hong Kong listing pipeline, one open question is whether the guidance covers only onshore deals or reaches Hong Kong as well. The reports I saw do not say.
+
+Now to Europe, and the biggest live corporate story in bank M and A: Commerzbank and UniCredit.
+
+UniCredit's exchange offer for Commerzbank has now closed. Final results show shares equal to seventeen point six percent of Commerzbank's capital were tendered. UniCredit says that, added to its direct stake of twenty-six point seven seven percent, and financial instruments that give it the right to physical delivery of another three point two two percent, the total comes to forty-seven point five nine percent.
+
+Commerzbank disputes that framing. It says the direct shares, the derivative positions and the tendered shares should not be read as one aggregate holding. It calls the acceptance level proof that the offer was unattractive, and its boards still recommend that shareholders reject it. The German government, which owns about twelve percent, has formally rejected the offer too. The transfer of tendered shares still needs regulatory approvals.
+
+Commerzbank reports third-quarter results tomorrow, Thursday the fifth of November, at seven o'clock London time. No decision on the takeover is scheduled for that day.
+
+The credit read-across is this. A bank that is close to half owned by an Italian group, with a German state holder and a hostile board, is a governance risk for creditors, even if control does not formally change. The key questions are the approvals timetable, whether the buyback programme continues, and what UniCredit does with dividends and capital. Senior and subordinated spreads on Commerzbank already trade tight, so there is little cushion for surprise.
+
+Separately, supervisors have been kind to German banks. The European Central Bank cut Commerzbank's Pillar Two requirement for twenty twenty-seven by five basis points, to two point one zero percent. At least one point one eight percentage points of that must be core equity tier one. It is the second annual cut in a row. Deutsche Bank's requirement for twenty twenty-seven fell by twenty-five basis points, to two point six zero percent, while its leverage ratio requirement is unchanged.
+
+Those announcements came in late October. They matter for the buffer to maximum distributable amount, which grows when the requirement falls.
+
+Now the banks that reported in the last day.
+
+First, B P C E. For the third quarter, net banking income was about seven billion euros, up nine percent from a year earlier. Group-share net income was about one point four billion euros, up twenty-five percent. The group also set out an expansion plan in Spain and Portugal.
+
+Credit takeaway: B P C E is a mutual with no dividend pressure, and strong earnings build capital organically. The Iberian push is the thing to watch for acquisition cost. The French sovereign spread is the main external risk for this issuer, which holds large amounts of French government debt.
+
+Second, Raiffeisen Bank International, which reported on Tuesday. Excluding Russia, third-quarter profit was four hundred and nineteen million euros. That was down sixteen percent from the second quarter and nine percent from a year earlier, but roughly seven percent above company-compiled consensus, according to one report. Including Russia, group profit was three hundred and eighty-two million euros. One write-up calls it a miss, so the label depends on the benchmark.
+
+Net interest income hit a record of about one billion one hundred and sixty million euros. Guidance for the year was raised to above four and a half billion euros. Core equity tier one was fifteen point four percent excluding Russia. The group says the closing of the Romanian acquisition from Garanti B B V A costs about sixty basis points. Sources disagree on how the Russia scenarios are labelled, so check the release before relying on the exact figures.
+
+For the rest of the sector, the last week's results ran the same way. Nordea reported core equity tier one at fifteen point eight percent, one point nine points above its requirement.
+
+Société Générale reported net income of about one point nine billion euros, up roughly twenty-four percent, with core equity tier one at thirteen point four percent after a one point five billion euro buyback. Crédit Agricole S A reported about one point nine nine billion euros, with a ratio of eleven point two percent at the listed entity and seventeen point three percent for the wider group, and shares slipped on the day. Deutsche Bank earned one point nine billion euros in the quarter, its third record in a row, and U B S about two point seven billion dollars, with its three billion dollar buyback accelerated.
+
+Standard Chartered posted pre-tax profit of two point three billion dollars, up twenty-seven percent. HSBC was the weak one among the large names.
+
+The pattern for credit holders: profits are strong, capital is building, buybacks are large. That is good for senior and subordinated spreads, but it is also why spreads are already tight. The market is paying little for the good news.
+
+I found no confirmed watchlist bank result scheduled for today. Tomorrow is Commerzbank.
+
+On the United States. No major bank reported in the window. The third-quarter season ended last month, with Bank of America the stand-out disappointment on trading revenue and a regulatory penalty, and U S Bancorp posting record revenue with a net interest margin of two point eight four percent.
+
+For American banks today, the election is the story. Large banks have been pricing a lighter regulatory touch, including easier capital rules. A Democratic House or Senate would not undo existing rule changes by itself, but it would make new ones harder, and it brings oversight hearings back. For fixed income, that tilts risk slightly towards a more cautious view on bank equity and away from the buyback story, which is a mild positive for bondholders, if it comes to that.
+
+Next, France, because it remains the main sovereign risk for European bank credit.
+
+The ten-year French yield is around four point nine seven percent. The spread over Bunds has been around one hundred and sixty basis points, with sources putting it between roughly one hundred and fifty-five and one hundred and sixty. The peak this year was about one hundred and seventy-six basis points on the twenty-third of October. The German ten-year yield is near three point three two or three point three three percent.
+
+The budget is the driver. The first part, covering revenue, was due for a vote in the National Assembly on the third of November. I could not verify the outcome. There is a national strike planned for tomorrow, the fifth. Standard and Poor's reviews France on the twenty-seventh of November, and the budget deadline is the thirty-first of December. Prime Minister Lecornu's package is around fifty-four billion euros of savings.
+
+Forecasts differ. One bank sees the spread settling between one hundred and one hundred and twenty-five basis points. Another sees it falling to around seventy-five if the budget passes largely intact. These are forecasts, not facts.
+
+For French banks, the link is direct. They hold domestic sovereign debt, their ratings are capped near the sovereign, and a widening spread passes into their senior and covered bond funding costs. A downgrade on the twenty-seventh would be the test.
+
+A word on commercial real estate and private credit, because the supervisory focus is shifting there.
+
+An October report says regulators are increasing scrutiny of private credit valuations as banks and insurers hold more illiquid assets. A separate study says private credit funds and insurers hold about one point two trillion dollars of the six point four trillion dollar American commercial property market, and banks are increasingly financing those lenders through back leverage, not direct loans. Basel capital rules are pushing risk out of bank balance sheets and into this channel.
+
+That raises the question that matters for credit investors. Bank risk has not left; it has changed form. A bank that lends to a private credit fund holds a senior claim, but one that depends on that fund's marks.
+
+Now to the I P O watch.
+
+In the United States, I found no I P O pricing or debut in the window. One tracker shows no deals scheduled to price this week, though its snapshot is a few weeks old, so treat that as indicative.
+
+The big deal ahead is Anthropic. The company has filed its registration statement, but without a price range or share count. Reports say the earliest date a price could be set is the thirteenth of November, and the earliest listing is the sixteenth. Another outlet expects marketing to start the week of the ninth. Goldman Sachs and Morgan Stanley lead the list of banks in the prospectus. The Financial Times, as relayed by a crypto news site, put expected valuation at between one point five and one point seven five trillion dollars. That is a reported expectation, not a price.
+
+Why it matters for banks. A deal of that size would pay large underwriting fees to the lead banks, and it would be a test of how deep the market is for artificial intelligence equity at the very moment Tokyo and Seoul are selling it. I would not be surprised to see the timeline tested by the market this week.
+
+In Asia. In India, M K Sons Fine Jewels listed today on the N S E and B S E at a premium to its issue price of one hundred and sixty-two rupees. I do not have the first-day closing figures. In South Korea, an I P O calendar showed Lablup, an artificial intelligence infrastructure software company, due to list on the Kosdaq on the third of November, raising about thirty-one million dollars. I could not confirm the debut.
+
+Further out, Coal India is reported to be planning an I P O of its Mahanadi Coalfields unit, raising as much as one billion dollars, in the second half of November or early December.
+
+And from China, as we heard, underwriting is being paused. That is the main Asian I P O story this morning.
+
+Now a short review of the Financial Times.
+
+I need to be straightforward. The Financial Times website could not be opened by my tools today, neither for search nor for the front pages, and I do not try to get past a paywall. So I could not do the full review of five to seven stories that I was asked for. I have only what other outlets relayed, which gives me two stories from yesterday.
+
+One. The Chinese securities regulator and the pause on underwriting. We covered it: it hits investment banking fees in Asia, and it signals how worried Beijing is about equity markets.
+
+Two. The Anthropic valuation, reported at up to one point seven five trillion dollars. We covered that too: it is the largest fee pool on the horizon for the Wall Street banks, and a test of appetite for data-centre-linked risk.
+
+I will not guess at the rest of the Financial Times front page. If access returns, the review will be complete tomorrow.
+
+Looking ahead, the dates that matter.
+
+Tomorrow, Thursday the fifth of November: Commerzbank reports third-quarter results at seven o'clock London time. Also tomorrow, the national strike in France.
+
+On the thirteenth of November, the earliest possible pricing date for Anthropic, with a listing as early as the sixteenth. On the twenty-seventh of November, Standard and Poor's review of France. By the thirty-first of December, the French budget deadline.
+
+And throughout the week, the count in the United States Senate and House, which sets the tone for the dollar and for bank regulation.
+
+Now the cross-asset wrap.
+
+Equities first. On Tuesday, the Standard and Poor's five hundred rose about zero point four percent, to roughly seven thousand five hundred and sixty-nine. The Nasdaq rose about eight tenths of a percent, to around twenty-five thousand three hundred and seventy-two, as chip stocks rebounded. The Dow slipped about zero point four percent, to near fifty-one thousand seven hundred and eighty-seven. Sources vary slightly on the Dow. This morning the futures are lower and Asian technology stocks are sharply down. So what for banks: a risk-off start to the day, led by growth stocks, not financials.
+
+Rates. The American ten-year yield is around four point nine percent, down about six basis points, the lowest since early September. The German ten-year is near three point three three percent. The French ten-year is near four point nine seven. So what: lower yields help bank bond portfolios and commercial property values at the margin, but they do not remove the pressure at the long end.
+
+Credit indices. I could not verify the levels of the iTraxx and C D X indices for this morning, so I will not quote any. Given the equity move, expect them to open a little wider.
+
+Foreign exchange. The dollar index is down about a third of a percent, to around one hundred and one point four, its lowest since late September. So what: a weaker dollar helps Asian and emerging market bank funding, and reduces some hedging costs for European banks with dollar books.
+
+Commodities. West Texas crude is around ninety-five to ninety-six dollars a barrel. Brent was about one hundred and four dollars on Monday after an eight percent fall on hopes of a United States and Iran deal. I could not verify a Brent close for Tuesday. Gold fell about one percent to near three thousand nine hundred and thirty dollars an ounce after a surge on Monday. Bitcoin is around seventy-seven thousand eight hundred dollars, roughly flat after last week's hack at Binance.
+
+Here is my view, labelled as such. The day is a repricing of political risk across three places: the American Congress, the artificial intelligence trade in Asia, and the French budget. For bank credit, the common thread is that funding is cheap and earnings are strong, but the assets that banks are lending into are being repriced. Spreads have not yet been asked to reflect that.
+
+Now some market anecdotes.
+
+First, the level of the Nikkei itself. Sixty thousand is a number that would have sounded fanciful a few years ago. The index fell more than three percent this morning and was still above sixty thousand, around sixty thousand eight hundred. That says how far the Japanese rally went.
+
+Second, Eurobank. The Greek lender disclosed on the second of November that it bought back one million, five hundred and fifty-five thousand, seven hundred and thirty shares in the last week of October, for about six point seven four million euros, at an average price of four euros thirty-three. It is a small example, but it shows how routine buybacks have become across European banks, even in an unsettled week.
+
+Third, the Philippines. Banks there earned about one hundred and seven billion pesos in the third quarter, the best quarter of the year, despite foreign exchange losses and higher provisions, according to central bank data cited in the trade press.
+
+And this day in market history.
+
+On the fourth of November nineteen hundred and three, the Dow Jones Industrial Average closed at forty-two point one five. That was the low of the bear market known as the Rich Man's Panic.
+
+And a second one, closer to today's theme. On election day in two thousand and eight, the fourth of November, American stocks rose more than three hundred points on the Dow. Over the next two days, it had its biggest two-day point decline in its history.
+
+The lesson for today is that political outcomes do not tell you the direction of markets; what matters is leverage, and who has to sell when prices move. That is the point to watch in the data-centre trade this week.
+
+That is the Bank Credit Briefing for Wednesday the fourth of November. As always, check your terminal for anything that has broken since I wrote this. Thank you for listening, and have a good day.
