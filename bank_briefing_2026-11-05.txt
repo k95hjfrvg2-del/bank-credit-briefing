@@ -1,0 +1,151 @@
+Good morning. This is the Bank Credit Briefing for Thursday the fifth of November, twenty twenty-six. The last twenty-four hours in bank credit, across Europe, the United States and Asia.
+
+Here is what matters this morning.
+
+First, the American midterms. Democrats won control of Congress, and markets did not simply shrug. The Dow Jones jumped more than three percent, European bank shares had their best day in months, and oil fell by more than eight percent.
+
+Second, France. Fitch moved the French sovereign outlook to negative, and then did the same to the outlooks on B N P Paribas and Crédit Agricole. That is a direct line from the sovereign to the banks.
+
+Third, Commerzbank. It reports third-quarter numbers this morning at seven o'clock London time, with UniCredit cleared by the E C B to go above thirty percent, with no cap.
+
+After that: Intesa Sanpaolo's results, supervisors, Asia, the I P O watch, a short word on the Financial Times, the cross-asset wrap, and a few anecdotes.
+
+A note on sourcing first. I work from dated headlines and public pages, not from terminal screens. Where I could not verify a level for the right date, I give direction only, and I say so. And a warning on the Financial Times: its site was not reachable for me today, so that segment is short and honest about it.
+
+Let us start with the election, because it moved everything.
+
+Democrats won both chambers of Congress. Wall Street rallied hard on Wednesday. The S and P five hundred rose one point six percent, to about seven thousand six hundred and eighty-nine. The Nasdaq gained one point four percent. The Dow rose three percent, to about fifty-three thousand three hundred and fifty-six, its best day since April twenty twenty-five. One outlet called it the biggest post-midterm rally in forty-four years.
+
+Oil collapsed. West Texas crude settled near eighty-eight dollars a barrel, down about eight percent. Brent settled near ninety-five. Traders tied it to hopes that pressure to end the Iran war would now grow.
+
+Gold jumped about three point four percent, to roughly four thousand and seventy-three dollars. The dollar index slipped to about one hundred and one and a half, its lowest since September. Bitcoin traded near eighty thousand dollars after a brief dip toward seventy-five thousand.
+
+The ten-year Treasury yield eased to about four point eight nine percent.
+
+Now the credit read. A Democratic Congress is, on the usual reading, a brake on further deregulation of large American banks, and a check on the administration's room to pressure European lenders operating in the United States. Falling oil and falling yields help inflation-sensitive credit. Those are views, not reported facts, and it is one day.
+
+Now to Europe, where banks were the trade of the day.
+
+The Euro Stoxx banks index rose roughly four and a half percent, depending on the source, its strongest day since the spring. The Stoxx six hundred closed at a two-month high.
+
+Deutsche Bank gained about four point nine percent. Commerzbank rose about four point four percent. Raiffeisen Bank International rose more than six percent. Reports named HSBC and Banco Santander as the biggest contributors to the index move.
+
+Why? Three things. Lower bond yields. Less worry about American pressure on European banks. And a rotation into domestically focused lenders that had lagged all year. One note of caution: euro zone inflation hit a three-year high last month, so another E C B rate rise in December is not off the table. The E C B held its deposit rate at two point five percent on the thirtieth of October.
+
+For credit investors, the lesson is that equity beta in banks was heavily short-covered. Senior and subordinated spreads are usually less dramatic on a day like this. If you want to know whether this was a genuine change of regime, watch whether additional tier one paper follows equities tomorrow.
+
+Now the biggest bank-specific credit story: France.
+
+On the thirtieth of October, Fitch moved France's outlook to negative and kept the rating at A plus. It cited weaker growth, higher borrowing costs and wider deficits. It sees debt rising towards one hundred and twenty-four percent of gross domestic product by twenty twenty-eight, and a deficit of about five and a half percent next year, versus the five percent in the draft budget.
+
+Then came the banks. Fitch cut the outlooks on B N P Paribas and Crédit Agricole to negative, in line with the sovereign. It said sovereign and operating environment pressures pose moderate risks to bank earnings, asset quality, funding and liquidity. Société Générale and B P C E were described as not immediately affected.
+
+Fitch also gave a useful sensitivity. A one hundred basis point jump in French sovereign spreads would generally trim core equity tier one ratios by less than ten basis points. That is manageable. The bigger issue is funding cost. French banks fund off a sovereign curve that is moving.
+
+How wide is the spread? Sources disagree. Between the French and German ten-year, I saw figures from about one hundred and fifty-four to one hundred and seventy-eight basis points over the past weeks, versus roughly eighty-five in early September. I would say wide, and volatile, and I would not quote one number.
+
+Other agencies: Moody's has France at Aa three with a negative outlook. S and P is at A plus, stable, and its next review is the twenty-seventh of November. Finance Minister Roland Lescure says parliament must pass the twenty twenty-seven budget by the end of the year.
+
+My view: the outlook change is a warning, not a downgrade. The risk is the sequence. Budget vote, S and P on the twenty-seventh, then the next move.
+
+Now Italy and Germany, and the takeover that will not go away.
+
+Intesa Sanpaolo reported this week. Nine-month net income was eight point two billion euros, up eight percent on the year, and ahead of expectations. Net interest income was about eleven point four billion euros, up just over two percent. Net fees were around seven point seven billion, up about five percent, according to press coverage.
+
+Management raised its full-year outlook. Net income is now expected well above ten billion euros, and net interest income well above fifteen billion.
+
+On capital, the headline core equity tier one ratio is about thirteen point one percent, after deducting the amount accrued for distribution. Excluding this year's profit it is twelve point nine percent. Some coverage cites thirteen point eight percent including the benefit from deferred tax assets, so the basis matters.
+
+For credit holders, this supports Intesa as the quality Italian name, with distributions well covered. Net interest income is growing again, which is what the rate-cut worriers did not expect.
+
+Commerzbank reports this morning at seven o'clock London time. I do not have the numbers yet. So here is what to measure them against.
+
+The consensus I saw expects net profit of about eight hundred and sixty-four million euros, up forty-six percent, and operating profit of about one point three billion euros. The bank guides to a net result of at least three point four billion euros this year, net interest income of about eight point six billion, and a cost-income ratio near fifty-four percent. It plans to return all of its net result after A T one coupons, which is around three point two billion euros, including a share buyback of up to one point two billion that started in September and runs to February.
+
+One broker cut its rating, citing a weaker interest result and tougher deposit competition in Germany. I do not cover ratings. I mention it because net interest income is the line to watch.
+
+Then the control question. The E C B authorised UniCredit in October to cross thirty percent in Commerzbank, and reports say the approval has no upper limit. UniCredit has said it expects to finish its remaining procedures around year-end, and then hold around half of the voting rights. That is its aim, not a position it holds today.
+
+UniCredit's own third-quarter results are reported for the eighth and ninth of November, though check the date.
+
+What matters for credit is simple. If UniCredit takes control, Commerzbank's senior and subordinated debt reprices on the group's credit. The German bank's capital return plan also becomes a negotiation. Today's numbers matter less than what management says about the buyback and about UniCredit.
+
+Now to France again, because there was a results print too.
+
+B P C E reported third-quarter numbers on Tuesday. Net banking income was about four point three billion euros, up seven percent on last year. Its leverage ratio was an estimated four point eight percent at the end of September. B P C E was one of the French names Fitch did not move this time, which is a point in its favour.
+
+Now to the United Kingdom, where there is a decision today.
+
+The Bank of England announces its rate decision today with a new Monetary Policy Report. Bank Rate has been three point seven five percent since December. In September the committee held, by six votes to three, with three members wanting an increase to four percent. The bank sees inflation rising to slightly above four percent in early twenty twenty-seven on current energy assumptions.
+
+Gilts rallied on Wednesday with Treasuries, and the ten-year was around five point two percent. For banks, a hold with a hawkish split keeps margins supported. A hike would help margins, but hurt mortgage affordability and commercial property. I do not have the outcome yet, so check the wires at noon.
+
+Now, regulators and supervisors.
+
+I did not find a new supervisory capital action by the E C B, the P R A, or the Nordic regulators dated within the last twenty-four hours. I will not invent one. What I did find: the E C B's supervisory chair, in recent comments, warned against softening bank capital requirements. That fits a wider debate in Europe about whether rules should be loosened for competitiveness.
+
+For context, the Swedish regulator F I's add-on on S E B, announced in October, still stands. It is about ten billion Swedish kronor of extra core equity tier one, effective from the end of this year, about one hundred and twenty basis points on the buffer. It remains the template for model-based add-ons in the Nordics.
+
+Now to the United States.
+
+There is no big bank earnings news today. The big six reported in October, and the regional season is mostly over. The main point is political. Bank of America reported in October, and its shares fell after a revenue miss and a regulatory penalty. Sources differ on the exact profit figure, so I will not quote one. Goldman Sachs advisory revenue rose eighteen percent to one point six five billion. Citi beat.
+
+The election changes the tone for regulation. Capital rule changes such as the supplementary leverage ratio and the Basel endgame were moving in a bank-friendly direction. A Democratic House can hold hearings, slow budget riders and challenge appointments, but cannot undo agency rules alone. So I would not price a sudden reversal. I would price more noise.
+
+Back to credit. Three things I would watch from here. First, the French funding curve, because that is where the sovereign meets the banks. Second, the German takeover path, because it can reprice a whole capital stack. And third, whether the bank equity rally carries into additional tier one and senior non-preferred paper, or stays in equities.
+
+Another US point is data-centre lending. Banks committed an estimated one hundred and twenty-two billion dollars to data-centre property in twenty twenty-five, according to S and P figures. Recent reports say lenders are getting more selective, and private credit is taking more share. One example: Blue Owl provided a nine hundred and seventy-five million dollar facility for a Northern Virginia campus. For a bank credit investor, the question is who holds the construction risk and who holds the take-out.
+
+Now to Asia.
+
+Asia's session today was messy, and sources disagree. Korea's Kospi fell sharply, with a trading halt triggered by a chip selloff, down around four percent in one report. Hong Kong's Hang Seng rose about three percent, led by Chinese chip makers. Japan was mixed: the Nikkei moved between a small gain and a loss depending on the time of the report, while the broader Topix did better. I will give direction only.
+
+For banks: Japan's three megabanks, M U F G, S M F G and Mizuho, report on the thirteenth of November, according to Mizuho's calendar. No results today. Higher yields have been good for Japanese bank margins, so a fall in Treasury yields and a chip selloff cut both ways.
+
+On China, I could not verify a report that regulators told investment banks to pause underwriting. Treat that as unconfirmed.
+
+Now to the I P O watch.
+
+United States first. There were no large I P O pricings or debuts on Wednesday that I could confirm. The calendar is quiet. One curiosity: O Pay priced its I P O at nineteen dollars, the low end of its range, and then terminated the offering after pricing.
+
+The deal everyone is waiting for is Anthropic. Its filing went public in late October, with reports of a raise of around seventy-five billion dollars. One report says the earliest it could price is the thirteenth of November. Others say it could slip to before year-end. I would treat all dates as unconfirmed. The read-across for banks is large underwriting fees and the AI funding cycle.
+
+Asia. In Japan, Allganize Holdings priced on the fourth of November on the Tokyo Stock Exchange, raising about four point five billion yen, roughly twenty-nine million dollars. A small deal. In India, B L S Polymers rose about eighty percent above its issue price of one hundred and fifty rupees on debut, according to a daily I P O update.
+
+In Hong Kong, the picture is cooler. Neautus closes its subscription on the sixth of November and lists on the eleventh. A pharma name, Ganzhou Hemay, was due to list on the ninth but a headline suggests it hit the brakes. One report says the share of uncompleted listings this year is the highest since two thousand and eight. I could not confirm that independently, so take it with care.
+
+Now, the Financial Times.
+
+I could not open the Financial Times site today. Search and fetch both failed, and I will not work around a paywall or guess at headlines. So I can't give you a real review of what the paper is running.
+
+What I can say is where I would look this morning, based on what other sources are showing. First, the French outlook cuts and what they mean for French bank funding. Second, the UniCredit and Commerzbank endgame, in light of today's results. Third, European bank capital rules and the pressure to soften them. Fourth, the shift of data-centre financing from banks to private credit. Fifth, the post-election rotation in bank equities.
+
+Those are my themes, not the paper's stories. Check the Financial Times for its own coverage of each.
+
+Now the cross-asset wrap.
+
+Rates. The ten-year Treasury yield eased to about four point eight nine percent, the lowest in about two months. The German ten-year was near three point two nine percent. The gilt ten-year fell to between five point one six and five point two three percent, depending on the source. For banks: lower yields help securities books, but trim some of the margin tailwind.
+
+Credit. I did not find verified index levels for iTraxx or C D X, so I give direction only: with equities up three percent and oil down, I would expect spreads to be tighter, but I could not confirm it.
+
+F X. The dollar index fell to about one hundred and one and a half. The euro and the pound were firmer against it. Weaker dollar helps emerging markets and dollar borrowers.
+
+Commodities. Brent near ninety-five, down sharply. Gold near four thousand and seventy dollars, up more than three percent. Bitcoin near eighty thousand.
+
+Equities. Dow up three percent, S and P up one point six, Nasdaq up one point four. Euro banks up about four and a half percent.
+
+Here is my view, labelled as such. The market read the election as a fall in policy risk: less war premium in oil, lower yields, a weaker dollar, and relief for European banks. The weak spot is France. While the S and P review is still ahead, I would be cautious about reading one good day as a trend.
+
+Looking ahead. Today, the fifth: Commerzbank third-quarter results at seven o'clock London time. The sixth: Neautus I P O subscription closes in Hong Kong. The ninth: Hemay's listing was scheduled. The eleventh: Neautus lists. Today also: the Bank of England decision. The thirteenth of November: M U F G, S M F G and Mizuho results, and the earliest reported pricing date for Anthropic. The twenty-seventh of November: S and P's review of France. By the end of the year: the French budget, and UniCredit's remaining Commerzbank procedures.
+
+Now a few anecdotes.
+
+First, the Dow's three percent jump, its best day since April twenty twenty-five, was described by one outlet as the biggest rally after a midterm in forty-four years. Midterm days are usually quiet.
+
+Second, oil fell more than eight percent in a day. West Texas crude closed near eighty-eight dollars. A move that size in a single session is rare outside of a crisis.
+
+Third, O Pay's I P O. It priced at the bottom of the range and was then cancelled. A deal that priced and did not close. That is unusual, and it says something about how thin demand can be at the low end.
+
+This day in market history. I searched for a well-documented event on the fifth of November, and could not confirm one from a reliable source. I would rather skip it than invent one. If you have a favourite for this date, send it in.
+
+That is the Bank Credit Briefing for the fifth of November. These are headline-level notes. Please check your terminal for late news, especially Commerzbank this morning. Have a good day.

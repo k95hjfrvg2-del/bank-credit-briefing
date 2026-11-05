@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-05.mp3",
+  "title": "Thursday 5 November: Midterm Rally, France Outlook",
+  "desc": "Democrats' midterm win lifted European banks about four and a half percent, Fitch cut the outlooks on BNP Paribas and Credit Agricole to negative with France, and Commerzbank reports with UniCredit cleared to go above thirty percent.",
+  "date": "2026-11-05",
+  "pub": "Thu, 05 Nov 2026 05:04:07 +0000",
+  "bytes": 9370270,
+  "dur": 1171
+ },
+ {
   "file": "Bank_Briefing_2026-11-04.mp3",
   "title": "Wednesday 4 November: Midterms Jolt AI Trade",
   "desc": "Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.",
@@ -115,14 +124,5 @@
   "pub": "Mon, 19 Oct 2026 04:13:18 +0000",
   "bytes": 10054052,
   "dur": 1256
- },
- {
-  "file": "Bank_Briefing_2026-10-18.mp3",
-  "title": "Sunday 18 October: UniCredit Clears Commerzbank",
-  "desc": "The ECB lets UniCredit pass 30% of Commerzbank, Swedish regulator adds a capital add-on at SEB while Nordea pauses buybacks, and French debt and CoreWeave's bonds stress European banks and AI financing.",
-  "date": "2026-10-18",
-  "pub": "Sun, 18 Oct 2026 15:10:16 +0000",
-  "bytes": 10333248,
-  "dur": 1291
  }
 ]

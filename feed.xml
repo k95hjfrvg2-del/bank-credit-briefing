@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Thursday 5 November: Midterm Rally, France Outlook</title>
+   <description>Democrats' midterm win lifted European banks about four and a half percent, Fitch cut the outlooks on BNP Paribas and Credit Agricole to negative with France, and Commerzbank reports with UniCredit cleared to go above thirty percent.</description>
+   <itunes:summary>Democrats' midterm win lifted European banks about four and a half percent, Fitch cut the outlooks on BNP Paribas and Credit Agricole to negative with France, and Commerzbank reports with UniCredit cleared to go above thirty percent.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-05.mp3" length="9370270" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-05</guid>
+   <pubDate>Thu, 05 Nov 2026 05:04:07 +0000</pubDate>
+   <itunes:duration>00:19:31</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Wednesday 4 November: Midterms Jolt AI Trade</title>
    <description>Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.</description>
    <itunes:summary>Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-10-19</guid>
    <pubDate>Mon, 19 Oct 2026 04:13:18 +0000</pubDate>
    <itunes:duration>00:20:56</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Sunday 18 October: UniCredit Clears Commerzbank</title>
-   <description>The ECB lets UniCredit pass 30% of Commerzbank, Swedish regulator adds a capital add-on at SEB while Nordea pauses buybacks, and French debt and CoreWeave's bonds stress European banks and AI financing.</description>
-   <itunes:summary>The ECB lets UniCredit pass 30% of Commerzbank, Swedish regulator adds a capital add-on at SEB while Nordea pauses buybacks, and French debt and CoreWeave's bonds stress European banks and AI financing.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-18.mp3" length="10333248" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-10-18</guid>
-   <pubDate>Sun, 18 Oct 2026 15:10:16 +0000</pubDate>
-   <itunes:duration>00:21:31</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
