@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-06.mp3",
+  "title": "Friday 6 November: AI Rout Hits Banks",
+  "desc": "Wall Street's worst day since April 2025 on an AI selloff spreads to Asia and AI-linked credit; the Bank of England hikes to 4 percent; Commerzbank posts a record nine months but trims interest income guidance.",
+  "date": "2026-11-06",
+  "pub": "Fri, 06 Nov 2026 05:24:42 +0000",
+  "bytes": 10996968,
+  "dur": 1374
+ },
+ {
   "file": "Bank_Briefing_2026-11-05.mp3",
   "title": "Thursday 5 November: Midterm Rally, France Outlook",
   "desc": "Democrats' midterm win lifted European banks about four and a half percent, Fitch cut the outlooks on BNP Paribas and Credit Agricole to negative with France, and Commerzbank reports with UniCredit cleared to go above thirty percent.",
@@ -115,14 +124,5 @@
   "pub": "Tue, 20 Oct 2026 04:13:55 +0000",
   "bytes": 11403433,
   "dur": 1425
- },
- {
-  "file": "Bank_Briefing_2026-10-19.mp3",
-  "title": "Monday 19 October: S E B add-on, Commerzbank, A I credit",
-  "desc": "The Swedish regulator adds about ten billion kronor to S E B's capital requirement, the E C B clears UniCredit to take control of Commerzbank, and CoreWeave's distressed bonds raise A I credit worries as Brent hits one hundred and ten dollars.",
-  "date": "2026-10-19",
-  "pub": "Mon, 19 Oct 2026 04:13:18 +0000",
-  "bytes": 10054052,
-  "dur": 1256
  }
 ]

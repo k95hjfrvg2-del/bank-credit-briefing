@@ -1,0 +1,149 @@
+Good morning. This is the Bank Credit Briefing for Friday the sixth of November, twenty twenty-six. The last twenty-four hours in bank credit, across Europe, the United States and Asia.
+
+Here is what matters this morning.
+
+First, the A I rout. On Thursday the S and P five hundred fell four point four percent, the Nasdaq dropped five and a half percent into correction territory, and Asia is now repeating the move, with Japan and Korea hit hard and the Japanese megabanks sliding with them.
+
+Second, the Bank of England raised Bank Rate to four percent, the first hike in three years, on an eight to one vote. Third, Commerzbank reported a record nine months, but trimmed its interest income outlook, with UniCredit still hovering.
+
+Fourth, the credit read-across from the A I build-out. Banks are struggling to place data centre construction loans, and this week's move in AI-linked bonds shows why that matters.
+
+After the headlines, I have the one bank that reported, the regulators, Asia, the I P O watch with Anthropic looming, the look ahead, a note on the Financial Times, the cross-asset wrap, some market anecdotes, and this day in market history.
+
+Let us start with the big one.
+
+The A I rout. Thursday was Wall Street's worst session since April of twenty twenty-five. The S and P five hundred lost four point four percent. The Nasdaq composite fell five point five percent, to about twenty-four thousand three hundred, more than ten percent below its record close. The Dow lost around eighteen hundred points, or three point four percent. The V I X jumped by close to forty percent.
+
+The damage was concentrated in chips. A closely watched semiconductor index fell about twelve percent, its worst day in roughly six and a half years. Nvidia lost around nine percent, A M D more than seventeen percent, and Intel about ten percent.
+
+The trigger is debated. Reports tie it to the midterm result. The worry is that a Democrat-controlled Congress will tighten scrutiny of A I and data centres, slowing the build-out. Others point to the sheer cost of financing it. Either way, it follows a one-day rally on Wednesday, when the Dow had jumped almost sixteen hundred points.
+
+Why does a credit investor care? Because the A I build-out is now a bank and private credit story as much as an equity story. Two stories from the past week show the strain.
+
+First, reporting says a group of banks including J P Morgan and M U F G has spent more than six months trying to distribute about thirty-eight billion dollars of construction debt tied to an Oracle-leased data centre project. The banks are reportedly bumping against internal limits on A I-linked exposure. S and P has cut Oracle to triple-B minus, one notch above junk.
+
+Second, private credit has been filling the gap. The Bank of England's July Financial Stability Report put the private credit share of A I financing at thirty-four percent in twenty twenty-five, up from nine percent in twenty twenty-four. Carlyle has warned its own investors that the industry is piling into one trade.
+
+Here is the market evidence from this week. A CoreWeave bond saw its yield climb past seventeen percent, a fresh high. The cost of insuring SpaceX debt hit a record. Measures of American corporate credit risk worsened by the most in nearly eight months.
+
+High yield is the better barometer. One Bloomberg-sourced reading had the American high yield spread at three hundred and thirty-two basis points on Wednesday, up from three hundred and fourteen a week earlier. I could not verify Thursday's close, but protection on the C D X high yield index was reported widening with equities.
+
+The credit read for European banks is mostly indirect. Direct exposure to the chip names is small. The channels are three. One, syndicated and construction loans that are stuck on balance sheets. Two, financing lines to private credit funds, which the Financial Stability Board put in May at between two hundred and seventy and five hundred billion dollars across banks. Three, a risk-off tape that closes the primary market for subordinated paper.
+
+On that last point, my view is that the rally in government bonds cushions bank paper somewhat. But a new issue window for A T one and Tier two is not going to be pleasant today.
+
+Now, Europe, and the one name that did report.
+
+Commerzbank reported third-quarter results on Thursday. Net profit rose forty-five percent to eight hundred and fifty-nine million euros. Operating profit rose twenty-five percent to one point three one billion euros.
+
+Net interest income was up three and a half percent, at two point one two billion euros. Net commission income rose almost nine percent to one point zero seven billion. The risk result was a charge of two hundred and ten million euros, in line with expectations, and the non-performing exposure ratio was one point two percent.
+
+For the first nine months, revenue was nine point seven billion euros, up eight percent. Net profit was two point seven billion. Return on tangible equity was eleven point nine percent in the quarter and twelve point four percent over nine months.
+
+Core equity tier one was fourteen point two percent at the end of September, down from fourteen point four at the end of June, after distributions and buybacks. Management expects to stay above fourteen percent at year-end.
+
+Now the soft spot. Commerzbank cut its net interest income guidance to about eight and a half billion euros, from eight point six, citing competition for deposits. It kept its net profit target of at least three point four billion euros. The shares were reported lower on the day, while most other European banks rose.
+
+The credit takeaway. Capital is comfortable, asset quality is clean, and the profit target looks safe. The interest income trim is a reminder that the deposit beta cycle is not finished. For senior and non-preferred holders, this is a stable credit.
+
+The bigger question is ownership. U N I C R E D I T has the European Central Bank's approval to go above thirty percent with no upper limit, though the European Commission review is not complete. The German government holds about thirteen percent and has said it will not sell to U N I C R E D I T. Three brokers have cut their views on Commerzbank in recent weeks, citing takeover risk and cost of equity.
+
+For credit investors, a hostile or semi-hostile Italian takeover of a German bank is a rating and capital structure question. Think about change of control language, the treatment of the Commerzbank holding company debt, and what happens to the distribution policy if the parent wants the cash. Nothing is decided. But it is the most important European bank merger story for credit, and this result did not make it go away.
+
+Other European results in recent days are worth a line each.
+
+Erste Group posted a record. Quarterly net profit passed one point one billion euros for the first time, the cost income ratio fell to forty-three point one percent, return on tangible equity was twenty-three point eight percent, and it raised its interest income guidance for the year to growth of more than six percent, excluding Poland. Earnings per share missed forecasts slightly.
+
+B P C E reported net banking income of four point two seven billion euros, up seven percent, and pre-tax income of one point two three five billion, up six percent. The leverage ratio was four point eight percent.
+
+Alpha Bank in Greece earned two hundred and sixty-nine million euros, about fifteen percent above forecasts, with core equity tier one at fourteen point one percent. And U B S earned three point six billion dollars before tax in the third quarter, with strong numbers across the group. For Raiffeisen, the reported figures conflict between sources, so I will leave them aside until I have the company release.
+
+On the sector: European bank shares jumped on Wednesday, with the Stoxx banks index up between three point seven and four point six percent, its best day since April, as investors rotated out of defence and tech after the midterms. On Thursday Deutsche Bank rose about two percent, with Barclays, B N P Paribas and H S B C also higher, while Commerzbank and U B S fell. Goldman Sachs added Deutsche Bank to its list of European favourites this month. That is a sell-side opinion, so I note it only as a sentiment marker.
+
+Now for France, because it is the sovereign story that matters most for your book.
+
+Ten-year O A T yields were reported between four point seven four and four point nine one percent in the past few days, against a Bund yield near three point three percent. The O A T minus Bund spread has been in a range of roughly one hundred and fifty to one hundred and sixty basis points, after a peak that one source puts near one hundred and seventy-six on the twenty-third of October. It was around eighty-six basis points at the start of September.
+
+The driver is the draft twenty twenty-seven budget, presented on the first of October, and a fragile parliament. Sources conflict on dates. A National Assembly vote is reported for around the seventeenth of November, and an S and P review for the twenty-seventh. I would treat both as to be confirmed.
+
+Fitch has moved the French sovereign outlook to negative, as covered in recent episodes. The French banks sit directly in that line of fire. The exposure to French government debt, the funding link between the sovereign and the banks, and the rating ceiling all push the same way. The good news is capital: B P C E, B N P and Crédit Agricole are all well above requirements.
+
+Now to the regulators and supervisors.
+
+Today's window brought no new capital add-on or fine from the European Central Bank, the Prudential Regulation Authority or B a Fin that I could confirm. If one lands later today, check the terminal.
+
+The notable regulatory story is in the United States. Federal banking agencies have put out a package of proposals, more than fifteen hundred pages in all, to reduce regulatory capital for banks. They would drop the dual-stack requirement for the largest banks, replace the operational risk model with a standardised approach, and set a risk weight for mortgage servicing assets. The Federal Reserve's stress capital buffers have been held steady until twenty twenty-seven.
+
+The read-across for European credit is competitive. Lower American capital means more room for buybacks and for balance sheet use by the big American dealers. It also revives the Basel debate in Europe and the United Kingdom, where the Bank of England's Financial Policy Committee has reaffirmed a Tier one target of about thirteen percent, or core equity of about eleven percent.
+
+On the Bank of England itself. It raised Bank Rate from three point seven five to four percent on Thursday, the first rise since August twenty twenty-three. The vote was eight to one, with one member wanting four and a quarter. Two-year gilt yields rose a few basis points to around four point seven six to four point seven nine percent. Swaps imply about a fifty percent chance of another quarter-point hike on the seventeenth of December, up from thirty percent before the decision.
+
+The Bank warned that inflation could reach about five percent by mid-twenty twenty-seven, and that at least one more increase is likely if the conflict involving Iran continues. For U K banks, higher rates help margins but squeeze borrowers. Watch mortgage arrears, commercial property refinancing and the unsecured book into the new year.
+
+Now to Asia.
+
+Asian markets were hit hard this morning. The Nikkei fell between six and seven percent, dropping below sixty thousand for the first time since May, and more than twenty percent below its June record on one report. SoftBank lost about eleven percent and Kioxia more than twelve.
+
+The Japanese megabanks were not spared. Mitsubishi U F J and Sumitomo Mitsui Financial were reported down more than six percent in the session, and Mizuho more than eight, though these are intraday figures that may have moved since. For Mizuho, M U F G and S M F G, the A I and data centre lending angle is the issue, along with unrealised bond losses and equity holdings.
+
+In Korea, the Kospi hit a circuit breaker after an opening fall of nearly nine percent, and dipped below five thousand. It was the seventeenth trigger on record. Samsung Electronics and S K Hynix, which together account for more than half of the index, each fell more than ten percent. In Taiwan, T S M C lost about seven percent and the Taiex dropped around eight percent.
+
+I could not confirm moves in Hong Kong or Singapore banks, and the reports on the Hang Seng conflict. I also found no results or regulatory actions from Asian banks in the window. The next date is Commonwealth Bank of Australia, which gives a first-quarter trading update on the eleventh of November, with core equity tier one last reported at twelve percent.
+
+On the yen, dollar-yen was near one fifty-eight and a half. Analysts note that Japanese authorities may step in near one sixty. A sharp fall in Japanese stocks usually brings a stronger yen, which adds pressure on the megabank equity books. That is my view, not a forecast.
+
+Now to the I P O watch.
+
+In the United States, the calendar has been quiet and the headline is what has not happened yet: Anthropic. The company filed a public S one on the twenty-sixth of October. The filing leaves the share count and price range blank. Goldman Sachs is lead left, alongside Morgan Stanley, in a syndicate of twenty-two banks that includes J P Morgan, Citigroup, Barclays, Wells Fargo and Bank of America.
+
+Timing is reported in a range. Marketing could start as soon as the week of the ninth of November, with trading from the week of the sixteenth. Other reports point to the twenty-sixth. Nothing is official. The fee pool would be a major read-across for the American investment banks, but no size is public yet.
+
+My view: Thursday's A I rout complicates the window. A record I P O into a twelve percent fall in chips is hard to price. Watch for a delay or a lower range. That is a judgement, not a report.
+
+The one American deal that did list this week was Narragansett Bancorp, a Rhode Island community bank holding company that began trading on Nasdaq on the second of November. It priced at ten dollars a share, selling about nine point one million shares for just under ninety-one million dollars. With twenty-one point one six million shares outstanding after the offering, that implies a market value of about two hundred and twelve million dollars at pricing. I could not find first-day trading.
+
+Next week, a Boston biotech, Rezera, is scheduled to offer sixteen point six seven million shares at eleven to thirteen dollars, to raise around two hundred million, with trading expected on the twelfth.
+
+In Asia, the latest debut I could verify was Dongshan Precision in Hong Kong on the twenty-eighth of October. It raised nine point seven two billion Hong Kong dollars, opened about five percent below its offer price, and the retail tranche was undersubscribed. In Korea, a small biotech called NEX-I Cancer Medicines is listed for the twelfth of November on the Kosdaq, raising about thirty million dollars. Today's Asian rout makes new Hong Kong and Tokyo pricing less likely this week.
+
+Looking ahead. Today, the American October jobs report. Economists expect around fifty to sixty-five thousand jobs and unemployment near four point two percent. Futures put the odds of a Federal Reserve hike on the eighth or ninth of December at between roughly two thirds and eighty percent, depending on the source. Yes, a hike. The Fed funds target is three point seven five to four percent.
+
+On the tenth of November, the earliest date for an Anthropic roadshow. The eleventh, Commonwealth Bank of Australia. The twelfth, Rezera and NEX-I. Around the seventeenth, the French budget vote, with the S and P review around the twenty-seventh, both to be confirmed. And the seventeenth of December, the next Bank of England decision.
+
+A word on the Financial Times. This segment is meant to review what the F T is running on European banks, capital, bank mergers, French debt, commercial property, private credit and A I financing. This morning I could not do it. The F T website was not reachable from my research tools, and I will not guess at headlines I could not see.
+
+What I can offer is the same themes from other sources, which I have already covered. Banks stuck with data centre debt, and private credit crowding into the same trade. A Commerzbank that is profitable but still in UniCredit's sights. A French spread near one hundred and sixty basis points. A Bank of England that has turned to hiking. And American capital relief that raises the bar for European peers.
+
+Two further points from the private credit side. The Financial Stability Board's May report notes that private credit funds have begun to limit redemptions, and that banks hold large lending exposures to those funds. And the Blue Owl episode shows how quickly a move from voluntary redemptions to mandatory distributions can hit the listed alternative managers. I will try the F T again tomorrow.
+
+Now the cross-asset wrap.
+
+Rates. The American ten-year yield fell to about four point eight three to four point eight six percent on Thursday, from about four point nine percent. The two-year dropped more than ten basis points to around four point four six percent, as investors fled into Treasuries. The curve steepened. So what for banks: lower yields cut mark-to-market losses on securities books, but a market still pricing a Fed hike is no friend to commercial real estate. The Bund ten-year is near three point three five percent. The two-year gilt is near four point seven eight.
+
+Credit. American high yield spreads were around three hundred and thirty basis points before the rout and are wider now. Investment grade is relatively contained. A I-linked credits such as CoreWeave and SpaceX are the stress points. I could not verify iTraxx levels, so I will give direction only: wider.
+
+Currencies. The dollar index is near one hundred and one point four, and dollar-yen near one fifty-eight and a half. I did not find a reliable euro-dollar level.
+
+Commodities. Oil moved hard. Brent fell sharply on Wednesday on hopes of a diplomatic end to the Iran war, then rebounded on Thursday after tanker fires near the Strait of Hormuz, to somewhere between ninety-six and ninety-eight dollars. Sources conflict, so treat it as the mid-nineties. Gold is near four thousand one hundred and thirty dollars an ounce, near a two-week high. Bitcoin eased to about seventy-six to seventy-eight thousand dollars.
+
+Equities. The Stoxx six hundred closed down four tenths of one percent on Thursday, after earlier gains, as A S M L fell six and a half percent. The Nasdaq is in correction. Asia is down six to nine percent in the most exposed markets.
+
+So what for banks? Falling yields, a bank sector that had just rallied, and a credit market that is starting to treat A I as a risk, not a story.
+
+Here is my view, labelled as such. The market has rotated, in the space of three sessions, from a political relief rally to a funding scare. What ties it together is financing. If the build-out slows, the banks that hold the construction debt and the private credit funds that took the rest will be the first to feel it, well before any defaults. European banks have less of that exposure than American and Japanese peers. That makes them a relative safe haven for now. It does not make them immune.
+
+Now for some market anecdotes.
+
+First, the whiplash. On Wednesday the Dow rose by about fifteen hundred and seventy points, its best day since April twenty twenty-five. On Thursday it fell by about eighteen hundred and thirty. Two days, two enormous moves in opposite directions.
+
+Second, Korea. The Kospi circuit breaker on Friday was the seventeenth on record and the eleventh this year. Two companies, Samsung Electronics and S K Hynix, make up more than half of the index by value. When they fall together, there is not much left to cushion it.
+
+Third, the CoreWeave bond. A single bond from the cloud computing company saw its yield pass seventeen percent this week, a fresh high. It is a reminder that the same A I story that raises hundreds of billions of dollars at single-digit coupons can reprice in days.
+
+And finally, this day in market history.
+
+On the sixth of November nineteen eighty-four, the Nasdaq market stayed open on a presidential election day, the first time in its thirteen-year history. The regulator's notice told members to expect normal trading. Election days used to be treated as holidays for markets. Now we price them within hours. This week's midterms are the proof, with a rally on Wednesday and a rout on Thursday.
+
+Another market anniversary this week. On the fifth and sixth of November two thousand and eight, CNN notes, the Dow recorded its biggest two-day point decline in its history, in the middle of the financial crisis. The lesson for today is that funding stress arrives in the weeks after the political event, not on the day. Watch the primary market this week.
+
+That is the Bank Credit Briefing for Friday the sixth of November. Figures are drawn from public sources and some intraday numbers will have moved. Check your terminal for late news before you act on anything you have heard here. Have a good weekend.
