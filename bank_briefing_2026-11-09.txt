@@ -1,0 +1,127 @@
+Good morning, and welcome to the Bank Credit Briefing for Monday the ninth of November, twenty twenty-six.
+
+This is the Monday edition, so it covers the last seventy-two hours across European, American and Asian banks, with a credit lens throughout.
+
+Here is what matters today.
+
+First, the UniCredit takeover of Commerzbank is entering its decisive week. Brussels has a competition deadline of the sixteenth of November, the European Central Bank has already signed off, and Commerzbank has turned from resistance to a tone of cautious cooperation.
+
+Second, France. The National Assembly rejected the revenue half of the twenty twenty-seven budget on the fourth of November, strikes followed the next day, and the French risk premium over Germany is still the number to watch for every European bank holding French paper.
+
+Third, the AI financing chain is showing its first visible stress in the bank loan book. I N G is shopping around five hundred million dollars of data-centre loans, and investors are asking for more yield on AI debt.
+
+Fourth, a hot American jobs report has put a December Federal Reserve rate hike back near eighty percent in the market, and Asia has rebounded violently after a bear-market scare in Tokyo and Taipei.
+
+After the headlines: the Commerzbank and UniCredit detail, France, the AI loan story, a quiet results day, regulators, Asia, the I P O watch, looking ahead, a review of themes from the Financial Times, the cross-asset wrap, market anecdotes, and this day in market history.
+
+A note on sourcing before we start. The Financial Times website was not reachable for this edition, so the review segment is built from secondary reports, and I will say where that is the case.
+
+Let us begin with the story that could reshape European banking.
+
+UniCredit and Commerzbank. The European Commission has set the sixteenth of November as its deadline to decide on UniCredit's takeover of Commerzbank. That is next Monday. Commerzbank told analysts that the European Central Bank has already approved the deal. Brussels and the Polish regulator still need to clear it, and Commerzbank says it expects every clearance in the fourth quarter of this year or, at the latest, in the first quarter of next year.
+
+The offer itself is a share exchange. UniCredit is offering zero point four eight five of its own shares for each Commerzbank share, which reports value Commerzbank at roughly thirty-five billion euros. Reports differ on exactly how large the UniCredit stake already is, so treat any single percentage with care. What is clear is that the Berlin government still owns thirteen point three percent, left over from the financial crisis rescue, and that Berlin wants Commerzbank to stay listed and keep its Frankfurt headquarters.
+
+Commerzbank reported last Thursday. Third-quarter net profit was eight hundred and fifty-nine million euros, up about forty-five percent on the year. It also trimmed its twenty twenty-six net interest income forecast, because competition for deposits is squeezing the margin. It kept its planned shareholder payout of about three point two billion euros. The chief executive, Bettina Orlopp, has softened her tone and now says the two banks can create value together. The open sore is governance: UniCredit's chief executive, Andrea Orcel, does not back her staying on.
+
+UniCredit itself reported a record quarter, with net profit of roughly three point one to three point two billion euros, up about twenty-two percent, and it raised its full-year guidance. Reuters reported that UniCredit is considering a two-step path, first making Commerzbank a subsidiary and only later merging it with its German unit, HypoVereinsbank.
+
+Now the credit read-across, which is where I think the real story sits.
+
+For holders of Commerzbank senior and subordinated debt, the direction of travel is positive. A stronger parent and a record-earning target point the same way. The risk is structural rather than fundamental. If Commerzbank becomes a subsidiary, its bonds may lose their identity as a standalone German name, change index membership, and trade on the parent's curve. Look for change-of-control language and for any ratings agency commentary on group support.
+
+For UniCredit paper, the question is execution and capital. A share-based offer protects the capital ratio compared with a cash bid, but integration risk is real, and a German government that is not yet on board is a political risk, not a modelling one. My view: the market will price a clearance from Brussels as largely done, so the surprise would be a delay or remedies. Watch next Monday.
+
+Now to France.
+
+The French National Assembly rejected the revenue section of the twenty twenty-seven budget on the fourth of November, and the draft is considered rejected at first reading. Nationwide strikes followed on the fifth. The government's target is a deficit of five percent of output next year. Fitch's own forecast is five and a half percent. Public debt stood at one hundred and nineteen percent of output at the end of the second quarter, and the finance ministry projects about one hundred and twenty-two percent next year.
+
+On ratings, Fitch affirmed A plus but moved the outlook to negative. Moody's, on the twenty-fourth of October, kept Aa three, but on the explicit assumption that a deficit-reducing budget gets adopted. Commentators described it as a brief respite, not a vote of confidence. One source lists a Standard and Poor's review on the twenty-seventh of November, but I could not confirm that date, so treat it as a possibility, not a fact.
+
+The spread. One data provider put the ten-year French yield at about four point seven five percent and the gap over the Bund at around one hundred and forty-eight basis points on the fifth of November, down nearly eight basis points on the day. A trader blog puts the twenty twenty-six peak at around one hundred and seventy-six basis points on the twenty-third of October. Those are secondary sources and they differ, so use them as a range: roughly one hundred and fifty basis points now, after a peak in the seventies.
+
+Why does this matter for bank credit? French banks hold a great deal of French government paper, their funding costs track the sovereign, and the senior and covered curves for BNP Paribas, Credit Agricole, Societe Generale and BPCE all sit on top of the OAT. A budget that cannot pass is a wider sovereign spread, and a wider sovereign spread is a wider bank curve, especially in subordinated paper. Also watch the second reading, and any special law to roll over last year's budget.
+
+Next, the AI financing chain.
+
+On Friday, CNBC and Bloomberg reported that I N G is looking for buyers for about five hundred million dollars of loans to data centres. It is twelve loans in all, including debt tied to a Stargate site in New Mexico. Bids of ten million dollars or more are due on the nineteenth of November.
+
+It is a small number against a data-centre debt market estimated at more than one trillion dollars. But it matters for three reasons.
+
+One: it is a European bank actively moving assets off its balance sheet, to private credit funds, asset managers and insurers. That is a transfer of risk, and a signal about appetite.
+
+Two: price discovery. Someone has to bid, and the clearing level will become a reference mark for similar loans across the sector.
+
+Three: it sits alongside a tougher market for AI-linked bonds. A weekend newsletter, relaying reports, noted that investors are demanding higher yields on AI debt, with a recent Google bond as the example. And the Nvidia story, which I will come to in the Asia segment, adds headline risk just ahead of Nvidia's earnings on the seventeenth.
+
+My view: this is not a crisis, it is the market starting to charge for duration and concentration in a trade that has been priced for perfection. For bank investors, the tell is how many lenders choose to sell the paper rather than hold it. Significant risk transfer deals, where a bank buys credit protection on a pool of loans, have been a favourite route, and I would expect more of them in the data-centre space.
+
+Now, who reports today? Honestly, very few. No watchlist bank is on the calendar. The one bank I could find reporting is Credicorp of Peru, after the American close. The big week for bank results is behind us.
+
+Next, regulators and supervisors.
+
+I found no new bank-specific supervisory add-on or fine in the window. The live debate is the rulebook itself. The European Central Bank's Pedro Machado has argued against softening capital requirements and in defence of the output floor, which limits how far banks can cut risk weights using internal models. He dismissed the idea that lower capital would materially lift lending.
+
+On the other side, reports say the European Commission is weighing a broad deregulation push, including parts of the Pillar Two framework, and European banks argue they need lighter rules to compete with their American peers. An industry body, A F M E, has talked about two hundred and twenty-five billion euros of capital trapped in subsidiaries.
+
+For credit investors the asymmetry is clear. Looser rules help return on equity and distributions, which favours shareholders and can weigh on subordinated and A T one spreads over time, because buffers shrink. Tighter rules do the opposite. So the supervisors' pushback is, on balance, supportive for bond holders. Keep an eye on the Commission's proposals and on how the C R R three transition is handled for the market-risk and output-floor timetable.
+
+Now to the United States.
+
+The October jobs report was hot. Employers added one hundred and sixty-five thousand jobs, against a forecast of around sixty thousand, and unemployment fell to four point one percent. Traders now put the chance of a quarter-point Federal Reserve hike at the December meeting, the eighth and ninth, at about seventy-eight percent. The policy rate is currently three point seven five to four percent, and the Fed, under Chair Kevin Warsh, has kept the door open to more hikes.
+
+For American banks, higher-for-longer is a mixed blessing. Net interest income benefits, but unrealised losses on securities grow, deposit costs stay sticky, and commercial real estate refinancing stays hard. The big six reported in mid-October. J P Morgan's net income was fifteen point three one billion dollars, or five dollars and fifty-seven cents a share, which was described as a rare miss. Citigroup beat on revenue and earnings, and Bank of America's earnings per share of two dollars and eighty-five cents beat the consensus by about seven and a half percent. Nothing in the window changes that picture. Today, the one thing to watch is C P I this week, which is the next test for the hike story.
+
+Now to Asia.
+
+Asian markets rebounded sharply this morning after a rough stretch. Japanese and Taiwanese equities had slipped into bear-market territory last week, driven by an AI selloff. Today Japan's Nikkei rose about three and a half percent, to around fifty-nine thousand four hundred, and the broader Topix gained about three point four percent. Taiwan's main index jumped as much as six point four percent, its biggest one-day gain since July. Korea's Kospi rose one point eight percent, to about five thousand one hundred and fifty, Shanghai gained about two-thirds of a percent, and the Hang Seng was up around half a percent. These are early-session readings and may change.
+
+The shadow over all of this is Nvidia. Its board has opened an independent investigation into the chief executive, Jensen Huang, after reports about a foreign intelligence approach. The board says it has no reason to believe company secrets or national security were compromised. The market was nervous anyway: Nvidia stock was down about three point seven percent on Robinhood's weekend trading. The next hard date is Nvidia's earnings on the seventeenth of November.
+
+For Asian banks, the point is lending exposure to the AI build-out. M U F G, which reports interim results on the thirteenth of November according to one listing, said in its last quarter that its American project finance business benefited from strong data-centre demand. Its profit rose forty-eight percent, to about eight hundred and nine billion yen, helped by a domestic loan-deposit spread of one point one five percent. That is the upside of the rate cycle. The downside is a book of Japanese government bonds that loses value when yields rise; M U F G cut the average duration of its bond portfolio to about one year to reduce that risk. For Japanese megabanks, the interim results this week are the thing to watch, along with the S M F G and Mizuho updates around the same time.
+
+Time for the I P O watch.
+
+In Hong Kong, RelyEZ Energy Storage priced at nine Hong Kong dollars and seventy-eight cents a share and raised about five hundred and sixty-three million Hong Kong dollars, or roughly seventy-two million U.S. dollars. It is a Chinese energy-storage maker. It debuted this morning and surged about a hundred and twenty-nine percent intraday, opening at twenty-one dollars and trading at about twenty-two dollars forty. That is an intraday figure, so the close may differ. I am not quoting a market value, because I could not verify a share count.
+
+Tomorrow, the tenth of November, Suzhou Denglin Technology lists in Hong Kong. It designs graphics processors for artificial intelligence, was founded in twenty-seventeen, and holds only about one percent of China's enterprise A I chip market. The offer was up to two hundred and eighty-eight Hong Kong dollars a share for about six million shares, around two hundred and twenty-five million U.S. dollars. Cornerstone investors took about six hundred and forty-six million Hong Kong dollars. I could not confirm the final price. The company has big historical losses. Also in the pipeline, reports say Baidu's chip arm, Kunlunxin, has picked banks for a Hong Kong I P O of up to two billion dollars.
+
+In the United States, the week's deals are Apollo-backed vVardis, a Swiss dental products company, which launched a two hundred and fourteen million dollar offering at twenty-one to twenty-four dollars a share and is expected to price this week, and Rezera, which is due to price on the twelfth at eleven to thirteen dollars a share. Calendars also list Anthropic for Nasdaq on the twelfth, but I could not confirm that date. What I can say is that the company has publicly filed its registration statement and amended it on the second of November, and reports say the valuation has been revised down. If an Anthropic deal does come, it would be the biggest fee pool for investment banks in this cycle, and a major test of AI appetite just as the debt market is asking for more yield.
+
+Why it matters for bank credit: I P O fees are a bright spot for the investment-banking lines at Goldman Sachs, Morgan Stanley and J P Morgan, and the Hong Kong calendar is driving fees for the Asian houses. But the deals are also a barometer of the AI trade, which is exactly what bank lenders are exposed to through data-centre loans.
+
+Looking ahead.
+
+Tonight, Credicorp reports. Tomorrow, the tenth, Denglin lists in Hong Kong and CoreWeave reports, which is a read on AI infrastructure credit. Wednesday and Thursday bring American inflation data. On Thursday the twelfth, Cisco and Applied Materials report, and Rezera is due to price. On Friday the thirteenth, M U F G is listed for interim results. Next Monday the sixteenth is the European Commission's deadline on UniCredit and Commerzbank. On the seventeenth, Nvidia reports. The nineteenth is the bid deadline for the I N G data-centre loans. And on the eighth and ninth of December, the Federal Reserve meets, with a hike priced at roughly four chances in five.
+
+Now the review of themes from the Financial Times. A caveat: the F T site could not be reached from this run, so I am not summarising F T articles directly. What follows is a review of the themes that the F T and other outlets have been running, drawn from secondary reports that relay them, and I name the original source where I can.
+
+First, private credit and AI. A newsletter relaying F T items says Apollo's lending hit a record in the third quarter, driven by its role in A I financing, and that its trailing lending now matches that of H S B C and Citi. If true, that is the clearest sign yet of the shift of the credit intermediation from banks to non-banks. For a bank investor, it means competitors with cheaper, longer-dated funding are taking the best data-centre business, and banks are left with the pieces they can syndicate or hedge.
+
+Second, the price of A I debt. The same source says investors are demanding higher yields, with a recent Google bond as the example. Combined with the I N G loan sale, it says the market is starting to differentiate between borrowers. Expect wider new-issue concessions in technology and data-centre paper in the weeks ahead.
+
+Third, distressed credit. The same newsletter cites F T data that yields on triple-C rated debt have risen in both Europe and the United States since the start of the year, blamed on rate worries, A I disruption and energy costs. For banks, this feeds through to leveraged finance, to the loans they hold and to the collateralised loan obligation market.
+
+Fourth, banks moving risk off balance sheet. A May F T report, cited in coverage of the I N G sale, described banks selling parts of their debt to non-bank lenders and using significant risk transfers. That is the Basel three point one, C R R three capital story in action: banks are optimising risk-weighted assets, and the buyers are insurers and private credit funds.
+
+Now the cross-asset wrap, using the last close on Friday the sixth.
+
+Rates. The American ten-year Treasury yield closed near four point eight six percent, up about two basis points, and the two-year near four point five one. The thirty-year was around five point two six. The ten-year was nearly eight basis points lower on the week. So what for banks: a curve that is positive between two and ten years is a gentle tailwind for margins, but a hike in December would push the front end up and flatten it again. German ten-year yields were around three point two five percent, roughly flat, and the French spread was near one hundred and fifty basis points, as discussed.
+
+Equities. The S and P five hundred closed at seven thousand three hundred and seventy-seven, up point three percent. The Nasdaq composite rose one point one percent, to about twenty-four thousand five hundred and eighty, as chip and AI shares rebounded from the previous session's selloff. The Dow slipped half a percent to about fifty-one thousand two hundred and eighty-six. So what: financials lagged technology on the day, which is typical when the market is trying to bounce from an AI scare.
+
+I could not verify dated closing levels for credit indices, the dollar, oil, gold or bitcoin, so I give no numbers there; the tone in credit is cautious but orderly, with weakness concentrated in the lowest-rated names. Here is my one interpretation, and it is a view. The market is living through two opposing pressures at the same time. A strong American economy is pushing rate-hike odds higher, which hurts long-duration assets such as technology and high-yield. At the same time, the AI trade that supported those assets is cracking at the edges. For bank bondholders, that is a mixed picture: earnings and capital are strong, and that is why European bank spreads are holding. The risk is not a bank-specific shock, it is a funding-cost shock from higher sovereign spreads in France and a repricing of AI credit exposure that is concentrated in non-bank lenders but ultimately leans on banks for leverage.
+
+Now, a few market anecdotes.
+
+First, a curiosity of the weekend. Because American stock markets are closed on Sunday, traders trying to express a view on Nvidia after the board investigation news had to use weekend-trading venues. Nvidia shares dipped about three point seven percent on Robinhood on Sunday night New York time, and crypto-based perpetual contracts on Nvidia slid too. It is a small but vivid example of how markets now trade around the clock on headlines.
+
+Second, a number. Taiwan's main index jumped as much as six point four percent this morning, its biggest advance since July, only days after Japanese and Taiwanese stocks had slid into bear-market territory. A whipsaw of that size, from a bear market to a six percent rally, is a reminder of how crowded the trade in AI hardware has become.
+
+Now, this day in market history.
+
+On the ninth of November nineteen oh three, the Dow Jones Industrial Average hit the low of the bear market known as the Rich Man's Panic. It closed at forty-two point one five. The index took until nineteen oh five to regain its nineteen oh one highs. The panic was triggered by a crisis of confidence in the financing of big trusts and railroads, and by tight money. The lesson for today: a market driven by heavy borrowing for a new technology build-out can fall a long way when funding gets expensive, and it can take years to recover. Replace railroads and trusts with data centres and A I, and the analogy is uncomfortable.
+
+A second event, from the ninth of November nineteen eighty-nine. The Berlin Wall fell. The market rose the next day, and over the following decade, major indices quadrupled. It is a good reminder that German politics can reshape European finance, and it is the thread to today's story: thirty-seven years later, a German bank may be about to come under Italian ownership.
+
+That is the Bank Credit Briefing for Monday the ninth of November. This was compiled in the early hours, so please check your terminal for any late news, particularly on the French budget, on UniCredit and Commerzbank, and on the Hong Kong debuts. Thank you for listening, and have a good week.

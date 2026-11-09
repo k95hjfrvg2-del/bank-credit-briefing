@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-09.mp3",
+  "title": "Monday 9 November: UniCredit, France, AI loans",
+  "desc": "UniCredit's Commerzbank bid faces a Brussels deadline on 16 November, France's 2027 budget was rejected, and ING is shopping data-centre loans as AI debt reprices.",
+  "date": "2026-11-09",
+  "pub": "Mon, 09 Nov 2026 05:22:44 +0000",
+  "bytes": 11264670,
+  "dur": 1408
+ },
+ {
   "file": "Bank_Briefing_2026-11-06.mp3",
   "title": "Friday 6 November: AI Rout Hits Banks",
   "desc": "Wall Street's worst day since April 2025 on an AI selloff spreads to Asia and AI-linked credit; the Bank of England hikes to 4 percent; Commerzbank posts a record nine months but trims interest income guidance.",
@@ -115,14 +124,5 @@
   "pub": "Wed, 21 Oct 2026 04:13:00 +0000",
   "bytes": 10982757,
   "dur": 1372
- },
- {
-  "file": "Bank_Briefing_2026-10-20.mp3",
-  "title": "Tuesday 20 October: French spreads, Nordic model add-ons",
-  "desc": "French bank stress as the OAT-Bund spread nears 142bp ahead of Moody's on Friday; FI's temporary capital add-on on SEB and Nordea's buyback pause; UniCredit gets ECB approval to take control of Commerzbank.",
-  "date": "2026-10-20",
-  "pub": "Tue, 20 Oct 2026 04:13:55 +0000",
-  "bytes": 11403433,
-  "dur": 1425
  }
 ]
