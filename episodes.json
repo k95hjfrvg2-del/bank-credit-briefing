@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-10.mp3",
+  "title": "Tuesday 10 November: UniCredit, Credit Agricole, Anthropic IPO",
+  "desc": "UniCredit posts a record quarter and eyes Commerzbank control, Credit Agricole proposes merging its Italian unit into Banco BPM, and Anthropic's IPO roadshow nears as Hong Kong listings cool.",
+  "date": "2026-11-10",
+  "pub": "Tue, 10 Nov 2026 05:15:15 +0000",
+  "bytes": 10049454,
+  "dur": 1256
+ },
+ {
   "file": "Bank_Briefing_2026-11-09.mp3",
   "title": "Monday 9 November: UniCredit, France, AI loans",
   "desc": "UniCredit's Commerzbank bid faces a Brussels deadline on 16 November, France's 2027 budget was rejected, and ING is shopping data-centre loans as AI debt reprices.",
@@ -115,14 +124,5 @@
   "pub": "Thu, 22 Oct 2026 04:05:03 +0000",
   "bytes": 10734907,
   "dur": 1341
- },
- {
-  "file": "Bank_Briefing_2026-10-21.mp3",
-  "title": "Wednesday 21 October: France, Barclays, Nordics",
-  "desc": "French spreads widen ahead of Friday's Moody's review, the Bank of England probes Barclays' private credit swaps, and Nordic supervisors tighten on bank models.",
-  "date": "2026-10-21",
-  "pub": "Wed, 21 Oct 2026 04:13:00 +0000",
-  "bytes": 10982757,
-  "dur": 1372
  }
 ]
