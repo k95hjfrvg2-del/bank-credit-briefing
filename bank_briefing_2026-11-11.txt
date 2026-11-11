@@ -1,0 +1,151 @@
+Good morning. This is the Bank Credit Briefing for Wednesday the eleventh of November, twenty twenty-six. Banks in Europe, the United States and Asia, through a credit lens.
+
+Here are the headlines.
+
+First: a hot American inflation print, and a Federal Reserve governor openly talking about a half-point hike. The ten-year Treasury flirted with five percent, and the two-year jumped seventeen basis points.
+
+Second: Commonwealth Bank of Australia opens the Asian reporting day with a solid quarter, but home loan arrears are creeping up.
+
+Third: Anthropic launches the largest I P O roadshow ever attempted, with Goldman Sachs and Morgan Stanley on the cover, and a book that is reportedly already covered.
+
+Behind those: Brussels' deadline on UniCredit and Commerzbank, the read-across from Credit Agricole's move on Banco B P M, and a quiet repricing of artificial intelligence data-centre debt. After the stories, the Asia segment, the I P O watch, a review of the credit themes in the papers, the cross-asset wrap, some market anecdotes, and this day in market history.
+
+A word on today's calendar first. It is Veterans Day in the United States. American stock markets are open, but the U S cash bond market is normally closed, so do not expect Treasury liquidity to help anyone digest yesterday's move until Thursday.
+
+Now to the top story: rates.
+
+The October consumer price index came in hotter than expected. Core prices rose about three tenths of one percent on the month, and some measures of the headline ran higher. That followed a speech by Fed Governor Christopher Waller, who said he is leaning toward a quarter-point hike at the December meeting even if inflation improved, and that a core print of around three tenths or more should put a fifty basis point move on the table. Well, he got his three tenths.
+
+The market took him at his word. Futures pricing for a December hike, which had sat somewhere above eighty percent, went to effectively a certainty. The two-year Treasury yield rose about seventeen basis points to around four point seven three percent. The ten-year rose about twelve basis points to just under four point nine eight, after trading briefly above five percent during the session. The thirty-year ended near five point three five.
+
+Equities did not like it. The S and P five hundred fell about four tenths of a percent, to around seven thousand five hundred and twenty. The Nasdaq lost about three quarters of a percent, with Nvidia down roughly five and a half percent. Homebuilders and mortgage names were hit hardest, and gold dropped close to two and a half percent.
+
+The credit read-across. For U S banks, a bear flattener of this size is a mixed blessing. Asset-sensitive balance sheets keep repricing upward, which supports net interest income into next year. But a second leg of hikes reopens three questions that the sector thought it had parked: unrealised losses on held-to-maturity books, deposit migration toward money funds, and refinancing stress in commercial real estate. The regionals carry more of all three than the money centre banks.
+
+For European bank credit, the transmission is through risk appetite rather than fundamentals. A five percent ten-year Treasury makes dollar investment grade very competitive with euro senior paper for global real-money buyers, and that matters for anyone planning euro or dollar issuance before the year-end window closes. If you have a deal to print, the message from the tape is: sooner, not later.
+
+Now to Australia, and our reporting bank of the day.
+
+Commonwealth Bank of Australia released its first-quarter update for its twenty twenty-seven financial year overnight. Cash net profit was about two point eight billion Australian dollars for the three months to September. That is up about eight percent on the same quarter a year ago, and flat against the average quarter of the second half.
+
+Operating income rose about three percent, driven by lending and deposit volumes, partly offset by weaker markets trading income. Excluding liquid assets, the bank described its underlying net interest margin as broadly stable.
+
+On credit quality, home loan arrears rose seven basis points to eighty basis points, which the bank linked to cost-of-living pressure. The loan impairment expense for the quarter was small, about thirty million Australian dollars. Core equity tier one was reported at about eleven and a half percent, comfortably above the regulator's unquestionably strong benchmark.
+
+The context matters here. The Reserve Bank of Australia recently took its cash rate up to four point eight five percent. And this morning's housing data showed a record slump in new home loans, led by investors. So C B A is telling you that the book is sound today, but the arrears trend is pointing the wrong way, and new lending is slowing.
+
+The shares were up about two tenths of a percent in early trade, while National Australia Bank slipped about seven tenths. A N Z goes ex-dividend tomorrow.
+
+The credit takeaway: for C B A senior and tier two, nothing here changes the story. Eighty basis points of arrears is not a problem. But this is the first quarter in a while where the direction of travel on mortgage credit is clearly negative, with the central bank still tightening. For the Australian majors, the next leg of spread performance depends on whether arrears plateau by the half-year results in February.
+
+Now to Europe, and the M and A file.
+
+Start with UniCredit and Commerzbank. Reuters reports, citing three sources, that the European Commission is set to clear UniCredit's acquisition without conditions. The Commission's deadline is the sixteenth of November, next Monday. UniCredit has already said it expects the remaining approvals by the end of November and control in early twenty twenty-seven, with its stake close to half of Commerzbank once the offer settles, and the intention to stay below an outright majority.
+
+The interesting detail is what had held Brussels up: the German government's demand to keep two seats on Commerzbank's supervisory board. If the Commission clears the deal without conditions, Berlin keeps a voice in governance, but loses the antitrust lever.
+
+For Commerzbank bondholders, this is now a question about the future funding model. Commerzbank itself has lowered its outlook for net interest income this year, citing tougher competition for deposits. Once UniCredit has control, the market will want to know whether Commerzbank keeps its own senior preferred and senior non-preferred curves, or whether issuance migrates toward the parent over time. Our working assumption is that Commerzbank remains a separate issuer and resolution entity for the foreseeable future, which should keep its spreads anchored to its own credit, with an upgrade bias from the parent.
+
+Now Italy. On Monday, Credit Agricole proposed merging its Italian unit, Credit Agricole Italia, into Banco B P M. As we covered yesterday, that would take the French group's stake to about forty-five percent without a public bid. The new details: the proposal includes a premium of around twenty percent on its estimated valuation through the share exchange, and a one billion euro extraordinary dividend. Banco B P M's current chief executive would run the combined bank, which would stay listed in Milan. Completion would come in the second half of twenty twenty-seven, subject to shareholders and the European Central Bank.
+
+Banco B P M shares rose about ten percent on the day. Credit Agricole slipped slightly.
+
+S and P said it sees strong strategic complementarity. But it added a line that every Italian bank credit investor should underline: any positive action on Banco B P M's rating would require an upgrade of Italy itself. In other words, the sovereign ceiling still binds, whoever the shareholder is.
+
+There is politics too. Banco B P M walked away from a proposed merger of equals with Monte dei Paschi in July after Credit Agricole made clear it had not been consulted. Opposition figures in Rome are now blaming the government for opening the door to French influence. Watch for any use of the golden power rules.
+
+The credit read. For Banco B P M senior holders, a strong French anchor shareholder at forty-five percent, combined with the scale of a number three Italian bank, is positive, even if the rating does not move. For Credit Agricole, the issue is capital consumption and a larger Italian sovereign exposure on a group basis, at a time when France's own budget is in trouble. And for Monte dei Paschi and Mediobanca, it removes one more potential partner from the board.
+
+Now to the supervisors.
+
+There was no new capital action in our window from the European Central Bank, the Prudential Regulation Authority, or the national regulators. But two pieces of context are worth having in your head.
+
+First, the European Central Bank is pushing back hard on the campaign for lower capital. Claudia Buch told the European Parliament last week that there is no sign credit supply is being held back by capital requirements. The supervisor is open to simplifying calculation methods and trimming overlapping buffers, but not to lowering the overall level. Banks have been receiving their supervisory review decisions for twenty twenty-seven; B P C E confirmed it sits above its new requirements. Expect more of those disclosures in the coming weeks, and watch for any change in Pillar Two guidance.
+
+Second, in the U K, the Basel three point one go-live is the first of January twenty twenty-seven, alongside the restatement of the remaining capital rules into the P R A rulebook. That is seven weeks away. Any bank that has not yet quantified its day-one risk-weighted asset impact will be asked about it at full-year results.
+
+Now to the United States.
+
+No major U S bank reported in the window. The story is rates, which we covered. But one item from the loan market is worth flagging. Dutch bank I N G is reported to be selling roughly five hundred million dollars of data-centre loans, with bids due on the nineteenth of November. One slice, about twenty-five million dollars, backs a site in New Mexico that is part of the Stargate project led by OpenAI, SoftBank and Oracle.
+
+That is a small trade, but it fits a pattern. Recent reports suggest that commercial banks and some private credit lenders have begun to pull back from financing new data-centre construction. Oracle's new bonds earlier this month came with coupons between about seven and eight point six five percent. And by one estimate, close to half of the roughly eighty billion dollars of U S data-centre bonds issued this year through mid-October were rated high yield. More on this in the themes review.
+
+Now to Asia.
+
+Overnight, Tokyo rose for a third day. The Nikkei gained about nine tenths of a percent to just under sixty-one thousand. Korea's tech-heavy Kosdaq jumped around five percent at one point as chip stocks rebounded. Taiwan added about half a percent. Hong Kong was the laggard, with the Hang Seng down about eight tenths of a percent at around twenty-four thousand three hundred and fifty.
+
+For the Japanese megabanks, the number to watch is the ten-year Japanese government bond, which rose about five basis points to around two point seven five percent, according to Trading Economics. A thirty-year auction cleared at around three point eight five percent, a touch lower than last time, which suggests domestic demand is holding up at these levels.
+
+Dollar-yen traded close to one hundred and fifty-nine. That is the zone where the Ministry of Finance has intervened before, and the market knows it. Higher J G B yields are a tailwind for megabank margins, but they also deepen unrealised losses on bond portfolios held by regional banks and insurers.
+
+That sets up the week for M U F G, S M B C and Mizuho, which are expected to report their first-half results between Thursday and early next week. Watch three things: net interest income guidance after the Bank of Japan's moves, credit costs including any exposure to artificial intelligence and data-centre lending, and the size of buybacks.
+
+Time for the I P O watch.
+
+The deal of the year, possibly of any year, is now on the road. Anthropic, the artificial intelligence company behind the Claude models, launched its roadshow on Tuesday. The updated filing sets a range of seventy to seventy-eight dollars per share, for eight hundred and twenty-five million class A shares. That implies proceeds of roughly fifty-seven point eight to sixty-four point four billion dollars, before a greenshoe of up to about one hundred and twenty-four million additional shares.
+
+Valuation depends on how you count. TechCrunch puts it at about one point four trillion dollars at the top of the range on a fully diluted basis. Yahoo Finance, working from shares outstanding, gets to roughly nine hundred and sixteen billion to one point zero two trillion dollars. As recently as September, an earlier draft had pointed to around two trillion. So the range is a deliberate step down, designed to leave room for a first-day pop.
+
+Pricing is expected on the eighteenth of November, with trading on Nasdaq from the nineteenth under the ticker A N T. C N B C reported that the order book was already covered at the range, and the company expects up to twenty percent of the deal to go to retail investors. One note of caution: a separate Reuters report said the company had pulled back some pricing terms that had circulated to banks, describing them as inaccurate. Treat the timetable as firm only once the price is announced.
+
+Why it matters for bank credit. Goldman Sachs and Morgan Stanley lead a syndicate whose fees, even at a compressed gross spread, should run to hundreds of millions of dollars. That lands squarely in the fourth quarter for equity capital markets revenue. It is also a stress test of market depth: sixty billion dollars of new equity has to be funded somehow, and some of that will come from selling other holdings.
+
+Now Hong Kong. The listing boom has cooled sharply since October. According to the South China Morning Post, only three new listings came in the month after the October break, and all three closed below their offer prices on debut. Two other candidates shelved deals after completing the paperwork, and seventeen companies that have passed their listing hearings have yet to launch. Deloitte's forecast of four hundred and eighty billion Hong Kong dollars of proceeds this year would need around one hundred billion more by year-end. For the banks, that is a reminder that this year's record Asian equity fees were front-loaded, and the fourth quarter run-rate is weaker.
+
+Looking ahead.
+
+Thursday and Friday: the Japanese megabanks begin first-half reporting, with dates still to be confirmed by the companies.
+
+Monday the sixteenth of November: the European Commission's deadline on UniCredit and Commerzbank.
+
+Wednesday the eighteenth: Anthropic is expected to price, and trade from Thursday the nineteenth. The same day, the nineteenth, bids are due on I N G's data-centre loan sale.
+
+Friday the twentieth: the French Senate begins its debate on the budget.
+
+Wednesday the twenty-fifth: UniCredit's interim dividend is paid.
+
+And the Federal Reserve meets in early December, with one report pointing to the ninth. The only question now is twenty-five or fifty.
+
+Now, a review of the credit themes in the papers this week. A note first: our research tools could not reach the Financial Times this morning, so this is not a digest of the F T. Instead, here are four stories on your core themes that the wider financial press is running, in our own words.
+
+One: bank capital. The European debate on simplification has turned into a standoff. The Commission's banking competitiveness agenda, and lobbying from the large banks, push toward fewer and simpler buffers. The European Central Bank says yes to simpler, no to lower. For credit investors, simplification without a lower total is roughly neutral for senior and tier two, but a merging of buffers could change where the M D A trigger sits for A T one. Read every consultation for that detail.
+
+Two: French debt. The National Assembly rejected the revenue section of the twenty twenty-seven budget last week by four hundred and fifty-eight votes to none. That kills the bill at first reading, sends it to the Senate, and leaves the government likely to use special constitutional powers to force it through, while it looks for forty-three billion euros of savings ahead of April's presidential election. The ten-year O A T to Bund spread was around one hundred and fifty-three basis points on Monday, down from a peak above one hundred and seventy in late October. That still leaves the French banks paying a sovereign premium on every senior non-preferred deal.
+
+Three: data-centre finance. The theme of the month is the quiet repricing of artificial intelligence infrastructure debt. Bank construction loans that could not be syndicated have been quoted below par, and lenders are reported to be stepping back from new projects. The key risk is refinancing: much of this debt was written against tenancy assumptions that have never been tested. For the banks, the exposure is modest relative to their balance sheets, but it is concentrated, and it is in the trading and underwriting book as well as the loan book.
+
+Four: private credit. The Financial Stability Board puts euro area and U K banks' direct exposure to private credit at around one hundred and thirty billion dollars. Default rates in private credit hit a record six percent in the year to June, according to Reuters, and retail funds are still facing redemption requests above their quarterly limits. In Australia, the securities regulator has just published a report on risks in retail private credit, prompting the industry to review its disclosure guidance. The bank channel to watch is back leverage: fund finance lines and net asset value loans.
+
+Now the cross-asset wrap.
+
+Rates first. The U S two-year rose about seventeen basis points to around four point seven three percent, and the ten-year about twelve to just under four point nine eight. So what for banks: asset-sensitive U S lenders gain on margin, but unrealised losses widen again.
+
+In Europe, the German ten-year was steady at around three and a quarter percent on Tuesday, and the French spread to Bunds was around one hundred and fifty-three basis points as of Monday. So what: core European rates are not following the Treasury sell-off, which flatters euro-denominated bank paper against dollar paper.
+
+In Japan, the ten-year at around two point seven five percent. So what: supportive for megabank margins, painful for bond portfolios.
+
+Credit. We do not have verified index closes for Tuesday, so direction only: risk assets traded heavier after the inflation print, and the weakness was concentrated in technology and real estate-linked names. So what: the primary window for bank senior paper is still open, but the cost of waiting is rising.
+
+Foreign exchange. The dollar index rose about six tenths of a percent to around one hundred and two point two. Dollar-yen near one hundred and fifty-nine, in intervention territory. So what: a stronger dollar tightens funding conditions for Asian banks with dollar assets.
+
+Commodities. Brent fell back below ninety dollars a barrel earlier this week, helped by hopes of a U S and Iran deal. Gold fell about two and a half percent to around four thousand and forty dollars an ounce. Bitcoin fell with the other rate-sensitive assets. So what: lower oil helps the inflation outlook at the margin, but not enough to stop the Fed.
+
+And the view, clearly labelled as ours. The market spent October pricing a world in which the Fed's hiking cycle was nearly over. One inflation print and one speech have taken that away. European banks have rallied on earnings and M and A, and their credit is fundamentally strong. But they are not immune to a global repricing of duration. For the rest of the year, we would rather own short-dated European bank senior than long-dated U S paper, and we would be selective in A T one, where the call extension risk rises with rates.
+
+Now some market anecdotes.
+
+The first: the retail allocation. Anthropic is reported to be setting aside up to twenty percent of its offering for individual investors. On a sixty billion dollar deal, that is up to around twelve billion dollars of stock going to retail accounts. That alone would be larger than most I P Os of the last decade.
+
+The second: the mystery seller. The I N G loan sale includes a slice of the Stargate project worth about twenty-five million dollars. That is a rounding error against a project measured in hundreds of billions, but it is the first time such a piece of the flagship artificial intelligence build-out has been offered so openly in the secondary market. Price discovery has arrived.
+
+The third: the bots are not welcome. Five of Britain's biggest lenders have shut the door on artificial intelligence agents trying to log into customer accounts, before any meaningful number of them have actually shown up. Banking may be the first industry to regulate a customer that does not yet exist.
+
+And now, this day in market history.
+
+On the eleventh of November, nineteen eighty-five, Veterans Day, all three of the main U S equity benchmarks of the time, the Dow Jones Industrial Average, the New York Stock Exchange composite and the S and P five hundred, closed at record highs. The bond market was shut for the holiday, while stocks traded on.
+
+And on the eleventh of November, nineteen ninety-three, according to Benzinga's market history series, the forecaster Joe Granville predicted a twenty percent fall in the Dow. It closed that day at about three thousand six hundred and sixty. The bull market ran for most of the next seven years.
+
+The link to today is obvious. Once again it is Veterans Day, once again the stock market is open and the bond market is shut, and once again the loudest forecasts are about a sharp turn. Yesterday the ten-year briefly touched five percent. The lesson from nineteen ninety-three is not that the bears are always wrong. It is that timing a turn on one data point is very expensive, and that a strong balance sheet, the thing we look for in a bank, buys you the time to be wrong.
+
+That is the Bank Credit Briefing for Wednesday the eleventh of November. A reminder that this was recorded before the European open, so check your terminal for late news, results and anything from the regulators. Thank you for listening, and we will be back tomorrow.

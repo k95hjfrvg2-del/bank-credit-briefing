@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-11.mp3",
+  "title": "Wednesday 11 November: Hot CPI, Fed hike talk",
+  "desc": "Hot US inflation and Waller's half-point hint push Treasuries toward 5%, Commonwealth Bank posts a solid quarter with rising arrears, and Anthropic launches a record IPO roadshow.",
+  "date": "2026-11-11",
+  "pub": "Wed, 11 Nov 2026 05:04:05 +0000",
+  "bytes": 11568736,
+  "dur": 1446
+ },
+ {
   "file": "Bank_Briefing_2026-11-10.mp3",
   "title": "Tuesday 10 November: UniCredit, Credit Agricole, Anthropic IPO",
   "desc": "UniCredit posts a record quarter and eyes Commerzbank control, Credit Agricole proposes merging its Italian unit into Banco BPM, and Anthropic's IPO roadshow nears as Hong Kong listings cool.",
@@ -115,14 +124,5 @@
   "pub": "Fri, 23 Oct 2026 04:16:40 +0000",
   "bytes": 11394865,
   "dur": 1424
- },
- {
-  "file": "Bank_Briefing_2026-10-22.mp3",
-  "title": "Thursday 22 October: French yields hit five percent",
-  "desc": "French ten-year yield tops five percent before Moody's review; Barclays, S E B and Swedbank report with private credit and capital add-on in focus; Asia sells off as Brent nears 110 dollars.",
-  "date": "2026-10-22",
-  "pub": "Thu, 22 Oct 2026 04:05:03 +0000",
-  "bytes": 10734907,
-  "dur": 1341
  }
 ]
