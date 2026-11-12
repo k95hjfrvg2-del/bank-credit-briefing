@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Thursday 12 November: ABN Amro beats, Treasuries reopen</title>
+   <description>ABN AMRO beats with 940 million euros of profit and higher NII guidance, the US bond market reopens after a hot CPI print with a December Fed hike priced, and Credit Agricole's Banco BPM merger proposal plus the UniCredit-Commerzbank EU deadline drive Italian and German bank M&amp;A.</description>
+   <itunes:summary>ABN AMRO beats with 940 million euros of profit and higher NII guidance, the US bond market reopens after a hot CPI print with a December Fed hike priced, and Credit Agricole's Banco BPM merger proposal plus the UniCredit-Commerzbank EU deadline drive Italian and German bank M&amp;A.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-12.mp3" length="11108354" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-12</guid>
+   <pubDate>Thu, 12 Nov 2026 05:05:51 +0000</pubDate>
+   <itunes:duration>00:23:08</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Wednesday 11 November: Hot CPI, Fed hike talk</title>
    <description>Hot US inflation and Waller's half-point hint push Treasuries toward 5%, Commonwealth Bank posts a solid quarter with rising arrears, and Anthropic launches a record IPO roadshow.</description>
    <itunes:summary>Hot US inflation and Waller's half-point hint push Treasuries toward 5%, Commonwealth Bank posts a solid quarter with rising arrears, and Anthropic launches a record IPO roadshow.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-10-26</guid>
    <pubDate>Mon, 26 Oct 2026 05:17:22 +0000</pubDate>
    <itunes:duration>00:21:41</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Friday 23 October: European Banks Sell Off</title>
-   <description>European bank stocks suffer their worst day since March as French yields, oil and an AI chip rout bite; Barclays reports a 12 percent profit rise under PRA private-credit scrutiny, while SEB and Swedbank report with higher Swedish capital requirements.</description>
-   <itunes:summary>European bank stocks suffer their worst day since March as French yields, oil and an AI chip rout bite; Barclays reports a 12 percent profit rise under PRA private-credit scrutiny, while SEB and Swedbank report with higher Swedish capital requirements.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-23.mp3" length="11394865" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-10-23</guid>
-   <pubDate>Fri, 23 Oct 2026 04:16:40 +0000</pubDate>
-   <itunes:duration>00:23:44</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>

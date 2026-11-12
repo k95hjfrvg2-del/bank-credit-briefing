@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-12.mp3",
+  "title": "Thursday 12 November: ABN Amro beats, Treasuries reopen",
+  "desc": "ABN AMRO beats with 940 million euros of profit and higher NII guidance, the US bond market reopens after a hot CPI print with a December Fed hike priced, and Credit Agricole's Banco BPM merger proposal plus the UniCredit-Commerzbank EU deadline drive Italian and German bank M&A.",
+  "date": "2026-11-12",
+  "pub": "Thu, 12 Nov 2026 05:05:51 +0000",
+  "bytes": 11108354,
+  "dur": 1388
+ },
+ {
   "file": "Bank_Briefing_2026-11-11.mp3",
   "title": "Wednesday 11 November: Hot CPI, Fed hike talk",
   "desc": "Hot US inflation and Waller's half-point hint push Treasuries toward 5%, Commonwealth Bank posts a solid quarter with rising arrears, and Anthropic launches a record IPO roadshow.",
@@ -115,14 +124,5 @@
   "pub": "Mon, 26 Oct 2026 05:17:22 +0000",
   "bytes": 10411198,
   "dur": 1301
- },
- {
-  "file": "Bank_Briefing_2026-10-23.mp3",
-  "title": "Friday 23 October: European Banks Sell Off",
-  "desc": "European bank stocks suffer their worst day since March as French yields, oil and an AI chip rout bite; Barclays reports a 12 percent profit rise under PRA private-credit scrutiny, while SEB and Swedbank report with higher Swedish capital requirements.",
-  "date": "2026-10-23",
-  "pub": "Fri, 23 Oct 2026 04:16:40 +0000",
-  "bytes": 11394865,
-  "dur": 1424
  }
 ]

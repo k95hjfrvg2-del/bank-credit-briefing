@@ -1,0 +1,155 @@
+Good morning, and welcome to the Bank Credit Briefing for Thursday the twelfth of November. Large banks across Europe, the U S and Asia, read through a credit lens.
+
+Here is what matters this morning.
+
+First, the U S cash bond market reopens today after Veterans Day, and it has a backlog to digest. Tuesday's hot inflation print sent the ten-year Treasury to the edge of five percent, and a December Fed hike is now treated as close to a done deal. Equities shrugged it off yesterday. Bonds have not yet had their say.
+
+Second, A B N AMRO delivered a big beat. Net profit of nine hundred and forty million euros, up fifty-two percent, and higher net interest income guidance, with core equity tier one still comfortably above target after the N I B C deal.
+
+Third, Italian consolidation keeps moving. Credit Agricole's proposal to fold its Italian arm into Banco B P M is now in its third day, and Brussels is due to rule on UniCredit and Commerzbank by Monday.
+
+And fourth, Commonwealth Bank of Australia reported a solid quarter, but home loan arrears ticked up, which is the line credit people will remember.
+
+Later in the show: K B C and pbb report this morning, the Japanese megabanks tomorrow, the I P O watch with Anthropic's record book and two Hong Kong chip debuts, our press review on your F T beat, the cross-asset wrap, a couple of market anecdotes, and a date in history that every bank regulator should have on the wall.
+
+Let's start with rates, because everything else sits on top of them.
+
+To recap. Tuesday's October consumer price index came in hot, with core up about three tenths on the month, exactly the print Governor Waller had said would put a December hike firmly on the table. Futures now price that hike as near certain. The two-year Treasury closed Tuesday around four point seven three percent, the ten-year around four point nine eight, and the thirty-year around five point three five.
+
+Yesterday the cash Treasury market was shut for Veterans Day, but stocks were open, and they rallied. The S and P five hundred rose about one point three percent to around seven thousand six hundred and twenty, the Nasdaq about one and a half percent, helped by chip names, and the Dow about half a percent.
+
+So equities have voted that a hike is tolerable, while the cash bond market has not traded for a day and a half. When it reopens today, the first test is whether the ten-year holds below five percent.
+
+The credit read-across. For U S banks, a hike into a still-growing economy is supportive of net interest income for asset-sensitive balance sheets. But a second hiking cycle reopens three questions: unrealised losses on held-to-maturity books, deposit migration toward money funds, and refinancing stress in commercial real estate. The regionals carry more of all three than the money-centre banks.
+
+For European bank credit, the channel is mainly relative value. A five percent ten-year Treasury makes dollar investment grade very competitive for global real money, and that can drain demand from euro senior and subordinated paper at the margin. Issuers with something to print before the year-end window closes have every reason to go early.
+
+Now to the Netherlands, and A B N AMRO.
+
+A B N AMRO published third-quarter results yesterday, and they were strong. Net profit came in at nine hundred and forty million euros, up fifty-two percent on a year ago, against a consensus closer to seven hundred and eighty million. Total net interest income rose fifteen percent to about one point eight two billion euros. N I B C, consolidated since the first of August, contributed sixty-three million euros of net interest income in its first two months.
+
+The bank raised its full-year guidance for commercial net interest income to above six point nine billion euros, from six point eight. Year-to-date return on equity was twelve and a half percent. The shares hit a fifty-two-week high.
+
+Now the capital line, which matters most to us. Core equity tier one was fourteen and a half percent, down from fifteen point nine in the second quarter. The N I B C acquisition cost around seventy basis points, and N I B C brought about six point six billion euros of risk-weighted assets. Against a target of above thirteen point seven five percent, that is still a cushion of around seventy-five basis points, and the pro forma figure is fifteen point three percent.
+
+And there is relief coming. Management expects the removal of a Dutch mortgage floor to cut risk-weighted assets by roughly seven billion euros next quarter, plus about one billion from the sale of Alfam. Both point to a rebuild of the ratio quickly.
+
+The credit read. This is a bank that has just absorbed an acquisition and still printed strong earnings and a comfortable buffer. Senior non-preferred and tier two spreads should hold well. The one question for bondholders is how quickly the regained capital goes back out as distributions, especially with the Dutch state running a programme to cut its stake to ten and a half percent. Equity holders will want buybacks. For now, the balance looks well managed.
+
+Now to Italy, where the consolidation story has a new chapter.
+
+On Monday, Credit Agricole proposed merging its Italian subsidiary, Credit Agricole Italia, into Banco B P M. The terms on the table: an exchange ratio that builds in a twenty percent premium for Banco B P M shareholders, plus an extraordinary dividend of one billion euros. Credit Agricole, which already owns about twenty-nine point six percent, would end up with around forty-five percent of the combined group, without triggering a mandatory bid. The new bank would stay listed in Milan, Banco B P M's chief executive would lead it, and the board would keep a majority of independent directors.
+
+Credit Agricole is pitching eight hundred million euros a year of synergies and a twenty-four percent lift to Banco B P M's earnings per share in twenty twenty-seven. Closing would be in the second half of twenty twenty-seven, and Banco B P M's extraordinary meeting would need a two-thirds majority of the capital represented. Banco B P M's shares jumped more than ten percent on Monday. The board has not yet given a formal public answer.
+
+Why it matters for credit. The combined group would be Italy's third-largest bank, with a French parent at forty-five percent, deeply involved but not in full control. Banco B P M bondholders would gain implicit support from a larger, highly rated shareholder, which is positive for its senior and subordinated curve. For Credit Agricole's own spreads, the impact is modest. Watch the effect of the one-billion-euro dividend on the pro forma capital ratio, and remember that Rome has used its golden power before.
+
+Staying with M and A. The European Commission's deadline on UniCredit's takeover of Commerzbank falls on Monday the sixteenth, and Reuters reported this week, citing people with direct knowledge, that approval is likely to be unconditional. UniCredit holds about forty-seven and a half percent of Commerzbank; Berlin about thirteen percent. The convergence of Commerzbank's curve toward UniCredit's has already done most of its work.
+
+Now to Australia.
+
+Commonwealth Bank of Australia published its first-quarter trading update yesterday. Cash profit was about two point eight billion Australian dollars, up eight percent on a year ago and flat on the previous half's quarterly average. Operating income rose three percent on volumes, with business lending up almost fourteen percent and deposits up close to eight percent, partly offset by weaker trading income. Costs rose three percent.
+
+The line for credit people: home loan arrears rose seven basis points to zero point eight zero percent. Not alarming for a bank of this quality, but it is the direction that counts, alongside data the same day showing a record fall in new investor home lending. The capital ratio was eleven and a half percent after four and a half billion dollars of dividends. Some saw the update as a modest miss on trading and bad debts. For Commonwealth Bank's senior and tier two, this is noise, but a useful early read on Australian mortgages.
+
+Now, who reports today.
+
+Two names on our list report this morning, with releases expected around seven a.m. Central European time, so after this episode was recorded.
+
+K B C, in Belgium, publishes third-quarter results. It raised full-year income guidance in the summer. Watch net interest income, Central European asset quality, and the capital surplus that funds its distributions.
+
+And Deutsche Pfandbriefbank, pbb, also reports. The questions are the same every quarter: provisions on commercial real estate, particularly U S offices, the pace of non-performing loan resolution, and Pfandbrief issuance. Sector data for the first half showed German property banks lending more, but to a narrower set of borrowers, with the total commercial book shrinking. For pbb senior and tier two, the stock of problem loans matters more than new business.
+
+Tomorrow, Friday the thirteenth, M U F G and Mizuho report first-half results, according to their investor calendars, with S M B C likely the same day. We will cover them on Monday.
+
+Now to the regulators and supervisors.
+
+A quiet window. The one action of note: the German supervisor, BaFin, has fined Standard Chartered's German banking subsidiary two hundred thousand euros for breaching the large exposure limit. The breach ran from late September to early November last year, and the decision became final on the twenty-fourth of October. Small money, no capital impact, but large exposure breaches are a governance flag, and supervisors notice repeat offenders.
+
+In the U K, third-quarter G D P is due at seven this morning, with consensus and the Bank of England's own forecast at seven tenths of a percent on the quarter, a week after the Bank's first hike in more than three years. Sterling sits near a three-week low.
+
+Now a quick Europe round-up.
+
+European equities have been strong this week, led by banks. On Monday the euro area bank index rose about three percent on the Credit Agricole proposal and UniCredit's results. Tuesday and Wednesday saw further modest gains, with the broad Stoxx six hundred within touching distance of its August record. German ten-year Bund yields have been steady around three point three percent.
+
+In Germany, Deutsche Bank yesterday launched a digital asset custody service for institutional and corporate clients, starting with bitcoin, ether and several stablecoins, and signed a memorandum with its asset manager, D W S, to explore tokenised money market funds. Strategic, not material for credit, but a sign that European banks are building for a world of tokenised cash.
+
+Now the U S round-up.
+
+The big U S bank story of the week is plumbing, not earnings. Goldman Sachs, Citigroup and Wells Fargo are among twenty-one institutions committing about two hundred and seventy million dollars to a venture called Project Faro, to launch a dollar stablecoin in the first half of twenty twenty-seven. J P Morgan has stayed out. For bank credit, the point is deposits: bank-sponsored stablecoins are a defensive move to keep funding inside the regulated system.
+
+Now to Asia.
+
+Overnight, Asian markets opened cautiously, with the Kospi and the Nikkei modestly higher. Japan's producer prices rose seven point one percent on the year in October, driven by a weaker yen. Dollar-yen has been close to one hundred and fifty-nine, with traders wary of intervention, and the ten-year J G B yield near two point eight percent. In India, the Bank Nifty crossed sixty-one thousand yesterday, near its record, with I C I C I and Kotak at highs.
+
+For the Japanese megabanks, that is close to an ideal backdrop for income: higher domestic rates, a steeper curve and loan demand from the data-centre build-out. The risk sits in the bond portfolios, where higher yields mean mark-to-market losses. Tomorrow's results will show how well that has been managed.
+
+Time for the I P O watch.
+
+The deal everyone is watching is Anthropic. The A I company launched its roadshow on Monday with a range of seventy to seventy-eight dollars for eight hundred and twenty-five million class A shares, which is about sixty-four billion dollars at the top of the range. Some reports put the total at up to ninety billion with a concurrent private placement, at a fully diluted valuation of around one point four trillion dollars, though valuation reports conflict. Pricing is expected on Wednesday the eighteenth, with Nasdaq trading from the nineteenth, and reports say the book is several times oversubscribed.
+
+Morgan Stanley and Goldman Sachs are reported to be leading, with J P Morgan, Citi and Barclays in major roles. For the banks, even at thin fee rates, this is a meaningful fourth-quarter fee event. It is also a liquidity test: tens of billions of new paper to absorb can mean selling elsewhere.
+
+In Hong Kong, two chip names. Hosin Electronics, a memory chip company from Shenzhen, debuts today, having priced at seventy-two point eight three Hong Kong dollars and raised about one point zero seven billion Hong Kong dollars, roughly one hundred and thirty-seven million U S dollars. Hold on to that one for our anecdotes. And Amicro Technology, priced at the bottom of its range at forty point two Hong Kong dollars to raise about seven hundred and ten million Hong Kong dollars, was indicated to open more than thirty percent higher.
+
+The wider picture is more mixed. Hong Kong has raised about fifty-two billion dollars this year, the best in six years, but this week's listings have priced near the bottom of their ranges, with several falling after debut. In the pipeline, Alibaba's chip unit, T-Head, has exchange clearance for its spin-off, with no timetable yet.
+
+Now to our F T review.
+
+A word of explanation. Our research tools could not reach the Financial Times site this morning, so this is a review of the themes on your F T beat, built from other reporting in the last few days. Do check the F T app for the paper's own takes.
+
+First, A I and data-centre financing, where the tone has turned. Several reports say banks and private credit lenders are slowing new data-centre loans, even for projects with big tech tenants. A seller, widely reported to be I N G, wants bids by the nineteenth on about five hundred million dollars of data-centre loans, and Morgan Stanley and others are reported to be shifting construction loans to private credit and asset managers. The read: originators are recycling balance sheet ahead of a twenty twenty-seven refinancing wall, and pricing for this risk is moving against the lender.
+
+Second, the bond market version. Oracle sold ten billion dollars of bonds this month with coupons between seven and eight point six five percent, very rich for a large investment grade name. And CoreWeave's twenty thirty-two bond now yields more than sixteen percent. That is distressed territory for a company at the heart of the build-out, and the number to watch for any bank in its loan facilities.
+
+Third, private credit. Non-traded business development companies faced about thirteen point eight billion dollars of redemption requests in the third quarter, with around eight point two billion left unmet because of gates. Fitch has reported a record private credit default rate of about six percent. The bank channel is the fund finance and back-leverage lines banks provide: senior and well collateralised, but the route by which stress would reach them.
+
+Fourth, French debt. The ten-year O A T spread over Bunds was around one hundred and forty basis points earlier this week, down from about one hundred and seventy-six in late October, the widest since twenty eleven. Next tests: the Senate budget debate from the twentieth and S and P's review on the twenty-seventh. For B N P Paribas, Societe Generale, B P C E and Credit Agricole, every leg wider in the sovereign drags their senior spreads with it.
+
+Fifth, commercial property and Pfandbriefe: Helaba and NordLB have reported weaker property earnings, and pbb and Aareal are still working through problem loans. Today's pbb numbers are the next data point.
+
+And in one line, bank M and A, which we covered at the top: Credit Agricole and Banco B P M, UniCredit and Commerzbank.
+
+Looking ahead.
+
+This morning: U K third-quarter G D P at seven, and K B C and pbb results. And the U S cash Treasury market reopens.
+
+Tomorrow, Friday the thirteenth: M U F G and Mizuho first-half results, with S M B C likely the same day.
+
+Monday the sixteenth: the European Commission's deadline on UniCredit and Commerzbank.
+
+Wednesday the eighteenth: Anthropic is expected to price, and trade from Thursday the nineteenth. Bids on the data-centre loan sale are also due on the nineteenth.
+
+Friday the twentieth: the French Senate begins its debate on the budget, and on Friday the twenty-seventh, S and P reviews France.
+
+Then the Federal Reserve meets in early December, and the Bank of England on the seventeenth of December.
+
+Now the cross-asset wrap.
+
+Rates. U S Treasuries, last cash close on Tuesday: two-year around four point seven three percent, ten-year near four point nine eight, thirty-year around five point three five. No official closes yesterday because of the holiday. German ten-year Bunds around three point three percent. Japanese ten-year yields near two point eight percent. So what for banks: steeper curves outside the U S, higher everywhere; good for margins, harder for bond portfolios.
+
+Credit. The French spread over Bunds is around one hundred and forty basis points, tighter than last month's peak but still high. In single names, CoreWeave's double-digit yield is the A I stress marker. In bank capital, investors have become choosier on additional tier one; recent deals have needed more concession. So what: issuers should expect to pay up for subordinated paper, and senior preferred remains the easy trade.
+
+F X. Dollar-yen close to one hundred and fifty-nine, near intervention territory. Sterling near a three-week low ahead of G D P. So what: Japanese bank dollar funding costs stay elevated, and U K banks feel the currency less than their peers.
+
+Commodities. Brent has been trading in the low nineties, around ninety-one to ninety-three dollars, with fresh attacks on shipping near the Strait of Hormuz keeping a risk premium in. Gold is around four thousand dollars an ounce. So what: the energy shock keeps inflation sticky, which keeps central banks hiking.
+
+Equities. The S and P five hundred is around seven thousand six hundred and twenty after yesterday's gain, and the Stoxx six hundred is close to its record high, with banks leading. So what: bank equity is priced for good news, which is a supportive backdrop for bank credit, but leaves little room for disappointment.
+
+And here is our view, labelled as such. We think equities are underestimating the bond market. The strain is showing up at the edges: higher Australian arrears, gated private credit funds, a sixteen percent yield on a key A I borrower, and banks quietly selling data-centre loans. None of that is systemic. But with five percent Treasuries, the weakest links get tested first, and bank credit is protected by capital, not by valuations. We would stay up in quality: senior and tier two of strong banks over additional tier one of weaker names.
+
+Now two market anecdotes.
+
+First, that Hong Kong debut. Hosin Electronics, the memory chip company listing today, has a free float of just eight and a half million H shares, about one point seven seven percent of its total share capital. The company itself warned investors that such a thin float could cause sharp price swings. One point seven seven percent. A listing in name, and a scarcity trade in practice.
+
+Second, a nice detail from the A B N AMRO results. N I B C brought thirteen point two billion euros of deposits into the group, almost exactly double its six point six billion euros of risk-weighted assets. In a world where funding is the thing everybody worries about, that is a balance sheet bought for its liabilities as much as its loans.
+
+And now, this day in market history.
+
+On the twelfth of November, nineteen ninety-nine, President Clinton signed the Gramm-Leach-Bliley Act into law. It removed the remaining barriers of the Glass-Steagall Act, from nineteen thirty-three, that kept commercial banking, investment banking and insurance apart. Citigroup, born from the merger of Citicorp and Travelers the year before, got the green light it needed. The modern universal bank in the U S starts here.
+
+And exactly nine years later, on the twelfth of November, two thousand and eight, Treasury Secretary Hank Paulson announced that the Troubled Asset Relief Program would not, after all, buy troubled mortgage assets, as had been promised to Congress. The money would go into injecting capital into the banks instead. Markets did not like the change of course, and U S stocks fell by more than five percent that day.
+
+The lesson for today. The first date reminds us that bank structure is a political choice; think of Rome's golden power or Berlin's board seats at Commerzbank. The second reminds us that in a crisis it is capital that restores confidence. Today's European banks hold far more of it than in two thousand and eight.
+
+That's all for this morning's Bank Credit Briefing. Results from K B C, pbb and U K G D P land after recording, so do check your terminal for the latest. Thanks for listening, and have a good day in the markets.
