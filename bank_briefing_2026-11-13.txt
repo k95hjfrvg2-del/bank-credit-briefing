@@ -1,0 +1,147 @@
+Good morning, and welcome to the Bank Credit Briefing for Friday the thirteenth of November. Large banks across Europe, the U S and Asia, read through a credit lens.
+
+Here is what matters this morning.
+
+First, the bond market had its say. The U S cash Treasury market reopened after Veterans Day and sold off hard. The ten-year yield closed around five point one percent, the two-year near four point eight eight, and a December Fed hike is now close to fully priced.
+
+Second, a governance shock at the centre of the A I trade. Jensen Huang resigned as chief executive of Nvidia, the stock fell as much as fourteen percent intraday before closing down about four percent, and that matters to bank credit because so much of the data-centre lending boom is anchored on that one company's order book.
+
+Third, Italian consolidation moves another step. The Banco B P M board has given its chief executive a mandate to talk to Credit Agricole about folding in the French bank's Italian arm, but only on terms that pay shareholders for handing over control.
+
+And fourth, the Japanese megabanks, M U F G, S M B C and Mizuho, report first-half results later today, with yen near one hundred and sixty to the dollar and Japanese government bond yields at multi-decade highs.
+
+Later in the show: K B C and pbb from yesterday, a quiet day for supervisors, the I P O watch with Anthropic's book and a Hong Kong debut where retail outbid the institutions, our F T review, the cross-asset wrap, a couple of market anecdotes, and two dates in history, one a bottom and one a bubble.
+
+Let's begin with rates.
+
+Tuesday's hot inflation print had already done the damage in futures. Yesterday the cash market caught up. The ten-year Treasury closed around five point one percent, roughly ten to twelve basis points higher than Tuesday's close. The two-year rose about fifteen basis points to around four point eight eight percent, and the thirty-year reached about five point four three. Sources differ by a basis point or two, so treat those as approximate.
+
+Futures put the probability of a December hike at close to ninety percent. Governor Waller has said he would back a quarter point and could argue for half a point if the data run hot, and Goldman Sachs now pencils in a further hike in March.
+
+Equities took it calmly at the index level. The S and P five hundred slipped about a third of a percent, to around seven thousand five hundred and ninety, the Dow and the Nasdaq were down by similar amounts. But the Russell two thousand fell about one point seven percent. That is the line credit people should notice: small caps are the most rate-sensitive, most floating-rate-funded part of the equity market, and they are the closest equity proxy for leveraged loan borrowers.
+
+The credit read-across. For the U S money-centre banks, higher front-end rates are still net supportive of net interest income. The pressure points are the ones we flagged yesterday: unrealised losses on held-to-maturity securities, deposit migration to money funds paying five percent, and refinancing stress in commercial real estate. Every ten basis points on the long end adds to the first and third of those. The regionals carry more of all three, and the Russell move is the market saying so.
+
+For European bank credit, a five-percent-plus ten-year Treasury keeps dollar investment grade very attractive for global real money. That is competition for euro senior and subordinated paper, and it argues for issuers who still have year-end needs to get them done in the next two weeks.
+
+Now to Nvidia, and why a technology story belongs in a bank credit show.
+
+Jensen Huang stepped down with immediate effect as chief executive and director, following reports about his personal conduct, including an alleged relationship that has drawn a congressional summons. Chief financial officer Colette Kress is interim chief executive, and Harvey Jones, a former Synopsys chief, becomes the company's first-ever chair. The shares fell as much as fourteen percent at the open, briefly wiping out around six hundred billion dollars of market value, then recovered to close about four percent lower. The stock is now around thirty percent below its October high.
+
+Why it matters for us. The data-centre build-out is financed in layers: hyperscaler bonds, construction loans from banks, private credit, and asset-backed and project structures. Underwriting in all of them leans on the assumption that demand for Nvidia's chips stays strong. A succession crisis does not change this quarter's orders, but it adds key-person and governance risk to the most crowded trade in the market, at the same moment as rates are rising.
+
+The banks have been preparing for this. Over the last two weeks I N G has been reported to be selling about five hundred million dollars of data-centre loans, and Morgan Stanley to be exploring moving construction exposure to private credit and insurers. If yesterday's shock widens the bid-offer on that paper, the banks that have already distributed will look clever, and those still warehousing will carry the mark.
+
+Now to Italy.
+
+The Banco B P M board met yesterday on Credit Agricole's proposal and gave chief executive Giuseppe Castagna a mandate to engage. The condition, according to Reuters, is that any deal must compensate shareholders for losing the bank's takeover premium, since a merger with Credit Agricole Italia would hand control to the French group.
+
+As a reminder, Credit Agricole holds just under thirty percent of Banco B P M today. Its proposal would merge its Italian unit into B P M, give the French bank roughly forty-five percent of the combined group, and pay B P M holders an exceptional dividend of about one billion euros. The combination would be Italy's third-largest bank.
+
+The credit read. For Banco B P M bondholders, a large, highly rated strategic owner is unambiguously positive: support assumptions improve and senior non-preferred and tier two should trade tighter on any firm deal. For Credit Agricole holders, the question is capital. Consolidating a larger Italian bank pulls risk-weighted assets onto the group balance sheet and raises Italian sovereign exposure, at a time when the French sovereign itself is a spread story. Watch how much of the one-billion-euro dividend effectively comes out of group capital.
+
+And on the other big Italian thread: Brussels is due to rule on UniCredit's takeover of Commerzbank by Monday. Reuters reports an unconditional clearance is expected, and UniCredit says it expects all remaining approvals by the end of November. For Commerzbank senior bondholders, ownership by a larger, more profitable group is a modest positive; the real question is how UniCredit manages Commerzbank's excess capital once it has control.
+
+Time for the results from yesterday.
+
+K B C reported third-quarter net profit of one point one four billion euros, up from one point zero billion a year earlier and broadly flat on the second quarter. That was roughly in line with consensus, though some analysts' adjusted numbers were a little light. Return on tangible equity was eighteen percent, cost to income just under forty percent, and fees a record seven hundred and seventy-three million euros. Full-year net interest income guidance of about seven point zero five billion euros was kept.
+
+The capital line is the one to hold on to. Core equity tier one was fourteen point six percent on a fully loaded basis, up from fourteen point four. That is a buffer of about five billion euros, or three point six percentage points, above the maximum distributable amount threshold. Liquidity coverage was one hundred and fifty-seven percent. The credit read: a steady, high-return Belgian franchise with one of the thickest distribution buffers in the sector. Nothing here to move spreads; it remains a defensive name in senior and A T one.
+
+Deutsche Pfandbriefbank, pbb, also reported. Pre-tax profit was about twelve million euros in the quarter and twenty-eight million for nine months, against a loss of two hundred and thirty-five million a year ago. Risk provisions were nineteen million euros in the quarter, which management calls a normal level, compared with three hundred and fifty-six million in the first nine months of last year.
+
+New real estate finance business rose fourteen percent to four and a half billion euros, but the financing book shrank by one point two billion to twenty-five point six billion. Core equity tier one was fourteen point one percent, down fifty basis points on the quarter, still above the bank's thirteen percent floor. And management struck a cautious note: commercial property markets remain subdued, and long-term rates have risen more than a hundred basis points.
+
+The credit read for pbb is about time. Provisions have normalised, which helps senior and tier two, but the bank is shrinking, operating income is under pressure, and a higher-for-longer long end delays any recovery in property values. German commercial property faces something like seventy-four to eighty-six billion euros of refinancing between this year and twenty twenty-eight. Pfandbrief holders are well protected by the cover pool; unsecured holders are being asked to be patient.
+
+Now to regulators and supervisors.
+
+It was a quiet window. We found no new capital add-ons, fines or Pillar two decisions on watchlist banks in the last twenty-four hours. The context remains the European Central Bank's warning, earlier this month, against weakening post-crisis standards, especially the output floor, while U S agencies continue to work on their softer re-proposal of the Basel endgame rules. And the Swiss capital debate for U B S remains unresolved. If anything lands in the next few days, it will be the European Central Bank's annual supervisory review results, which last year came out in mid-November.
+
+Now a Europe round-up.
+
+European equities held up far better than Wall Street. The Stoxx six hundred finished the day slightly higher and, by some measures, at a record, helped by earnings and a rotation out of A I-linked names. Bunds traded around three point three percent on the ten-year.
+
+In the U K, third-quarter growth came in at zero point seven percent, in line with forecasts, and the ten-year gilt held just above five point two percent. The Bank of England has already moved to four percent, and markets price another hike by March. For U K banks that is still net interest income tailwind, with the usual caveat on mortgage refinancing stress further out.
+
+Elsewhere: H S B C is reported to be weighing greater independence for its Singapore operation. And B B V A's one-billion-euro A T one earlier this week, priced at six and a half percent with a book around seven times covered, is a reminder that the subordinated window is open for strong names, even as Treasury yields climb.
+
+Now the U S round-up.
+
+Bank stocks were mixed. JPMorgan, Citi and Wells Fargo edged up, while Bank of America and Schwab slipped. Beyond the rates story, the most interesting item for the money-centre banks is the joint stablecoin venture: Goldman Sachs, Citi and a group of other firms are reported to have committed around two hundred and seventy million dollars to a bank-owned dollar stablecoin, targeted for the first half of twenty twenty-seven, with JPMorgan reported to be staying out. For credit, the question is deposit displacement: a successful stablecoin could compete with bank deposits as a payments float.
+
+Now to Asia.
+
+The overnight session followed Treasuries. Japan's ten-year government bond yield rose about seven basis points to around two point eight seven percent. Dollar-yen traded near one hundred and sixty, and Finance Minister Katayama warned again against one-sided moves, which the market reads as intervention risk. The Nikkei managed a gain of roughly one percent in afternoon trade.
+
+That sets up today's megabank results nicely. M U F G, S M B C and Mizuho all report their first half later today. Expect strong core earnings from higher domestic rates and lending margins. What to watch from a credit angle: unrealised losses on foreign and domestic bond portfolios, which grow with every move higher in Treasuries and J G Bs; their exposure to data-centre and A I-related project lending after the Nvidia news; and the size of buybacks, which have been consistently generous. We will bring you the numbers on Monday.
+
+In China, October credit data from the People's Bank of China are due today, with expectations for very weak new loans, perhaps only around twenty billion yuan, after a seasonal rebound in September. The central bank has moved to the overnight repo rate as its main policy anchor, and one-year certificate of deposit yields for top lenders hit a record low of about one point four percent. That eases funding costs for the big state banks, but it also squeezes margins further. Weak loan demand plus thin margins is the story for I C B C and its peers.
+
+Time for the I P O watch.
+
+The big one is still a week away. Anthropic plans to sell eight hundred and twenty-five million shares at seventy to seventy-eight dollars on Nasdaq, which would raise up to about sixty-four billion dollars at the top of the range. Pricing is set for the eighteenth and trading for the nineteenth. The book is reported to be covered several times over, and the lead banks, Goldman Sachs and Morgan Stanley, are reported to expect pricing above the range. A group of strategic investors, including Google, Nvidia, Microsoft and T S M C, will buy around twenty-six billion dollars of non-voting shares at the I P O price. The fee pool for the underwriters is the largest in years, and it lands in fourth-quarter investment banking revenue.
+
+In the U S yesterday, Windward Bio, a Basel-based biotech developing long-acting antibodies for asthma and other respiratory and skin diseases, priced its Nasdaq I P O at seventeen dollars, the middle of the sixteen-to-eighteen range, selling about ten point three million shares for roughly one hundred and seventy-five million dollars. Renaissance Capital put the fully diluted value at the midpoint at about one billion dollars. It is due to start trading today. Jefferies, Piper Sandler and U B S are among the bookrunners.
+
+In Hong Kong, two debuts yesterday. Amicro Technology, a robotics platform, raised about seven hundred and ten million Hong Kong dollars at nine point nine dollars a share and jumped around eighty-three percent on its first day. Hosin Electronics, a memory products maker, raised about one point zero seven billion Hong Kong dollars at seventy-two point eight three, near the bottom of its range; we could not confirm its first-day performance.
+
+Why it matters. Every listing launched in Hong Kong this week priced at or near the bottom of its range, according to the South China Morning Post. That is a cooling market after a record first nine months. For the banks that dominate Hong Kong underwriting, fee momentum into year-end looks less certain.
+
+Looking ahead.
+
+Later today: M U F G, S M B C and Mizuho first-half results, China's October credit data, and Windward Bio's debut.
+
+Monday the sixteenth: the European Commission's deadline on UniCredit and Commerzbank.
+
+Wednesday the eighteenth: Anthropic prices its I P O, with trading on Thursday the nineteenth.
+
+Friday the twentieth: the French Senate begins its debate on the budget. And Friday the twenty-seventh, S and P reviews France.
+
+Now to our F T review.
+
+A word of explanation first. Our research tools could not reach the Financial Times site this morning, so this is a review of the stories on your F T beat, built from other reporting in the last day or so, including pieces that cite the F T. Do check the F T app for the paper's own takes.
+
+First, the Anthropic valuation push. The F T is cited as reporting that bankers on the deal want to lift the valuation above one and a half trillion dollars, from up to about one point four trillion at the top of the published range. For a credit investor, the point is not the equity story; it is that the A I capital cycle is now being refinanced through public equity at enormous scale, which in principle supports the debt layered under data-centre projects. Yesterday's Nvidia shock is the counterweight.
+
+Second, data-centre loan sales. The theme running through the F T and others is banks recycling balance sheet: I N G's sale of about five hundred million dollars of data-centre loans across twelve facilities, including debt tied to a New Mexico Stargate site, and Morgan Stanley's reported move to shift construction exposure to private credit and insurers. The read: lenders are getting selective, and price discovery on this risk is moving against whoever is left holding it.
+
+Third, private credit as the buyer of last resort. The flip side of those loan sales is that private credit and insurance balance sheets are absorbing A I infrastructure risk that banks no longer want at current spreads. For bank credit investors, that is a net positive for bank balance sheets, but it raises the question of bank exposure to private credit funds through back leverage and subscription lines, a theme supervisors on both sides of the Atlantic keep returning to.
+
+Fourth, French debt. The National Assembly rejected the revenue side of the twenty twenty-seven budget unanimously last week, and the bill goes to the Senate on the twentieth. The O A T Bund spread was about one hundred and forty-two basis points on Tuesday, down from peaks above one hundred and seventy in late October, but still wider than Italy. For French banks, that is the anchor of their funding cost, and it matters ahead of S and P's review on the twenty-seventh.
+
+Fifth, European bank consolidation, the paper's staple: the Banco B P M mandate and UniCredit's Commerzbank clearance, both covered above.
+
+Sixth, commercial property and Pfandbriefe. pbb's warning that the German property slump is far from over chimes with Pfandbrief bank data showing new commercial property lending up about fourteen percent in the first half, but the overall book still shrinking. Lenders are writing new business, but to a narrower field of borrowers.
+
+And seventh, briefly, capital rules: the European Central Bank's defence of the output floor against calls for softer rules.
+
+Now the cross-asset wrap.
+
+Rates. U S ten-year around five point one percent, two-year near four point eight eight. So what: the long end is now testing bank securities books and commercial property refinancing at the same time.
+
+Europe and the U K. Bunds around three point three percent, gilts just above five point two, the O A T Bund spread around one hundred and forty basis points earlier in the week. So what: European banks are getting help from rates, but the French spread is still the swing factor for French bank funding.
+
+Japan. Ten-year J G B around two point eight seven percent, dollar-yen near one hundred and sixty. So what: intervention risk is high, and Japanese bank bond portfolios are under pressure into results.
+
+Credit. U S high yield option-adjusted spreads were around three hundred and forty basis points last week, investment grade around ninety-three; we do not have confirmed levels for yesterday. Direction: small-cap equities and A I names wobbled, but cash credit spreads have so far been resilient.
+
+F X. The dollar index rose about two tenths of a percent to around one hundred and three, firmer against all the majors.
+
+Commodities. Brent rose about three and a half percent to around ninety-six dollars a barrel. Gold fell nearly three percent to around three thousand eight hundred and seventy-five dollars an ounce, its lowest in more than a week, as real yields rose. Bitcoin dropped more than three percent to around seventy-one thousand dollars. So what: oil near a hundred keeps headline inflation sticky, which feeds the hike narrative.
+
+Here is my view, and it is a view. Yesterday was the first day in a while where rates and the A I trade went wrong together. Rising yields compress the value of long-dated, growth-dependent assets, and data centres are exactly that. For bank credit, the winners are the plain, deposit-funded, well-buffered franchises, the K B Cs of this world; the losers, at the margin, are lenders with concentrated exposure to property refinancing and to A I construction risk that has not yet been distributed.
+
+Now a couple of market anecdotes.
+
+First, the Nvidia whipsaw in numbers. At the low yesterday morning, the stock had erased roughly six hundred billion dollars of market value, more than the entire market capitalisation of most of the banks on our watchlist, before buyers took back most of it within hours. And the U S president weighed in with a suggestion of his own for the next chief executive: the former head of Apple, Tim Cook.
+
+Second, a Hong Kong lesson in demand. Amicro's international book was covered only about one point zero five times, barely full, while the retail tranche was about fourteen times oversubscribed. The stock still jumped more than eighty percent on day one. When retail outbids the institutions by that margin, it usually tells you more about the mood than about the company.
+
+Now, this day in market history.
+
+On the thirteenth of November nineteen twenty-nine, the Dow Jones Industrial Average closed at about one hundred and ninety-eight, the low point of the great autumn crash, down roughly half from its September peak. What followed was a powerful rally into the spring of nineteen thirty, and then a far deeper decline to the bottom of nineteen thirty-two. The lesson for today: a sharp rebound after a shock, like Nvidia's yesterday, tells you about positioning, not about the end of the cycle.
+
+And on the thirteenth of November nineteen ninety-eight, the globe dot com, an early social networking site, went public at nine dollars a share, opened at eighty-seven, and closed its first day up more than six hundred percent, then a record first-day gain. Two and a half years later it was delisted. With the largest technology I P O in history pricing next week, it is a useful reminder that first-day performance is a measure of demand, not of value.
+
+That's the Bank Credit Briefing for Friday the thirteenth of November. The Japanese megabanks report later today and late news may have moved since this recording, so do check your terminal. Have a good weekend, and we'll be back on Monday.

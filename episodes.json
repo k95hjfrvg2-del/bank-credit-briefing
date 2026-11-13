@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-13.mp3",
+  "title": "Friday 13 November: Bonds Bite, Nvidia Shock",
+  "desc": "Ten-year Treasury closes near 5.1% as cash bonds reopen; Jensen Huang quits Nvidia, jolting the AI-lending trade; Banco BPM opens talks with Credit Agricole on control-premium terms.",
+  "date": "2026-11-13",
+  "pub": "Fri, 13 Nov 2026 05:07:20 +0000",
+  "bytes": 11539061,
+  "dur": 1442
+ },
+ {
   "file": "Bank_Briefing_2026-11-12.mp3",
   "title": "Thursday 12 November: ABN Amro beats, Treasuries reopen",
   "desc": "ABN AMRO beats with 940 million euros of profit and higher NII guidance, the US bond market reopens after a hot CPI print with a December Fed hike priced, and Credit Agricole's Banco BPM merger proposal plus the UniCredit-Commerzbank EU deadline drive Italian and German bank M&A.",
@@ -115,14 +124,5 @@
   "pub": "Tue, 27 Oct 2026 05:19:57 +0000",
   "bytes": 10215384,
   "dur": 1276
- },
- {
-  "file": "Bank_Briefing_2026-10-26.mp3",
-  "title": "Monday 26 October: AI Credit Scare, France",
-  "desc": "AI-debt default protection hits records as Citi bridges Nebius, French ten-year yields hover near 5%, and Sweden's regulator adds a second capital add-on to SEB.",
-  "date": "2026-10-26",
-  "pub": "Mon, 26 Oct 2026 05:17:22 +0000",
-  "bytes": 10411198,
-  "dur": 1301
  }
 ]
