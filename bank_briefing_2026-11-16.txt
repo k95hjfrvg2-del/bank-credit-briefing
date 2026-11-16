@@ -1,0 +1,137 @@
+Good morning, and welcome to the Bank Credit Briefing for Monday the sixteenth of November. Large banks across Europe, the U S and Asia, read through a credit lens, covering everything since Friday morning.
+
+Here is what matters this morning.
+
+First, a Hong Kong property name is asking its banks to blink. New World Development has launched a rights issue of about twenty-five billion Hong Kong dollars at an eighty percent discount, tied to a deal with its lenders on roughly eighty-two billion Hong Kong dollars of offshore bank loans. The shares fell close to forty percent this morning to an all-time low.
+
+Second, the Japanese megabanks delivered on Friday. M U F G, S M B C and Mizuho all raised their full-year profit targets, and M U F G and S M B C together announced up to four hundred and twenty billion yen of buybacks.
+
+Third, rates. The U S ten-year closed the week a little above five point one percent, a December Fed hike is close to fully priced, and the Fed's own financial stability report put a number on bank exposure to the A I build-out: close to one trillion dollars.
+
+And fourth, Europe's consolidation calendar. Brussels is due to rule on UniCredit and Commerzbank by today, and the Banco B P M and Credit Agricole talks are now formally under way.
+
+Later in the show: who reports today, which is nobody on our list, the I P O watch with Anthropic pricing on Wednesday, our F T review, the cross-asset wrap, a couple of market anecdotes, and the day twelve central banks opened at once.
+
+Let's start in Hong Kong.
+
+New World Development, the property group controlled by the Cheng family through Chow Tai Fook Enterprises, has announced a rights issue to raise about twenty-four point nine billion Hong Kong dollars. The terms are brutal for anyone who does not take up: eleven new shares for every share held, at ninety Hong Kong cents each, a discount of about eighty-one and a half percent to Thursday's close.
+
+The important part for us is the bank leg. The offering is linked to an arrangement with the lending banks covering approximately eighty-two billion Hong Kong dollars of offshore loans. About eight point two billion of the proceeds goes to repay ten percent of principal, and the lenders extend the maturity of the remaining ninety percent by two years. Chow Tai Fook has committed to take up its full entitlement and to underwrite the rest, and H S B C and D B S are named among the underwriters.
+
+The market's verdict was immediate. The shares fell about thirty-nine percent to around two Hong Kong dollars ninety-six, the lowest since the company listed in nineteen eighty.
+
+The credit read-across. For the lending syndicate this is the outcome they have been negotiating towards for more than a year: a ten percent paydown, fresh equity from the controlling shareholder, and two more years of runway. It is an extend-and-pretend structure, but one with real cash in it, and that matters for how the banks classify the exposure. The question for the next few quarters is whether Hong Kong lenders treat the extended loans as performing or as forborne, and whether regulators push them towards the latter.
+
+For the Hong Kong banks we follow, Hang Seng, Bank of East Asia, and the Hong Kong books of H S B C, Standard Chartered and D B S, the read is mixed. Mixed because a negotiated restructuring is far better than a default, which would have forced large provisions on commercial real estate books that are already the weak spot in the region. But it also confirms that the city's office and residential slump has reached the point where the strongest family groups need to recapitalise at deep discounts.
+
+Now to Japan, where the three megabanks reported first-half results on Friday.
+
+M U F G's first-half net profit rose about twenty-six percent to roughly one point six three trillion yen, its fourth straight record first half. It raised its full-year target to two point eight trillion yen from two point seven, helped by its equity-accounted stake in Morgan Stanley, and announced a buyback of up to two hundred billion yen.
+
+S M B C passed one trillion yen of half-year net profit for the first time, up about seven and a half percent, and lifted its full-year target to one point nine trillion yen from one point seven. Between them, M U F G and S M B C have committed to up to four hundred and twenty billion yen of buybacks.
+
+Mizuho grew fastest. First-half profit rose about thirty percent to roughly eight hundred and ninety-six billion yen, and the full-year target goes to one point six trillion yen from one point four. Mizuho also has roles on the SpaceX and Anthropic I P Os.
+
+One detail that matters for credit. Mizuho's first-half credit costs used only about seven percent of its full-year budget, against about twenty percent at M U F G and about thirty-nine percent at S M B C. Read that two ways. The banks are carrying conservative provisions into the second half, which is a cushion. But it also tells you management expects losses to pick up, and with yen close to one hundred and sixty to the dollar and long-dated Japanese government bond yields at multi-decade highs, the stress points are domestic small and mid-sized borrowers and the banks' own bond portfolios.
+
+For bondholders the picture remains very solid. Higher domestic rates are feeding through to net interest income and capital generation funds the buybacks. Expect heavy dollar supply after the blackout, which keeps their spreads a little wide of the fundamentals.
+
+Now to the U S, and the Fed's financial stability report.
+
+Published on Friday, the semi-annual report flagged the A I and data-centre build-out as a risk to monitor, and it gave us numbers we can use. The largest U S bank holding companies have close to one trillion dollars of exposure to large technology firms, data-centre developers, special purpose vehicles linked to advanced computing, private credit vehicles and utilities. Issuance tied to data centres and A I passed six hundred and eighty billion dollars between January and October, and outstanding public debt related to advanced computing is estimated at more than one point one trillion.
+
+The Fed also noted that bank lending to non-bank financial institutions has passed two point eight trillion dollars, and that private credit default rates have risen since May to the upper end of their historical range.
+
+The Fed's survey of market contacts is the eye-catching part: eighty-seven percent named A I as a top financial stability risk, up from fifty percent in the spring. The Fed's own bottom line is that banks remain well capitalised with substantial buffers.
+
+Put that next to the market evidence of the past ten days. I N G is selling about five hundred million dollars of data-centre loans through a bids-wanted process, with bids due on Thursday. Bloomberg reports that Q T S, the Blackstone-owned data-centre operator, cut a planned private debt sale from about eight hundred million dollars to roughly three hundred million, because it was not willing to pay up for the demand it found. And Nvidia lost its chief executive on Thursday.
+
+The credit read-across. Bank exposure is large but mostly senior, short-dated and secured, and much of it is to investment-grade hyperscalers. The risk is not that banks take big losses on data centres next year. The risk is that the distribution model jams: banks fund construction expecting to sell down to private credit, insurers and the asset-backed market, and if that take-out market reprices, the loans stay on balance sheet longer and at worse marks. Thursday's I N G auction will be a useful price discovery point.
+
+Now to Europe, and the consolidation calendar.
+
+The European Commission is due to rule on UniCredit's move on Commerzbank by today, and Reuters, citing people familiar with the matter, reports that the clearance will be unconditional. UniCredit now has close to half of Commerzbank's voting rights through shares and derivatives, and Andrea Orcel expects all remaining approvals by the end of November. He then wants an extraordinary general meeting at Commerzbank to reshape the supervisory board.
+
+The friction is not going away. The German government, now down to about thirteen point three percent, wants to keep two board seats, and UniCredit wants to appoint all the shareholder representatives. A German press report on Friday described contacts between the two banks as purely technical so far, and Commerzbank's chief executive, Bettina Orlopp, has publicly opposed UniCredit's restructuring plans.
+
+Meanwhile Commerzbank keeps buying back its own shares, and has trimmed its twenty twenty-six net interest income expectation to about eight and a half billion euros, citing tougher competition for deposits.
+
+For credit, a UniCredit-controlled Commerzbank is not a negative for Commerzbank senior bondholders. The acquirer is bigger, more profitable and better capitalised. The questions are about the structure of the resolution group, how UniCredit eventually funds and capitalises its German operations, and whether Commerzbank's own buyback is allowed to run once control passes.
+
+In Italy, Banco B P M's board has given chief executive Giuseppe Castagna a mandate to negotiate with Credit Agricole on folding Credit Agricole Italia into the bank. The French proposal offers an exchange ratio with a twenty percent premium and a one billion euro special dividend, and Credit Agricole would end up with about forty-five percent of the combined group, up from just under thirty percent of Banco B P M today. The Italian board's condition is that shareholders are paid for handing over effective control, and the deal needs a whitewash exemption from a mandatory bid. Completion, if it happens, is the second half of twenty twenty-seven.
+
+For credit, this is the cleanest possible Italian deal: a strong parent, an existing stake, and a domestic subsidiary with which the integration is mostly about branches and systems. Banco B P M senior and subordinated paper should trade increasingly as a Credit Agricole credit, and the main risk to that view is that the price fight drags on.
+
+Elsewhere in Europe it was a quiet weekend. On the regulatory side, the twenty twenty-six supervisory review letters for twenty twenty-seven continue to arrive, broadly stable, with modest Pillar Two cuts at the likes of Fineco and Novo Banco earlier this month, and Groupe B P C E confirming it sits well above its requirements. We found no new fines, add-ons or capital actions from the E C B, the P R A or the Nordic supervisors over the weekend.
+
+Now, who reports today. The honest answer is nobody on our watchlist. The European third-quarter season is over, the Japanese megabanks reported on Friday, and the next big bank print is not until the U S fourth-quarter season in January. So this week's results that matter to bank credit are not from a bank at all. Nvidia reports on Tuesday after the U S close, the first set of numbers since Jensen Huang stepped down, with consensus looking for revenue of about one hundred and nine billion dollars.
+
+Time for the I P O watch.
+
+In New York on Friday, two deals came to market with very different receptions. vVardis, a Swiss dental technology company, listed on the New York Stock Exchange after pricing at eighteen dollars, three dollars below its range, even as it upsized the deal to about nine point seven two million shares. That is a raise of roughly one hundred and seventy-five million dollars. The stock opened at fourteen dollars, and one tracker has it closing the day at about sixteen fifty, still below the offer price.
+
+Windward Bio, a biotech, priced at seventeen dollars, the midpoint of its range, and jumped on its Nasdaq debut, closing around twenty-eight fifty according to the same tracker, a gain of about sixty-eight percent.
+
+In Hong Kong, the week to Friday was the busiest for debuts since the summer: seven listings raising a combined six point two billion Hong Kong dollars. But demand was thin. The South China Morning Post reports the deals priced near the bottom of their ranges. The largest, the Chinese graphics chip designer Denglin Technology, raised about one point four billion Hong Kong dollars, and the international tranche was covered only about a third of the way.
+
+Hosin Electronics, a memory chip company, raised about one hundred and thirty-seven million U S dollars and traded flat on day one, more on that in the anecdotes, for a market value of about two point six billion U S dollars, according to Caproasia. The context: several big chip listings from earlier in the year have fallen sharply since, with Longsys down about forty percent over two months.
+
+And the big one. Anthropic is due to price its I P O on Wednesday and to begin trading on Nasdaq under the ticker A N T on Thursday. The roadshow marketed eight hundred and twenty-five million shares at seventy to seventy-eight dollars, which at the top of the range is a raise of about sixty-four billion dollars. One secondary report says the book was several times covered after three days, but treat that as unconfirmed until pricing.
+
+Why it matters for bank credit. First, fees: a meaningful fourth-quarter pool for the bookrunners, U S and Japanese among them. Second, equity raised at scale is the best support for the debt layered under data-centre projects. A strong book on Wednesday would ease some of the nerves the Fed report and the Nvidia governance shock created. A weak one would do the opposite.
+
+Now let's look ahead.
+
+Today, the European Commission's deadline on UniCredit and Commerzbank.
+
+Tuesday, U K labour market data, U S retail sales, and Nvidia's results after the U S close.
+
+Wednesday, U K consumer price inflation for October at seven in the morning London time, with consensus around three point seven percent against three point five previously. Also on Wednesday, the minutes of the Fed's October meeting, and Anthropic's pricing. The Dallas and New York Fed pilot survey of private credit lenders also closes that day.
+
+Thursday, Anthropic's first day of trading, and bids are due on I N G's data-centre loan portfolio. Japanese inflation data come later in the week.
+
+Further out, S and P's review of France on the twenty-seventh of November, and UniCredit's target of having all approvals for Commerzbank by the end of the month.
+
+Before the cross-asset wrap, our F T review.
+
+A note on method: this morning the review is built from F T stories as reported by other outlets, Reuters in particular, so it is shorter than usual, and everything is paraphrased.
+
+The F T's biggest story of the weekend, published on Sunday, is that Jensen Huang has discussed a return as Nvidia's chief executive with confidants. According to the paper, allies are assembling what one called a war room of Silicon Valley executives to lobby the board for his return, and hope to win support from the White House. Nvidia did not comment.
+
+Why it matters for us. Bloomberg says the stock is primed to steady this morning on the report. But from a credit point of view, a comeback campaign prolongs the uncertainty rather than ending it. Lenders and bond investors in the data-centre chain care less about who runs Nvidia than about whether its order book and supply commitments are stable. A contested succession, with a board on one side and a lobbying campaign on the other, running into Tuesday's results, is not the clean resolution that would compress risk premia in A I-linked credit.
+
+The second F T story, from Friday, is that Nvidia's board had approached Rene Haas, the chief executive of Arm and a former Nvidia executive, as a possible successor. The board's response was that it had not yet engaged a search firm or any candidate formally, and that talk about individuals was premature. Arm's shares fell between five and six and a half percent on the report, which tells you the market values Haas where he is. The credit read: the board is moving fast, and the two F T stories together show a governance contest, not a settled succession.
+
+Third, a theme rather than a single story. The F T has been running hard on the strain in private credit and the cooling appetite for A I-related debt over recent weeks. It reported earlier this month that Apollo lent a record amount in the third quarter, much of it to A I infrastructure, and that triple C yields have risen sharply this year on both sides of the Atlantic. For bank credit, the question is not whether private credit has problems, it is how much of that risk flows back to banks through the two point eight trillion dollars of lending to non-banks that the Fed has now flagged.
+
+We found no F T story in the window on European bank capital, Pfandbriefe, or French debt that added to what we have already covered, so we will leave the review there for today.
+
+Now, the cross-asset wrap, based on Friday's close and the Asian session this morning.
+
+Rates first. The U S ten-year Treasury closed Friday at around five point one three to five point one five percent, the two-year around four point eight eight and the thirty-year around five point four seven, all higher on the week after the hot inflation data and hawkish Fed commentary. So what for banks: front-end rates keep supporting net interest income, but long-end yields at these levels keep pressure on unrealised securities losses and on commercial real estate refinancing.
+
+In Europe, the German ten-year yield rose about six basis points on Friday to about three point three nine percent. The French spread over Bunds was last seen around one hundred and forty basis points at the start of last week, well inside the late-October peak in the mid-one-seventies, but with the S and P review still to come. So what: French bank senior spreads continue to trade with the sovereign, and any relief in the O A T spread is a relief for B N P Paribas, Credit Agricole, Societe Generale and B P C E.
+
+Equities. The S and P five hundred fell about four tenths of a percent on Friday to around seven thousand five hundred and sixty, but still gained about two and a half percent on the week. The Nasdaq Composite fell about nine tenths of a percent, and the Dow edged higher. In Asia this morning the picture is mixed: Tokyo and Seoul are lower, with South Korean shares falling sharply ahead of Nvidia's results, while Hong Kong is a touch higher despite New World. So what: the chip and A I complex is driving index risk appetite, and that is where the bank credit linkage now runs.
+
+F X. The dollar index posted its best week in two months, closing around one hundred and three point two to one hundred and three point four. Dollar-yen is close to one hundred and sixty, which keeps the Japanese intervention question live and keeps Japanese bank dollar funding costs in focus.
+
+Commodities. Brent finished the week around ninety-six dollars a barrel. Gold fell sharply on Friday, by between two and a half and almost five percent depending on the contract, to around three thousand eight hundred and eighty dollars an ounce, as real yields rose. Bitcoin slipped to around sixty-eight to sixty-nine thousand dollars, its lowest since August. So what: higher-for-longer rates are now pushing out every asset that does not pay a yield, and that is a regime that rewards carry in senior bank paper over duration.
+
+The view that ties it together, and this is a view, not a fact. The market is pricing two shocks at once: a Fed that is about to hike again, and a wobble in the A I trade that finances so much of the credit market's recent growth. Banks are well capitalised for both. But the transmission channels, loan sales, private credit take-outs, and the I P O window, are all being tested this week, by Nvidia on Tuesday, Anthropic on Wednesday and the I N G loan auction on Thursday. If all three go well, credit spreads tighten into year-end. If two of the three disappoint, expect bank capital and subordinated paper to underperform senior.
+
+Now, a couple of market anecdotes.
+
+First, an exchange that lists itself. Last week the London Stock Exchange Group printed its debut plain vanilla listed bond, five hundred million pounds, coordinated by Lloyds with Barclays, H S B C and NatWest as joint bookrunners, after converting about one point four billion pounds of existing bonds earlier in the year. The company that runs the venue where the bond lists is, for once, the issuer.
+
+Second, the three-cent debut. In Hong Kong last week, Hosin Electronics priced at seventy-two Hong Kong dollars eighty-three and closed its first day at seventy-two eighty, a decline of four hundredths of one percent. In a week when almost every deal priced near the bottom of its range, the stabilisation desk earned its fee holding the line almost to the penny.
+
+And third, a reminder of how much a chief executive can be worth to someone else's shareholders. On Friday Arm's shares fell as much as six and a half percent on nothing more than a report that its chief executive had been approached for another job. Key-person risk is usually something credit analysts write in a footnote. This week it moved two of the largest companies in the world.
+
+Finally, this day in market history.
+
+On the sixteenth of November nineteen fourteen, all twelve Federal Reserve Banks opened for business on the same day. The opening had been planned for later, but the outbreak of war in Europe that summer, and the fear of a financial panic, pulled the date forward. Offices were improvised: Atlanta chose its premises just sixteen days before opening, and Minneapolis started with eight employees in the board room of a local trust company.
+
+The lesson for today is that the system was built in a hurry, in response to a shock, and it was the shock that set the timetable. One hundred and twelve years later, the same institution is about to tighten policy into an A I financing boom, and its own stability report is telling us exactly where it expects the next stress to come from. When the central bank flags a trillion dollars of bank exposure, it is worth listening before the timetable is set for us.
+
+That's the Bank Credit Briefing for Monday the sixteenth of November. Do check the terminal for late news, including the Commission's decision on UniCredit and Commerzbank. Have a good week, and I'll be back tomorrow morning.
