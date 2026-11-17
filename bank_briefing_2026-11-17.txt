@@ -1,0 +1,129 @@
+Good morning, and welcome to the Bank Credit Briefing for Tuesday the seventeenth of November. Large banks across Europe, the U S and Asia, read through a credit lens, covering the last twenty-four hours.
+
+Here is what matters this morning.
+
+First, the A I credit trade got its first visible price. H S B C has sold a slice of about three hundred million dollars of a construction loan for an Oracle-linked data centre in New Mexico, reportedly in the mid-eighties, after the tenant sent a force majeure notice. That is a mark the whole data-centre lending market now has to live with.
+
+Second, Brussels has said yes. The European Commission cleared UniCredit's takeover of Commerzbank on Monday, unconditionally and in phase one, leaving just one approval outstanding.
+
+Third, the tape. Wall Street had a rough Monday: the Nasdaq fell two and a half percent and is now in correction, the U S ten-year sits a little above five point one percent, and a December Fed hike is close to fully priced. Nvidia reports tonight.
+
+And fourth, a reminder that operational risk is credit risk too: J P Morgan, Wells Fargo, Bank of America and others suffered app and online banking outages on Monday, and their shares fell about two percent.
+
+Later in the show: who reports today, which is nobody on our list, the supervisors, the I P O watch with Anthropic pricing tomorrow, our F T review, the cross-asset wrap, a couple of market anecdotes, and the day a canal changed the economics of world trade.
+
+Let's start with that data-centre loan.
+
+According to Bloomberg, reported on Monday, H S B C sold roughly three hundred million dollars of its share of an eighteen billion dollar construction financing for a data-centre campus in Dona Ana County, New Mexico. The project, known as Project Jupiter or Project Miner, is developed by a unit of Blue Owl Capital, with Oracle as the tenant. A syndicate of around twenty banks put the package together in late twenty twenty-five.
+
+The price is the story. People familiar with the trade put it in the mid-eighties, somewhere between eighty-three and eighty-seven cents on the dollar. That implies a discount of roughly forty-five million dollars against par. And the timing matters: the sale happened several weeks ago, shortly after Oracle sent the developer a notice citing force majeure.
+
+Now the credit read-across. A construction loan to an investment-grade-tenanted data centre was, until recently, sold to bank credit committees as close to risk-free: a hyperscaler or near-hyperscaler lease, a hard asset, and a syndicate of top-tier lenders. A force majeure notice from the tenant breaks that story, because it raises the question of whether the lease cash flow is as firm as the underwriting assumed.
+
+For the other nineteen or so banks in that syndicate, the question is simple: where do they mark their share? Loans held at amortised cost do not have to be marked to a secondary trade, but expected credit loss models, stage classification and, for anything held for sale or in a trading book, fair value, all feel the pressure of a public price in the mid-eighties. If that price becomes the reference point for similar construction loans, we could see staging migration and higher provisions in the fourth quarter numbers.
+
+The bigger picture is concentration. The Fed's financial stability report last week put bank exposure to the A I build-out close to one trillion dollars, and the O C C and Fed semi-annual risk reports both flagged A I infrastructure financing alongside commercial real estate refinancing. Monday's E C B speech from Vice-President Vujcic made the same point from Frankfurt: a sudden reassessment of A I expectations could cause abrupt market losses with spillovers into Europe's financial system. For bank credit investors this is the theme of the quarter. It is not a solvency issue for any of the large banks. It is a question about which lenders have been running the biggest single-sector concentrations, and how quickly they can distribute them.
+
+For H S B C specifically, a forty-five million dollar haircut is a rounding error against its capital base. The positive read is that it chose to take a loss early and get the exposure off the books. The negative read is the reminder that the bank has been an active lender into a sector where the exit price can drop fifteen points on a single tenant letter.
+
+Now to Germany, and Italy.
+
+The European Commission on Monday cleared UniCredit's acquisition of control of Commerzbank, with no conditions, at the end of a phase one review. Brussels focused on Germany, where UniCredit already operates through HypoVereinsbank and competes head-on with Commerzbank in retail and corporate banking, and concluded there were no competition concerns in the European Economic Area.
+
+UniCredit notified the deal in early October. The Federal Reserve gave its decision last week, and UniCredit says it expects the last outstanding approval by the end of November. Its stake in Commerzbank stands at roughly forty-eight percent after the offer that completed in July.
+
+The credit view. For Commerzbank senior and senior non-preferred holders, this is about integration into a larger, more diversified group, with a parent that has historically run a high capital surplus and a strong distribution policy. The open questions are about how UniCredit manages the resolution structure: whether Commerzbank remains a separate resolution entity with its own M R E L stack, or whether over time issuance shifts to the parent. That distinction will drive relative value between Commerzbank and UniCredit paper for the next couple of years.
+
+For UniCredit bondholders, consolidating a bank of Commerzbank's size will consume core equity tier one through goodwill or badwill accounting and higher risk-weighted assets, and could slow the pace of distributions. Watch the guidance at the next capital markets update.
+
+Staying in Italy, Banco B P M chief executive Giuseppe Castagna said on Monday that a potential combination with Credit Agricole Italia is not yet a done deal and remains at an early stage. The French group, already the largest shareholder in Banco B P M with close to thirty percent, proposed folding its Italian unit into B P M at an exchange ratio carrying about a twenty percent premium, plus a one billion euro exceptional dividend. The B P M board wants the price to reflect that Credit Agricole would effectively take control. Credit Agricole is talking about closing in the second half of twenty twenty-seven.
+
+For credit, this is a de-risking story for Banco B P M senior debt if it happens: a deeply capitalised French parent and likely tighter spreads. For Credit Agricole, it adds Italian sovereign and corporate exposure at a time when the B T P Bund spread is near its tightest in years, so the timing is defensible.
+
+Now, reporting today.
+
+We found no bank on our watchlist with results scheduled for this morning, in Europe, the U S or Asia. The third quarter season is essentially over for the large banks. The only results that matter for our sector today are Nvidia's, after the U S close, and we will come back to why that matters for bank credit in the wrap.
+
+Now the regulators and supervisors.
+
+From Frankfurt, E C B Vice-President Boris Vujcic gave a keynote on Monday on risks and resilience, and the bank's language on A I now extends well beyond equity valuations, into debt financing, investment funds and digital infrastructure. His other message was that Europe needs more market-based finance. Neither is an action on any individual bank, but both point to the theme the S S M is likely to push in next year's priorities: concentration in A I-linked lending.
+
+From London, the Bank of England published on Monday a near-final statement of policy on its supervisory processes for model changes, alongside a statement on using its requirements and permissions powers. We have only the titles so far; the model change process matters because it governs how quickly banks can get approval for I R B model updates, which feeds straight into risk-weighted asset inflation and core equity tier one ratios. We will look at the detail when the text is digested.
+
+In the U S, Moody's twenty twenty-seven banking outlook, out on Monday, cites Federal Reserve estimates that the proposed changes to U S capital rules could lower banks' capital requirements by between four point eight and seven point eight percent, depending on size. Moody's warning is the one credit investors should take seriously: lower requirements mean thinner buffers going into a downturn, and the agency sees easing as credit negative even if equity holders cheer the extra buybacks.
+
+Also in the U S, the Fed, F D I C, O C C and N C U A extended the comment period on proposed third-party risk management guidance to the sixteenth of December.
+
+Now the Europe round-up.
+
+European bourses were mixed on Monday as the U S tech sell-off continued. The financials sector managed a gain of about a tenth of a percent, trailing energy and utilities, so banks held up better than the broader tape.
+
+On French politics, the budget saga continues. The National Assembly unanimously rejected the revenue part of the twenty twenty-seven budget earlier this month, the text has gone to the Senate with a vote on the ninth of December, and a compromise committee follows. The O A T Bund spread was around one hundred and fifty-five basis points on Monday, with the French ten-year near four point nine three percent. French bank senior spreads continue to trade with a sovereign beta, and that is not going away before the Senate vote.
+
+Now the U S round-up.
+
+The story on Monday was the outage. Customers of J P Morgan Chase, Bank of America, Wells Fargo and several other large banks reported problems logging into their accounts, and the disruption reached the Zelle payments network. J P Morgan blamed a temporary software bug in on-premise hardware and stressed it was not cyber related. Wells Fargo said it was investigating. Citi customers were reportedly not affected.
+
+The big bank shares fell about two percent, though in fairness that was also a day when the whole market fell. For credit, a one-day outage is not a ratings event. But it does feed into supervisory scrutiny of operational resilience, and if it turns out that a shared vendor or common infrastructure sat behind several banks at once, that becomes a third-party risk question, which is exactly the guidance whose comment period was just extended.
+
+Now to Asia.
+
+The overnight session was ugly for tech, and that sets the tone for the region's banks. The Nikkei fell about two point four percent on Monday and broke below sixty thousand, then opened another one percent lower this morning, with SoftBank and Kioxia leading the declines. Korea's Kospi dropped through five thousand at the open, and Taiwan was the worst performer on Monday, down more than five and a half percent.
+
+For the Japanese megabanks, M U F G, S M B C and Mizuho, the macro mix is the issue. Japan's economy shrank at an annualised zero point one percent in the third quarter, the first contraction in four quarters, but economists do not expect that to stop the Bank of Japan tightening. The ten-year J G B yield edged up to about two point eight eight percent, and dollar-yen sat around one hundred and fifty-nine point six five, close to the one hundred and sixty level where the finance minister warned last week about one-sided moves. Higher domestic yields remain good for megabank net interest income, but the securities portfolios and the exposure to A I and data-centre lending are where the questions sit after the H S B C story.
+
+Time for the I P O watch, U S and Asia.
+
+The deal of the year prices tomorrow. Anthropic, the A I developer, is expected to set its price on Wednesday and start trading on Nasdaq on Thursday, under the ticker A N T. The marketed range is seventy to seventy-eight dollars a share, unchanged since launch, and the raise is reported at up to around sixty-four billion dollars, which would make it the largest I P O on record. Reporting late last week put the book at about six times covered, and underwriters have told investors that existing backers will get priority, so many new accounts will be cut back.
+
+Goldman Sachs is lead-left, with Morgan Stanley alongside, and a syndicate of around twenty other banks, J P Morgan among them. For the banks, the read-across is fees: a sixty billion dollar deal, even at a fraction of a percent gross spread, is a meaningful line in fourth quarter equity capital markets revenue for the leads. For credit, the more important point is what the pricing tells us about the A I cycle. A deal priced at the top of the range and trading well on Thursday would ease some of the pressure we saw on Monday. A soft debut, landing in the same week as Nvidia's results, would hit sentiment on exactly the borrowers that bank data-centre books are exposed to.
+
+In Hong Kong, the recent tape is mixed. G P U designer Suzhou Denglin Technology priced at the bottom of its range, two hundred and thirty-one Hong Kong dollars, raising about one point four one billion Hong Kong dollars, and fell around seven to eight percent on its debut last Tuesday. Chip packager Jiangsu Xinde, which listed the same day, rose more than twenty percent.
+
+The pipeline: Beijing Sinotau International Pharmaceutical is marketing H shares at fifty-two to sixty-eight Hong Kong dollars, pricing by the twentieth and trading on the twenty-fourth of November, and China's securities regulator has cleared Zhejiang Energy Marine's Hong Kong listing.
+
+Now, looking ahead.
+
+Tonight, after the U S close, Nvidia reports third quarter results, in the middle of a leadership storm: chief financial officer Colette Kress is serving as interim chief executive, and there is a public campaign for Jensen Huang's return. Tomorrow, Anthropic prices, and on Thursday it trades. By the end of November, UniCredit expects its last approval for Commerzbank. On the ninth of December, the French Senate votes on the budget, and on the sixteenth the U S comment period on third-party risk guidance closes. The Fed's December meeting is next, with a hike almost fully priced, and the Bank of England's next decision is on the seventeenth of December.
+
+Before the cross-asset wrap, our F T review.
+
+A note on method: the F T site could not be reached by our tools this morning, so this review is built from F T stories as reported by other outlets, and everything is paraphrased in our own words.
+
+First, private equity. The F T reported on Monday that C V C plans to walk away from its agreed purchase of I R C A, the Italian dessert ingredients maker, from Advent International, a deal worth close to three billion euros. C V C points to what it describes as a forensic analysis of information provided in due diligence, and says the deal no longer works. Advent's position is that the agreement is binding and it will protect its rights, so a legal fight looks likely. For bank credit investors, the point is leveraged finance. A sponsor walking from a signed deal is rare, and the banks that committed acquisition financing now face uncertainty on a funded or semi-funded commitment. It is also a reminder that underwriting risk in European leveraged loans is not only about market flex; it is about the target's numbers.
+
+Second, Greece. The F T ran a piece describing Greece as an unexpected bastion of stability for European investors, ahead of the M S C I upgrade to developed-market status that takes effect in May twenty twenty-seven. The angle that matters for us: banks make up more than half of the Greek equity index, they are a main draw for foreign money, and the four large lenders are still small by European standards, which makes them possible targets for foreign groups looking for growth. For credit, Greek bank senior and tier two has already compressed enormously. The next leg depends on ratings and on whether a cross-border buyer arrives. The F T's caveat is fair: an index upgrade does not guarantee big inflows.
+
+Third, Nvidia. The F T reported that Jensen Huang has discussed a possible return with people close to him, while the board runs an independent investigation into the circumstances of his departure. Why does this belong in a bank credit briefing? Because the A I build-out is now a credit story. Data-centre construction loans, the private credit funds financing compute, and hyperscaler bond issuance all lean on confidence in the chip supply chain. Governance turbulence at the industry's central company, on results day, adds a layer of event risk that bank lenders did not underwrite.
+
+Fourth, in one line: the F T reports that Chevron is close to a deal of around five billion dollars for a stake in an offshore asset, another sign that energy majors are still writing big cheques with Brent in the low nineties.
+
+Now, the cross-asset wrap.
+
+Rates first. The U S ten-year closed Monday around five point one two percent, a touch lower than Friday's five point one five, with the two-year near four point eight two and the thirty-year near five point four six. A quarter-point Fed hike in December is priced at around ninety-five percent. So what for banks: higher-for-longer supports net interest income but keeps unrealised losses on securities books elevated and keeps the pressure on commercial real estate refinancing.
+
+In Europe, the ten-year Bund is around three point three seven percent. The French ten-year is near four point nine three, putting the O A T Bund spread around one hundred and fifty-five basis points. Italy's ten-year is near four point four one, with the B T P Bund spread around one hundred and four, so Italy continues to trade well inside France. Gilts: we could not verify a Monday close; the ten-year was around five point two percent last week. So what: the French sovereign is the European bank credit risk factor to watch before the December Senate vote.
+
+Credit indices: we could not verify Monday's iTraxx and C D X levels, so direction only. With equities down two percent and the V I X up near twenty-three, the bias is wider, especially in high yield.
+
+F X. The dollar index is around one hundred and three and a half, the highest since April last year. Dollar-yen is near one hundred and fifty-nine point six five, within sight of the one hundred and sixty line that Tokyo has flagged. So what: a strong dollar tightens funding conditions for emerging-market and Asian borrowers in dollars.
+
+Commodities. Brent fell around three and a half percent to about ninety-two dollars, after the I E A's monthly report pointed to a global supply surplus. Gold settled near three thousand eight hundred and fifty dollars, its lowest in about a year. Bitcoin is around sixty-five thousand dollars, after a weekend flush took it down to sixty-two thousand.
+
+Equities. The S and P five hundred fell about one point nine percent to around seven thousand four hundred and seventeen. The Nasdaq Composite fell about two and a half percent and is almost eleven percent below its October high, which is correction territory.
+
+Here is our view, and it is a view. Monday's moves read as a market repricing the A I trade from the equity side and the credit side at the same time. A falling Nasdaq, a falling gold price, a strong dollar and a loan selling in the mid-eighties all point to the same thing: investors are reducing exposure to the most crowded theme and paying up for liquidity. For bank credit, the large, diversified balance sheets remain fine. The pressure will show up first in single-sector concentrations, in the loans to private credit funds, and in the banks with the biggest data-centre construction books. Nvidia tonight and Anthropic on Thursday are the two events that decide whether this is a correction or the start of something longer.
+
+Now, a couple of market anecdotes.
+
+First, the explanation for Monday's bank outages. When several of the largest banks in America lost online access at once, J P Morgan's explanation was not a cyber attack and not the cloud: it was a software bug in on-premise hardware. In twenty twenty-six, it turns out, some of the most important payment rails in the world still depend on boxes in the bank's own data centres.
+
+Second, the Anthropic order book. Reports last week said a single investor, Altimeter, reportedly planned an order of around five billion dollars, roughly eight percent of the deal on its own. A five billion dollar order would itself rank among the larger I P Os of most years.
+
+And this day in market history.
+
+On the seventeenth of November, eighteen sixty-nine, the Suez Canal opened. By cutting thousands of miles off the route between Europe and Asia, it changed the economics of world trade, and it became one of the great financing stories of the century, from the original share issue to Britain's purchase of Egypt's stake a few years later.
+
+And on the seventeenth of November, two thousand and eight, Citigroup told staff it would cut around fifty-two thousand jobs, on top of roughly twenty-three thousand already gone that year. It was one of the largest job cut announcements ever made by a single company, and within a week Citi needed a second government rescue. The link to today: when a bank's biggest problem is concentrated exposure to a single, crowded theme, as subprime mortgages were then, the cost-cutting comes too late. It is worth remembering this week, as markets start putting a price on A I lending.
+
+That is the Bank Credit Briefing for Tuesday the seventeenth of November. Nvidia reports after the U S close tonight and Anthropic prices tomorrow, so check your terminal for late news. Thanks for listening, and have a good day.

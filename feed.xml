@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Tuesday 17 November: AI loan gets a price</title>
+   <description>HSBC sells a slice of an Oracle-linked data-centre loan in the mid-80s, Brussels clears UniCredit-Commerzbank unconditionally, and US bank outages hit shares as the Nasdaq enters correction ahead of Nvidia and Anthropic.</description>
+   <itunes:summary>HSBC sells a slice of an Oracle-linked data-centre loan in the mid-80s, Brussels clears UniCredit-Commerzbank unconditionally, and US bank outages hit shares as the Nasdaq enters correction ahead of Nvidia and Anthropic.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-17.mp3" length="11260282" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-17</guid>
+   <pubDate>Tue, 17 Nov 2026 05:03:18 +0000</pubDate>
+   <itunes:duration>00:23:27</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Monday 16 November: New World tests its banks</title>
    <description>New World Development's deeply discounted rights issue and bank loan extension, record first halves and buybacks at the Japanese megabanks, and the Fed's warning on nearly one trillion dollars of bank exposure to the AI build-out.</description>
    <itunes:summary>New World Development's deeply discounted rights issue and bank loan extension, record first halves and buybacks at the Japanese megabanks, and the Fed's warning on nearly one trillion dollars of bank exposure to the AI build-out.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-10-29</guid>
    <pubDate>Thu, 29 Oct 2026 05:17:03 +0000</pubDate>
    <itunes:duration>00:23:34</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Wednesday 28 October: HSBC Miss, French Debt</title>
-   <description>HSBC's third-quarter profit jumps 32% to 9.6 billion dollars but revenue misses and bank shares fall, French ten-year yields sit near 5% ahead of the budget vote, and Deutsche Bank reports ahead of tonight's Fed decision.</description>
-   <itunes:summary>HSBC's third-quarter profit jumps 32% to 9.6 billion dollars but revenue misses and bank shares fall, French ten-year yields sit near 5% ahead of the budget vote, and Deutsche Bank reports ahead of tonight's Fed decision.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-28.mp3" length="9814143" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-10-28</guid>
-   <pubDate>Wed, 28 Oct 2026 05:32:26 +0000</pubDate>
-   <itunes:duration>00:20:26</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>

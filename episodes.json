@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-17.mp3",
+  "title": "Tuesday 17 November: AI loan gets a price",
+  "desc": "HSBC sells a slice of an Oracle-linked data-centre loan in the mid-80s, Brussels clears UniCredit-Commerzbank unconditionally, and US bank outages hit shares as the Nasdaq enters correction ahead of Nvidia and Anthropic.",
+  "date": "2026-11-17",
+  "pub": "Tue, 17 Nov 2026 05:03:18 +0000",
+  "bytes": 11260282,
+  "dur": 1407
+ },
+ {
   "file": "Bank_Briefing_2026-11-16.mp3",
   "title": "Monday 16 November: New World tests its banks",
   "desc": "New World Development's deeply discounted rights issue and bank loan extension, record first halves and buybacks at the Japanese megabanks, and the Fed's warning on nearly one trillion dollars of bank exposure to the AI build-out.",
@@ -115,14 +124,5 @@
   "pub": "Thu, 29 Oct 2026 05:17:03 +0000",
   "bytes": 11319423,
   "dur": 1414
- },
- {
-  "file": "Bank_Briefing_2026-10-28.mp3",
-  "title": "Wednesday 28 October: HSBC Miss, French Debt",
-  "desc": "HSBC's third-quarter profit jumps 32% to 9.6 billion dollars but revenue misses and bank shares fall, French ten-year yields sit near 5% ahead of the budget vote, and Deutsche Bank reports ahead of tonight's Fed decision.",
-  "date": "2026-10-28",
-  "pub": "Wed, 28 Oct 2026 05:32:26 +0000",
-  "bytes": 9814143,
-  "dur": 1226
  }
 ]
