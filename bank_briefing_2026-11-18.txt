@@ -1,0 +1,147 @@
+Good morning, and welcome to the Bank Credit Briefing for Wednesday the eighteenth of November. Large banks across Europe, the U S and Asia, read through a credit lens, covering the last twenty-four hours.
+
+Here is what matters this morning.
+
+First, Deutsche Bank. A media consortium led by the Financial Times has started publishing an investigation built on about fifteen million leaked internal files. The shares fell more than six percent at one point on Tuesday before closing the gap a little. The bank says the issues are historical and it expects no significant financial impact.
+
+Second, the A I lending unwind is spreading. After H S B C's discounted sale of a data-centre loan, I N G and Societe Generale have reportedly put up to eight hundred million dollars of data-centre debt up for sale. And separately, new U S chip export rules have frozen a four hundred and eighty million dollar loan for Nvidia chips bound for a ByteDance-linked data centre in Malaysia.
+
+Third, U B S looks set to lose its fight over Swiss capital rules, according to Reuters, with the full parliamentary process still to run.
+
+And fourth, the tape. Europe had its worst day in eight months, the Dow dropped more than eight hundred points, and then Nvidia beat after the close. A December Fed hike is now almost fully priced, and U K inflation lands at seven o'clock this morning.
+
+Later in the show: who reports today, which again is nobody on our list, the supervisors, the I P O watch with Anthropic pricing tonight, our F T review, the cross-asset wrap, a couple of market anecdotes, and the day America got two noons.
+
+Let's start in Frankfurt.
+
+The investigation is called Inside Deutsche Bank. It draws on more than fifteen million files supplied by two whistleblowers, and more than two hundred journalists from over fifty outlets worked on it, including the F T, Der Spiegel, Le Monde, the New York Times and the German broadcaster Z D F. The first wave of stories landed on Tuesday morning.
+
+The headline allegations: the bank processed about five hundred and eighty-two million dollars of payments linked to Jeffrey Epstein that it later flagged as suspicious; it chose, as recently as twenty twenty-one, to pursue growth in Russia; and in twenty seventeen it accidentally sent a Trump tax document to another client's accountant. President Trump has called the disclosure illegal. More stories are promised this week, including on payments to a member of the Qatari royal family and on weaknesses in anti-money-laundering controls.
+
+The shares fell as much as about six point four percent and were still down more than four percent later in the session, the biggest single drag on European banks.
+
+The bank does not dispute that the documents are genuine. It says many incidents date back years, that it spent seven billion euros on controls between twenty nineteen and twenty twenty-five, and that it expects no significant financial impact. Chair Alexander Wynaendts backed chief executive Christian Sewing, while finance minister Lars Klingbeil said the bank must explain how it dealt with the failures.
+
+Now the credit read. On day one, this is a reputational and conduct story, not a capital story. Deutsche Bank's core equity tier one ratio sits comfortably above requirements, and no new fine or charge has been announced. But three things are worth watching.
+
+One: supervisory follow-up. BaFin and the E C B already have Deutsche Bank's anti-money-laundering controls on a long leash after years of remediation, including a monitor. If this week's promised stories on A M L weaknesses show problems that persisted after the remediation programme, the risk is a Pillar Two add-on, a restriction on business, or a new monitor, rather than a headline fine. That is the channel that could touch capital and distributions.
+
+Two: U S exposure. Anything touching Epstein or sanctions has a U S enforcement angle, and U S penalties have historically been the expensive ones for Deutsche Bank.
+
+Three: it comes days after BaFin fined the bank eight million euros over the Postbank migration. Small money, but a second reminder in a week. For senior preferred and senior non-preferred, I would expect limited spread damage unless the follow-up stories produce regulatory action. For A T one, the question is coupon and call optics, and nothing so far changes that. Watch the rest of the week.
+
+Now to the second story: banks are getting out of data-centre loans.
+
+According to the F T on Tuesday, I N G and Societe Generale have recently offered up to eight hundred million dollars of data-centre debt for sale. I N G's auction is about five hundred million dollars and includes loans to the operators CyrusOne, EdgeConneX and Vantage Data Centres, plus exposure to Project Jupiter in New Mexico, the same Oracle-linked project where H S B C sold a slice in the mid-eighties. Bids on the I N G block are due tomorrow, the nineteenth. Societe Generale has sought to sell about three hundred million dollars of project finance debt for Oracle-linked projects in Wisconsin and Texas.
+
+On pricing, the reports say the Wisconsin and Texas loans were quoted above ninety cents, while the New Mexico paper was expected in the mid-eighties. And note the drift on Jupiter itself: according to earlier F T reporting, that loan traded around eighty-nine to ninety-one in September. Mid-eighties now. That is a loss of several points in two months on what was sold as infrastructure-grade risk.
+
+Then there is the chip loan. Bloomberg reported on Tuesday that new U S rules, in force since Monday the sixteenth, have stalled a four hundred and eighty million dollar financing for Nvidia chips destined for a ByteDance-linked data centre in Malaysia. The borrower is reported to be a Singapore company, Aolani Cloud. Bankers at five lenders discussed pulling out or not joining, because a lender that funds a transaction later found to breach U S export rules could itself be exposed.
+
+The credit read: this is banks managing concentration in A I infrastructure, not a credit event. The amounts are small against I N G's or Societe Generale's balance sheets. But secondary prices now exist, below par. Hedging is hard, because some facilities reportedly restrict credit default swaps. And there is a new legal risk layer for Asian data-centre lending. The question for the next results round: how much construction exposure, at what stage, and how is it marked.
+
+Third story: U B S and the Swiss capital fight.
+
+Reuters reported on Tuesday, citing three sources, that U B S is poised to accept defeat in its campaign to soften the new Swiss capital rules. The core of the dispute is the requirement to back the full value of foreign subsidiaries with core equity tier one. The upper house moved to a ninety percent target, still above what U B S holds against those units today. The total increase in requirements the bank has cited is around sixteen billion dollars.
+
+According to the report, U B S will set out its options, including whether the tougher rules justify moving its headquarters abroad, probably with its results in early February. There is still a lower house compromise on the table that would allow more conservative valuations of foreign units, backed publicly by the shareholders Cevian and Artisan. The lower house economic committee takes it up on the twenty-third and twenty-fourth of November, ahead of the winter session. The shares fell about two percent on Tuesday.
+
+For credit, this is the opposite of the equity story. More capital at the parent means lower buybacks and a thicker cushion beneath senior and A T one. Relocation talk is a negotiating tool for now; if it became real, it would raise resolution questions bondholders would need to price.
+
+One more European bank item before results. UniCredit's takeover of Commerzbank cleared the E U foreign subsidies review on Tuesday without conditions, one day after the European Commission's merger clearance. The U S Federal Reserve has also approved it. Andrea Orcel says the last approval, from the Polish regulator, should come by the end of this month, and UniCredit expects to establish control in the first quarter of twenty twenty-seven. Commerzbank closed around thirty-nine euros. For Commerzbank senior and subordinated holders, the integration and funding plan is now the next thing to price.
+
+Now, who reports today.
+
+Nobody on our watchlist reports this morning. Results season for European and U S banks is over, and the Japanese megabanks reported last week. As a reminder, M U F G, S M F G and Mizuho all raised their full-year profit targets to records last Friday, with M U F G now at two point eight trillion yen, S M F G at one point nine trillion and Mizuho at one point six trillion. S M F G's chief executive flagged that a slowdown in data-centre investment is a risk to the Japanese and global economy over the next six months.
+
+Now the supervisors.
+
+Beyond the BaFin fine on Deutsche Bank last week, there was no new capital add-on, model floor or major enforcement action on a watchlist bank in the last twenty-four hours that I could confirm. The U B S capital rules are a legislative process, not a supervisory decision, and nothing has been enacted yet.
+
+One rating note from earlier this month remains relevant for French paper: Fitch moved the outlooks on B N P Paribas and Credit Agricole to negative on the fourth of November, following its action on France. Societe Generale and B P C E were not immediately affected. With the O A T spread over Bunds around one hundred and fifty-five basis points as of Monday, the sovereign link is still the main driver of French bank spreads.
+
+Now the Europe round-up.
+
+The sector had a bad day. European stocks posted their worst session in eight months, on A I jitters, the new U S curbs on chip sales and the wait for Nvidia. Banks did not escape: Deutsche Bank led the declines, U B S fell about two percent, and Santander held up better, down less than half a percent.
+
+In the U K, H S B C, Barclays, Lloyds, NatWest and Nationwide have blocked or limited access to customer accounts by third-party A I agents, over who is liable if an agent mishandles a customer's money. Separately, Barclays is reported to be cutting around two hundred investment banking jobs this week.
+
+Now the U S round-up.
+
+U S banks were caught in the broad sell-off. The Dow fell more than eight hundred points, and the big banks were already weak after Monday's app and online banking outages at J P Morgan, Wells Fargo, Bank of America and others. J P Morgan was down a little over one percent on Tuesday, after a drop of more than two percent on Monday.
+
+The macro backdrop for U S bank credit is a hawkish Fed. October retail sales rose point two percent, in line, but sales excluding autos rose point six percent, ahead of forecasts. St Louis Fed President Alberto Musalem said the economy will likely need several more rate rises before the spring. Futures now put the chance of a quarter-point hike on the ninth of December at around ninety-five percent. Higher short rates help net interest income, but add refinancing pressure in commercial property and leveraged loans.
+
+Now to Asia.
+
+The overnight session started on the back foot after Wall Street's losses, then found support from Nvidia's results and from Japanese exports, which rose about twenty percent in October from a year earlier. The Nikkei had fallen one point three percent on Tuesday to about fifty-eight thousand eight hundred and sixty, with Korea the weakest market in the region. Korean chip stocks led the bounce this morning.
+
+For Asian banks, the story that matters is the chip loan freeze. The new U S rules reportedly require licences for advanced chip exports to Malaysia, Singapore, Thailand, Indonesia and Brazil. Singaporean and Japanese banks have been the main arrangers of Southeast Asian data-centre debt; expect tighter compliance terms and slower commitments.
+
+In India, the contrast is striking. The Nifty Bank index hit a record above sixty-two thousand on Tuesday, helped by strong September-quarter earnings, credit growth and easier liquidity.
+
+Time for the I P O watch.
+
+The U S story this week is Anthropic, and in the interest of full disclosure, Anthropic is the company that makes the A I model that writes this script, so treat this section with that in mind. Anthropic is the developer of the Claude family of A I models. It is scheduled to price its Nasdaq listing today, the eighteenth, and to start trading tomorrow under the ticker A N T. The marketed range is seventy to seventy-eight dollars a share for eight hundred and twenty-five million shares, which would raise up to about sixty-four billion dollars. That would be by far the largest I P O on record.
+
+A group of strategic investors, Google, Nvidia, A M D, Broadcom, Micron, Microsoft and T S M C, have agreed to buy twenty-six billion dollars of non-voting shares at the I P O price. The order book is reported to be about six to seven times covered. The Wall Street Journal reported that the company and its advisers are considering a price above eighty dollars. Reports put the valuation at about one point four trillion dollars at the range. Goldman Sachs and Morgan Stanley are reported as lead underwriters.
+
+Why it matters for bank credit: on fees, even a small gross spread on sixty-four billion dollars is a very large payday for the lead banks, and it lands in the fourth quarter. More broadly, it is a vote on the A I capital cycle whose loans banks are now starting to sell.
+
+In Hong Kong, the picture is cooler. Beijing Sinotau International Pharmaceutical Technology, a drug developer, launched its offering on Tuesday and is due to list on the twenty-fourth. It will be the city's first paperless new listing. Two Chinese technology companies, Hosin Electronics and Amicro Technology, raised about one point seven eight billion Hong Kong dollars between them, about two hundred and twenty-seven million U S dollars, both priced below the top of their ranges. And the South China Morning Post reports only three new listings since October, all of which closed below their offer prices on debut. In the pipeline, Alibaba's chip design unit, T-Head, filed for a Hong Kong listing last week.
+
+Now, looking ahead.
+
+Today: U K inflation for October at seven a m London time. Consensus is around three point six to three point seven percent, up from three point five, driven by energy and a tobacco duty increase. A hot print would add to December Bank of England hike bets. Also today: Anthropic pricing, and more F T stories from the Deutsche Bank files.
+
+Tomorrow, Thursday the nineteenth: Anthropic starts trading, and bids are due on I N G's data-centre loan block.
+
+The twenty-third and twenty-fourth: the Swiss lower house committee on the U B S capital rules. The twenty-fourth: Sinotau's Hong Kong debut. By the end of the month: the Polish approval for UniCredit and Commerzbank. And the ninth of December: the Fed.
+
+Before the cross-asset wrap, our F T review.
+
+A note on method: our tools could not reach the F T website directly this morning, so this review is built from F T stories as reported by other outlets, and everything is paraphrased in our own words. As a result, today's review is shorter and leans heavily on one investigation.
+
+First, the Deutsche Bank investigation, covered at the top. One detail worth keeping: the F T's own tally of the bank's settlements since twenty twelve, about eighteen point six billion euros. That is the base rate the market uses when it prices new conduct allegations.
+
+Second, the follow-ups. The F T says more stories will run this week, on payments to a Qatari royal and gaps in anti-money-laundering controls; one of its reporters described money laundering at industrial scale in the files. For credit, the A M L story matters more than the famous names, because A M L failures are what supervisors punish with restrictions and add-ons. Watch whether the stories cover the period after remediation began.
+
+Third, the data-centre loans. The F T's report on I N G and Societe Generale shopping up to eight hundred million dollars of data-centre debt is, in my view, the most important story in the paper for our listener today. It turns one bank's discounted trade into a pattern: two big European project-finance lenders cutting exposure at once, in a market where hedging is restricted.
+
+Fourth, the price path. The F T's earlier reporting put the Project Jupiter loan around ninety in September; now the mid-eighties. A rare time series on a private construction loan, and one that auditors and supervisors will have in mind for stage two classification at year end.
+
+Fifth, private credit. The F T has recently reported on a wave of redemption requests from wealthy investors in non-traded private credit funds. Industry data back this up: one tracker shows seven of the ten largest non-traded private credit funds prorated their latest repurchase offers, buying back between thirteen and fifty percent of what investors wanted to sell. For banks, the link is the leverage they provide to these funds through subscription lines, back leverage and N A V facilities. Exposures are senior and well secured, but if queues persist, managers will lean harder on those facilities.
+
+One gap to flag: I found no F T stories in the window on French debt, Pfandbriefe, Basel or M R E L that I could verify through other outlets. If one ran, it is worth checking on the site itself.
+
+Now the cross-asset wrap.
+
+Rates first. The U S ten-year eased slightly on Tuesday to around five point one one percent, with the two-year around four point eight. The so what: a positive curve helps margins, but a ten-year above five percent keeps pressure on commercial property and on unrealised bond losses.
+
+In Europe, the Bund ten-year closed around three point three seven to three point four percent, near its highest since late October, as markets price more E C B tightening. The ten-year gilt held at about five point three five percent, with the two-year above five, ahead of this morning's inflation data. The O A T spread over Bunds was about one hundred and fifty-five basis points as of Monday, wider than in October. The number to watch for French bank spreads.
+
+Credit. The U S high-yield spread widened to about three hundred and thirty-four basis points on Monday, from three hundred and twenty-three on Friday, according to the I C E index. I do not have a verified iTraxx close for Tuesday, but the direction was wider on a risk-off day. The so what: narrower windows for bank A T one and tier two issuance.
+
+F X. The dollar index is near a nineteen-month high, around one hundred and three and a half, on the hawkish Fed. A stronger dollar inflates euro-reported risk-weighted assets, a small drag on capital ratios.
+
+Commodities. West Texas crude settled around eighty-six dollars a barrel, gold around three thousand eight hundred and fifty dollars an ounce, and silver dropped to a thirteen-month low on the Fed outlook. Bitcoin fell about two percent.
+
+Equities. The S and P five hundred fell about one percent to around seven thousand three hundred and forty. The Dow fell about eight hundred and forty-nine points, or one point six percent, to about fifty thousand seven hundred and sixty. In Europe, the worst session in eight months. Then, after the close, Nvidia reported revenue of about one hundred and fifteen point eight billion dollars, well above estimates, guided to about one hundred and thirty billion for the next quarter and approved another one hundred and fifty billion dollars of buybacks. The shares rose between two and four percent after hours.
+
+Here is my view, and it is a view. The market is separating A I demand from A I financing. Nvidia's numbers say demand for chips remains very strong. But the financing chain behind the build-out, construction loans, project finance, private credit and syndicated chip loans, is being repriced at the same time by higher rates, export controls and concentration limits at the banks. For bank credit investors, that is the right place to focus: not on whether A I is real, but on who holds the debt that pays for it, at what price, and whether it can be sold.
+
+Now, a couple of market anecdotes.
+
+First, Anthropic started trading before it started trading. On Tuesday, a perpetual futures contract on Anthropic shares, listed on the crypto exchange Hyperliquid through a venue called Trade dot x y z, changed hands at about ninety-six dollars and seventy-seven cents. That is about twenty-four percent above the top of the official range, two days before the stock is due to open on Nasdaq. Not an official price, but a sign of how far speculative markets now run ahead.
+
+Second, a buyback bigger than the largest I P O ever. Nvidia's new one hundred and fifty billion dollar authorisation takes its remaining buyback capacity to about two hundred and twenty-seven billion dollars. The new tranche alone is more than twice what Anthropic is hoping to raise this week. And it was the first quarter reported since Jensen Huang stepped down as chief executive. The board said it does not intend to bring him back to the role.
+
+And finally, this day in market history.
+
+On the eighteenth of November, eighteen eighty-three, the railroads of the United States and Canada switched from local solar time to standard time zones. Until then, almost every town kept its own time based on the sun, which meant dozens of different times across a single railway network. At noon on that day, clocks were reset. In many places, the clock was turned back, so the town heard noon twice. It became known as the Day of Two Noons. Chicago's clocks, for example, went back nine minutes and thirty-two seconds.
+
+What strikes me is who did it. Congress had considered national standard time and failed to act; the railroads simply agreed among themselves. The law caught up only in nineteen eighteen, with the Standard Time Act.
+
+The link to today: in markets, the infrastructure often gets standardised by those who run it before the rule-makers arrive. That is happening in data-centre lending now: banks are setting the price of A I infrastructure debt through trades like this week's, well before supervisors have a framework for it.
+
+That's the Bank Credit Briefing for Wednesday the eighteenth of November. U K inflation is out at seven, Anthropic prices tonight, and more Deutsche Bank files are promised. As always, check the terminal for late news before you trade. Have a good day.

@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-18.mp3",
+  "title": "Wednesday 18 November: Deutsche Bank files leak",
+  "desc": "Leaked files hit Deutsche Bank shares, ING and SocGen sell data-centre loans as US chip curbs freeze a ByteDance-linked loan, and UBS looks set to lose its Swiss capital fight.",
+  "date": "2026-11-18",
+  "pub": "Wed, 18 Nov 2026 05:07:01 +0000",
+  "bytes": 11701438,
+  "dur": 1462
+ },
+ {
   "file": "Bank_Briefing_2026-11-17.mp3",
   "title": "Tuesday 17 November: AI loan gets a price",
   "desc": "HSBC sells a slice of an Oracle-linked data-centre loan in the mid-80s, Brussels clears UniCredit-Commerzbank unconditionally, and US bank outages hit shares as the Nasdaq enters correction ahead of Nvidia and Anthropic.",
@@ -115,14 +124,5 @@
   "pub": "Fri, 30 Oct 2026 05:16:22 +0000",
   "bytes": 10760194,
   "dur": 1344
- },
- {
-  "file": "Bank_Briefing_2026-10-29.mp3",
-  "title": "Thursday 29 October: Fed Hike Dissent, French Spread",
-  "desc": "The Fed held with two votes for a hike and the ten-year Treasury is above five percent; European banks posted record third-quarter profits but SEB's capital add-on and French debt stress linger; Jio Platforms debuted 27 percent higher in Mumbai.",
-  "date": "2026-10-29",
-  "pub": "Thu, 29 Oct 2026 05:17:03 +0000",
-  "bytes": 11319423,
-  "dur": 1414
  }
 ]

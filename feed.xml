@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Wednesday 18 November: Deutsche Bank files leak</title>
+   <description>Leaked files hit Deutsche Bank shares, ING and SocGen sell data-centre loans as US chip curbs freeze a ByteDance-linked loan, and UBS looks set to lose its Swiss capital fight.</description>
+   <itunes:summary>Leaked files hit Deutsche Bank shares, ING and SocGen sell data-centre loans as US chip curbs freeze a ByteDance-linked loan, and UBS looks set to lose its Swiss capital fight.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-18.mp3" length="11701438" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-18</guid>
+   <pubDate>Wed, 18 Nov 2026 05:07:01 +0000</pubDate>
+   <itunes:duration>00:24:22</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Tuesday 17 November: AI loan gets a price</title>
    <description>HSBC sells a slice of an Oracle-linked data-centre loan in the mid-80s, Brussels clears UniCredit-Commerzbank unconditionally, and US bank outages hit shares as the Nasdaq enters correction ahead of Nvidia and Anthropic.</description>
    <itunes:summary>HSBC sells a slice of an Oracle-linked data-centre loan in the mid-80s, Brussels clears UniCredit-Commerzbank unconditionally, and US bank outages hit shares as the Nasdaq enters correction ahead of Nvidia and Anthropic.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-10-30</guid>
    <pubDate>Fri, 30 Oct 2026 05:16:22 +0000</pubDate>
    <itunes:duration>00:22:24</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Thursday 29 October: Fed Hike Dissent, French Spread</title>
-   <description>The Fed held with two votes for a hike and the ten-year Treasury is above five percent; European banks posted record third-quarter profits but SEB's capital add-on and French debt stress linger; Jio Platforms debuted 27 percent higher in Mumbai.</description>
-   <itunes:summary>The Fed held with two votes for a hike and the ten-year Treasury is above five percent; European banks posted record third-quarter profits but SEB's capital add-on and French debt stress linger; Jio Platforms debuted 27 percent higher in Mumbai.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-10-29.mp3" length="11319423" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-10-29</guid>
-   <pubDate>Thu, 29 Oct 2026 05:17:03 +0000</pubDate>
-   <itunes:duration>00:23:34</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
