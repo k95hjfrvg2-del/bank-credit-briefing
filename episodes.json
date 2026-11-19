@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-19.mp3",
+  "title": "Thursday 19 November: Anthropic prices record IPO",
+  "desc": "Anthropic prices the biggest IPO ever at 83 dollars, Fed hawks lift the dollar and yields, and Deutsche Bank faces a data-protection probe as UniCredit settles Commerzbank terms with Berlin.",
+  "date": "2026-11-19",
+  "pub": "Thu, 19 Nov 2026 05:07:00 +0000",
+  "bytes": 11371877,
+  "dur": 1421
+ },
+ {
   "file": "Bank_Briefing_2026-11-18.mp3",
   "title": "Wednesday 18 November: Deutsche Bank files leak",
   "desc": "Leaked files hit Deutsche Bank shares, ING and SocGen sell data-centre loans as US chip curbs freeze a ByteDance-linked loan, and UBS looks set to lose its Swiss capital fight.",
@@ -115,14 +124,5 @@
   "pub": "Mon, 02 Nov 2026 05:17:42 +0000",
   "bytes": 9237568,
   "dur": 1154
- },
- {
-  "file": "Bank_Briefing_2026-10-30.mp3",
-  "title": "Friday 30 October: ECB Hold, Lagarde Exit",
-  "desc": "The ECB held at 2.5% and signalled a December hike as Lagarde announced an early exit, an AI-spending scare hit Wall Street and Asia with the Kospi down almost 5%, and Societe Generale and ING reported solid results with new buybacks.",
-  "date": "2026-10-30",
-  "pub": "Fri, 30 Oct 2026 05:16:22 +0000",
-  "bytes": 10760194,
-  "dur": 1344
  }
 ]

@@ -1,0 +1,141 @@
+Good morning, and welcome to the Bank Credit Briefing for Thursday the nineteenth of November. Large banks across Europe, the U S and Asia, read through a credit lens, covering the last twenty-four hours.
+
+Here is what matters this morning.
+
+First, Anthropic has priced the biggest I P O ever. Eighty-three dollars a share, above the range, about eighty-one billion dollars raised, and a valuation of roughly one and a half trillion dollars. It starts trading on Nasdaq today, and the fee pool lands mostly with Goldman Sachs and Morgan Stanley.
+
+Second, the Fed hawks are getting louder. Governor Waller wants either a half-point hike in December or a signal of faster hikes next year. The dollar is at a nineteen-month high, and the U S ten-year sits just above five percent.
+
+Third, Deutsche Bank, day two. The share slide continued, the Hesse data protection regulator has opened an inquiry into the leak itself, and euro-area banks fell two percent on the day.
+
+And fourth, UniCredit and Berlin have reportedly settled the main disputes over Commerzbank, clearing the path to control early next year.
+
+Later in the show: the supervisors, including a P R A paper on releasing buffers in a crisis, the Asia segment, the I P O watch, our F T review, the cross-asset wrap, a couple of market anecdotes, and the day the Dow broke below eight thousand.
+
+Let's start with the deal everybody is talking about.
+
+Anthropic priced its initial public offering late on Wednesday at eighty-three dollars a share, against a range of seventy to seventy-eight. The deal is about nine hundred and eighty million shares, and the total raise of roughly eighty-one point three billion dollars includes a private placement of about twenty-six billion. Nvidia alone is taking ten billion dollars of stock through that placement. Reports put the valuation at around one and a half trillion dollars, and the book was said to be about six times covered only three days into the roadshow.
+
+Almost all the shares are primary. Anthropic is selling about nine hundred and fifty-six million new shares; the co-founders are selling a little under twenty-four million, and the company takes nothing from those. The stock trades on Nasdaq from today under the ticker A N T.
+
+Now the bank angle, and there are three.
+
+One, fees. Goldman Sachs and Morgan Stanley lead a syndicate of about twenty-two banks, with J P Morgan, Citi, Bank of America, Barclays and Wells Fargo in the wider group. An Evercore I S I estimate puts the equity capital markets fee pool at around five hundred and sixty million dollars, with roughly one hundred and twelve million each for the two leads and about eighty-four million each for Bank of America, Citi and J P Morgan. Those are estimates, not disclosed figures.
+
+Two, the lending tail. Reports on the lock-up say insiders may pledge shares as collateral for loans but may not hedge them. That is an open door for private banks and prime brokers to lend against a single, very volatile stock with no hedge behind it. Expect concentrated margin-lending books at the big wealth managers.
+
+Three, the read-across to A I credit. A trillion-and-a-half valuation in the public market gives the whole A I build-out a fresh equity cushion, at least on paper. But it lands the same week that banks are trying to sell data-centre loans at a discount and that Nvidia shares fell after a beat. Equity is cheering; parts of the loan market are still trying to get out. Keep those two signals side by side.
+
+Now to the rates story, which matters more for bank balance sheets.
+
+Fed Governor Christopher Waller said this week the Fed should either raise rates by half a point in December or signal a faster pace of hikes in twenty twenty-seven. The Fed minutes, out on Wednesday, also leaned hawkish. Markets now price close to a ninety percent chance of a quarter-point hike next month, and roughly a ten percent chance of a half-point move.
+
+The dollar index hit a nineteen-month high, around one hundred and three. The two-year Treasury is near four point eight percent, and the ten-year eased slightly to about five point oh six percent, helped by a three percent drop in crude.
+
+The credit read for U S banks: higher-for-longer helps asset-sensitive net interest income, but a ten-year above five percent keeps unrealised losses on fixed-rate securities and mortgages large, and it raises refinancing pressure on commercial real estate borrowers. Senior spreads have held up; the bigger question is regional bank funding costs into twenty twenty-seven.
+
+In the U K, October inflation came in at three point six percent, up from three point five, but below the three point seven consensus. Core was steady at two point eight, and services steady at three point seven. Ten-year gilt yields fell about ten basis points, and traders trimmed bets on a Bank of England hike in December. For U K banks, a softer path on gilts is mildly positive for mortgage pricing and for the structural hedge story, which is the main earnings engine at Lloyds and NatWest.
+
+Now back to Frankfurt.
+
+Deutsche Bank shares fell about six percent on Tuesday, their worst day in more than a year, and dropped another one point nine percent in early trading on Wednesday as the leak stories kept coming. The euro-area banks index closed down two percent at around two hundred and eighty-seven.
+
+The new development is regulatory, but of a specific kind. The data protection commissioner of the state of Hesse has opened an investigation. It will look at whether the bank had adequate technical and organisational safeguards, and whether it told affected people quickly enough. It will not examine the content of the leaked files. Deutsche Bank says it informed the authorities itself and that no account data, login credentials or payment data were accessed.
+
+The credit read is unchanged from yesterday, with one addition. Data protection fines on banks have historically been modest. The bigger tail risk is still the U S enforcement angle on the Epstein and Russia material, and any finding from BaFin or the E C B that anti-money-laundering weaknesses persisted after the remediation programme. Senior preferred and senior non-preferred should stay orderly. A T one is where any headline stress would show, so watch the coupon-bearing paper rather than the senior curve.
+
+Next, Commerzbank.
+
+According to Reuters, citing a letter from Andrea Orcel dated the eighteenth, UniCredit and the German government have settled the main disputes over the takeover. Berlin has dropped its demand for two seats on Commerzbank's supervisory board, and UniCredit has committed to add German nationals to its own board. UniCredit is also expected to propose two independent members for Commerzbank's supervisory board.
+
+UniCredit now expects to take control in early twenty twenty-seven, with an extraordinary general meeting in the first quarter to replace the shareholder side of the supervisory board. The F T has previously reported that Orcel also intends to replace chief executive Bettina Orlopp.
+
+For credit, the political risk premium on this deal is falling. Bondholders at Commerzbank will want to see the funding and resolution plan: whether Commerzbank stays a separate resolution entity with its own M R E L stack, or whether issuance gradually moves to the parent. For UniCredit, the questions are capital consumption, the integration bill, and how much Italian sovereign exposure the combined group carries relative to German assets. A bigger German footprint arguably diversifies UniCredit away from B T P risk, which is credit-positive over time.
+
+Who reports today? We found no bank on our watchlist publishing results this morning. The third-quarter season for the big names is over, and the Japanese megabanks reported last week.
+
+On that point, a quick reminder from the Tokyo results: S M B C Group and Mizuho both raised their full-year profit forecasts, to about one point nine trillion yen and one point six trillion yen respectively, while their chief executives flagged the risk of a slowdown in data-centre investment. And M U F G's roughly three point three trillion yen of data-centre project finance exposure was in focus as its shares fell more than three percent on Tuesday.
+
+Now to the supervisors.
+
+In London, the P R A has published a consultation, C P sixteen twenty-six, on how it would use the buffer for other systemically important institutions in a crisis. The idea is that, in a system-wide stress, the P R A could temporarily cut that buffer, even to zero, and then rebuild it in stages, generally with about twelve months for each step. It would not apply to a bank-specific problem. The consultation closes on the eighteenth of February.
+
+For A T one investors, this matters. The distance to the maximum distributable amount trigger is the key coupon-risk metric. A regulator that commits in advance to release buffers in a systemic stress effectively widens that distance when it matters most. It is a modest but real positive for U K A T one, and for the asset class's behaviour in a crisis.
+
+In the U S, the O C C has sent the joint capital rule proposed in March with the Fed and the F D I C, which lowers some requirements, for administrative review, one step closer to final. Lower requirements mean more room for buybacks, which is equity-friendly and mildly credit-negative at the margin.
+
+And two anti-money-laundering fines. According to MLex, Sweden's regulator, F I, fined the digital lender Northmill Bank about twenty million kronor. And H S B C's Jersey unit was fined two million pounds by the Jersey regulator, a record for that kind of case on the island.
+
+Now the Europe round-up.
+
+In Italy, Banco B P M's board has authorised chief executive Giuseppe Castagna to negotiate with Credit Agricole on the proposal to merge Credit Agricole Italia into B P M. The French bank would go from about twenty-nine point six percent to around forty-five percent, without a mandatory bid, and has offered a twenty percent valuation premium plus a one billion euro special dividend. B P M wants final terms to compensate shareholders for losing takeover appeal, and has ruled out selling its asset manager Anima as part of the deal. Completion is pencilled in for the second half of next year. For B P M senior and subordinated bonds, a large, highly rated parent sitting at forty-five percent is supportive, even without full ownership.
+
+In France, the ten-year O A T yield was about four point nine one percent on Tuesday, around one hundred and fifty-six basis points over Bunds, near the wide end of the autumn range. Moody's says French insurers can absorb the move, with solvency ratios well above requirements. For French banks, the sovereign link is the issue: their senior spreads trade off the O A T curve, and any rating action on France would feed straight into B N P Paribas, Credit Agricole, Societe Generale and B P C E funding costs.
+
+In Germany, a thirty-three Bund auction was weak. Only about two point three billion euros was allotted against a three billion target, at an average yield of three point two seven percent.
+
+And a Solvency Two story with bank relevance: big private capital firms are pushing to win a share of what they estimate as eighty billion euros of European insurance assets, as capital charges on some private equity and structured credit holdings come down sharply from next year. More insurance money in private credit means more competition for bank lending, and more significant risk transfer and securitisation buyers.
+
+Now the U S round-up.
+
+On Wednesday the Dow fell five hundred and sixty-one points, about one point one percent, to around fifty thousand two hundred, dragged down by healthcare. The S and P five hundred slipped about a quarter of a percent, and the Nasdaq rose about half a percent ahead of the Anthropic debut. Nvidia reported third-quarter revenue of about one hundred and sixteen billion dollars, up more than one hundred percent, and guided to one hundred and thirty billion. The shares still fell almost three percent, a fifth straight daily decline. When a beat like that fails to lift the stock, the market is questioning the durability of A I spending, not this quarter's numbers. That is exactly the question data-centre lenders are asking.
+
+Now to Asia.
+
+The surprise overnight came from Jakarta, actually on Wednesday: Bank Indonesia raised its policy rate by a quarter-point to six percent, against expectations. That is a defensive move for the rupiah against a strong dollar. For Indonesian banks, margins benefit, but asset quality in small business and consumer lending is the thing to watch.
+
+Asian equities were mixed this morning. Tokyo opened higher, with the Nikkei up about one percent early and around fifty-nine thousand one hundred at the lunch break. But later reports showed the region slipping, with Taiwan down sharply and Korea lower as chip stocks fell about two percent. Dollar-yen is around one hundred and fifty-seven point four. Bank of Japan Governor Ueda repeated that rate hikes will continue if the outlook holds, which supports Japanese bank margins, while higher J G B yields keep the securities books under watch.
+
+In Singapore, D B S has launched a service with Circle that lets eligible institutional clients in Asia mint and redeem the U S D C stablecoin directly through the bank.
+
+Time for the I P O watch.
+
+Anthropic dominates, and we have covered the numbers. One more point: first-day trading will set the tone for the rest of the pipeline. A strong open lifts every bank's fourth-quarter equity capital markets line; a weak one would make syndicate desks much more cautious going into December. One calendar site also lists OpenAI later this month, with no terms or confirmed date, so treat that as unconfirmed.
+
+In Hong Kong, the market is in a quieter phase. Since October, only a handful of new listings have come, and according to the South China Morning Post the few that did all closed below their offer price on day one. Xinde Semiconductor bucked that on the tenth of November, closing its first day up about twenty-eight percent. Next in line is Sinotau, which launched its offering this week and is due to debut on the twenty-fourth. It will be Hong Kong's first fully paperless new listing, as the exchange started a five-year move to a digital share register on Wednesday. Around seventeen companies have passed their listing hearings but not yet launched, so the pipeline is there if the tape cooperates.
+
+Looking ahead.
+
+Today: Anthropic's first day of trading on Nasdaq. Tuesday the twenty-fourth: Sinotau's debut in Hong Kong. Early December: the Fed, with a hike close to fully priced, and the December Bank of England meeting. The seventeenth of December: the E C B, where futures price around an eighty percent chance of a quarter-point hike. In France, the budget must be passed by the end of the year. And the P R A buffer consultation closes on the eighteenth of February.
+
+Now our F T review. A note on method: our tools cannot reach ft.com directly this morning, so this review is built from F T reporting as relayed by other outlets, in our own words.
+
+First, the E C B succession. The F T reports that a package is forming in which Spain's Pablo Hernandez de Cos would take the presidency, Germany would back the Princeton economist Markus Brunnermeier as chief economist, and France's Laurence Boone would fill the remaining board seat. Why it matters: the chief economist drafts the policy proposals. A respected academic hawk in that seat, in the middle of a hiking cycle, would shape the path for rates, for periphery spreads, and for the euro-area bank margin story into twenty twenty-seven.
+
+Second, Nvidia and Singapore. The F T reports that Nvidia has stopped disclosing its Singapore sales, drawing scrutiny while U S authorities investigate chip-smuggling allegations. For bank credit, this goes straight to the chip-backed lending we flagged yesterday, where a four hundred and eighty million dollar financing for a Malaysian data centre stalled under new U S export rules. Where the chips end up is now a collateral question as well as a compliance one.
+
+Third, SoftBank. According to the F T, Masayoshi Son called missing an investment in Anthropic a mistake, saying SoftBank held back because it had already committed so much to OpenAI. That matters for lenders because SoftBank's A I commitments are heavily debt-financed, through bonds, margin loans and bridge facilities, much of it with the Japanese megabanks. A one-and-a-half trillion dollar listing for the rival changes the valuation reference for OpenAI-linked collateral, in either direction.
+
+Fourth, a hedge fund comeback. The F T reports that Leopold Aschenbrenner is pitching a second fund to brokers and investors after his A I-focused fund lost about sixty-seven percent in July, and earlier reporting said J P Morgan had cut off lending to the fund. The point for bank credit is prime brokerage discipline: after the Archegos lessons, banks are walking away from concentrated, crowded A I books, and the willingness of any broker to take that client back is a small test of risk appetite.
+
+Fifth, Ukraine financing. The F T reports a proposal for a forty-five billion euro E U loan for Ukraine. Details are still thin, but any new E U-level borrowing adds supranational supply, which competes with covered bonds and bank senior paper for the same euro rates buyers.
+
+Two lines on stories covered elsewhere. The Deutsche Bank investigation is a consortium led by the F T, and its next instalments on anti-money-laundering controls are the ones to watch. And the F T's earlier report that I N G and Societe Generale are selling data-centre loans remains the cleanest signal that banks want less of this exposure on their own balance sheets.
+
+Now the cross-asset wrap.
+
+Rates. U S two-year near four point eight percent, ten-year around five point oh six, thirty-year about five point four one. So what: steep enough to help bank margins, but high enough to keep securities losses and commercial property refinancing in focus. Gilts rallied about ten basis points after the inflation data. In the euro area, a weak Bund auction, and the O A T spread around one hundred and fifty-five basis points.
+
+Credit. We could not verify index levels for iTraxx or C D X this morning, so check your screens. The direction this week has been wider, led by A I-related names and by a softer tone in European financials after Deutsche Bank.
+
+Currencies. The dollar index at a nineteen-month high, around one hundred and three. Euro-dollar below one point one oh, near its weakest in more than a year. Dollar-yen about one hundred and fifty-seven point four. A strong dollar tightens conditions for Asian and emerging-market borrowers, which is why Bank Indonesia moved.
+
+Commodities. Brent settled around ninety-two dollars, down more than one percent after a build in U S inventories. Gold is under pressure, around the low three thousand seven hundreds, as rate-hike bets build.
+
+Equities. The Stoxx six hundred fell about one percent to around six hundred and forty-four, a third straight loss, with miners down nearly five percent. Euro-area banks down two percent. The Dow down about one percent, the Nasdaq up.
+
+Here is my view, and it is only a view. The market is pricing two things at once: a central bank tightening cycle on both sides of the Atlantic, and a record equity valuation for A I. Those can coexist for a while, but the transmission runs through credit. Banks are quietly reducing data-centre loans, chip-backed financings are stalling, and the biggest tech results of the quarter could not lift the stock. If Anthropic trades well today, that buys time. But the risk for bank credit is not this week's equity tape; it is the concentration of A I-linked loans, margin loans and private credit exposure in a world where money now costs five percent.
+
+Now a couple of market anecdotes.
+
+First, the supplier as anchor investor. Nvidia is putting ten billion dollars into Anthropic's I P O through the private placement. A chip maker buying a big slice of its own customer's listing is the purest example yet of the circular financing that critics of the A I boom keep pointing to.
+
+Second, from Seoul. The Korean market opened late on Thursday, as it does every year on the day of the national college entrance exam, so traffic and noise do not disturb students. So the Kospi delayed its reaction to the biggest I P O in history by an hour for a university test. Some things matter more than markets.
+
+And finally, this day in market history.
+
+On the nineteenth of November, two thousand and eight, the Dow Jones Industrial Average fell more than four hundred and twenty-seven points, about five percent, and closed below eight thousand for the first time since twenty oh three. Financials led the fall. Citigroup dropped more than twenty percent in one day, to about six dollars forty, from a peak of more than fifty-five dollars in twenty oh seven, and it fell another quarter the next day. Within days, on the twenty-third of November, the U S government stepped in with a twenty billion dollar capital injection and guarantees on more than three hundred billion dollars of Citi's assets.
+
+The lesson for today: in twenty oh eight, senior bondholders were protected and the taxpayer took the hit. That is the regime that bail-in, M R E L and T L A C were designed to end. With the Dow now around fifty thousand, it is worth remembering that today's senior non-preferred and holding company bonds are exactly the instruments that would absorb losses next time. So when we look at stress around A I lending or at a bank under a cloud, the question is no longer whether governments will step in, but how deep into the capital structure the losses would go.
+
+That's it for today's Bank Credit Briefing. Anthropic trades today, so check your terminal for late news and for the first print. Thanks for listening, and have a good Thursday.
