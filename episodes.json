@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-20.mp3",
+  "title": "Friday 20 November: Banks hit death cross",
+  "desc": "Wall Street sell-off drags US banks into a death cross, Anthropic closes 17% up after a faded debut, and the ECB keeps 2027 capital requirements broadly flat.",
+  "date": "2026-11-20",
+  "pub": "Fri, 20 Nov 2026 05:05:27 +0000",
+  "bytes": 11145343,
+  "dur": 1393
+ },
+ {
   "file": "Bank_Briefing_2026-11-19.mp3",
   "title": "Thursday 19 November: Anthropic prices record IPO",
   "desc": "Anthropic prices the biggest IPO ever at 83 dollars, Fed hawks lift the dollar and yields, and Deutsche Bank faces a data-protection probe as UniCredit settles Commerzbank terms with Berlin.",
@@ -115,14 +124,5 @@
   "pub": "Tue, 03 Nov 2026 05:07:50 +0000",
   "bytes": 11299988,
   "dur": 1412
- },
- {
-  "file": "Bank_Briefing_2026-11-02.mp3",
-  "title": "Monday 2 November: AI Selloff Hits Credit",
-  "desc": "Tech sell-off puts data-centre loans and private credit in focus, European banks beat Q3 forecasts but shares lag on French risk, and gold slumps 3.5% despite lower yields.",
-  "date": "2026-11-02",
-  "pub": "Mon, 02 Nov 2026 05:17:42 +0000",
-  "bytes": 9237568,
-  "dur": 1154
  }
 ]

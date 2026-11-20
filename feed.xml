@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Friday 20 November: Banks hit death cross</title>
+   <description>Wall Street sell-off drags US banks into a death cross, Anthropic closes 17% up after a faded debut, and the ECB keeps 2027 capital requirements broadly flat.</description>
+   <itunes:summary>Wall Street sell-off drags US banks into a death cross, Anthropic closes 17% up after a faded debut, and the ECB keeps 2027 capital requirements broadly flat.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-20.mp3" length="11145343" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-20</guid>
+   <pubDate>Fri, 20 Nov 2026 05:05:27 +0000</pubDate>
+   <itunes:duration>00:23:13</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Thursday 19 November: Anthropic prices record IPO</title>
    <description>Anthropic prices the biggest IPO ever at 83 dollars, Fed hawks lift the dollar and yields, and Deutsche Bank faces a data-protection probe as UniCredit settles Commerzbank terms with Berlin.</description>
    <itunes:summary>Anthropic prices the biggest IPO ever at 83 dollars, Fed hawks lift the dollar and yields, and Deutsche Bank faces a data-protection probe as UniCredit settles Commerzbank terms with Berlin.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-11-03</guid>
    <pubDate>Tue, 03 Nov 2026 05:07:50 +0000</pubDate>
    <itunes:duration>00:23:32</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Monday 2 November: AI Selloff Hits Credit</title>
-   <description>Tech sell-off puts data-centre loans and private credit in focus, European banks beat Q3 forecasts but shares lag on French risk, and gold slumps 3.5% despite lower yields.</description>
-   <itunes:summary>Tech sell-off puts data-centre loans and private credit in focus, European banks beat Q3 forecasts but shares lag on French risk, and gold slumps 3.5% despite lower yields.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-02.mp3" length="9237568" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-11-02</guid>
-   <pubDate>Mon, 02 Nov 2026 05:17:42 +0000</pubDate>
-   <itunes:duration>00:19:14</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>

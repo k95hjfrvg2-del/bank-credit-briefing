@@ -1,0 +1,137 @@
+Good morning, and welcome to the Bank Credit Briefing for Friday the twentieth of November. Large banks across Europe, the U S and Asia, read through a credit lens, covering the last twenty-four hours.
+
+Here is what matters this morning.
+
+First, a proper risk-off day. The Dow fell more than eleven hundred points, the S and P five hundred posted a sixth straight loss, and the K B W bank index dropped almost two percent, forming what chart watchers call a death cross. In Tokyo this morning the Nikkei is down around four percent.
+
+Second, Anthropic's debut. The stock opened at one hundred and eleven dollars fifty, against an offer price of eighty-three, then faded all afternoon to close at ninety-seven dollars seventeen. Up seventeen percent, but well off the highs.
+
+Third, the E C B published its annual supervisory review. Capital requirements for twenty twenty-seven are broadly flat, with lower Pillar Two numbers for both Deutsche Bank and Commerzbank.
+
+And fourth, UniCredit and Berlin have now confirmed a broad political agreement on Commerzbank, with the German government dropping its demand for board seats.
+
+Later in the show: the U S, Europe and Asia round-ups, the I P O watch, our F T review, the cross-asset wrap, a couple of market anecdotes, and the day in two thousand and eight when the S and P went back to nineteen ninety-seven.
+
+No watchlist bank reports results today, so let's start with the tape.
+
+On Thursday the S and P five hundred fell about two percent to around seven thousand one hundred and seventy-five. That is six losing sessions in a row, the longest streak since twenty twenty-four, and the index is now about eight percent below its October record. The Dow lost about two point two percent, more than eleven hundred points, to roughly forty-nine thousand one hundred. The Nasdaq fell about two point two percent. More than ninety percent of S and P members closed lower.
+
+Banks did not hide. The K B W bank index fell one point nine percent on the day and is down about six point six percent this week, its worst four-day run since April twenty twenty-five. Its fifty-day average has now crossed below its two-hundred-day average. That pattern has shown up only about eight times in the past decade. Goldman Sachs and Morgan Stanley are reported to be roughly fifteen to twenty percent below their August peaks, and J P Morgan about ten percent.
+
+Why does a credit investor care about a chart pattern? Not because of the pattern. Because of what is driving it. The two big investment banks trade as leveraged plays on capital markets activity and on A I financing, and both of those trades are being questioned at once. The question is whether equity weakness starts to leak into their senior spreads and C D S. This is the week to watch it.
+
+Add to that a fresh operational headline. On Thursday a ransomware group leaked data on customers of J P Morgan, Visa and Mastercard, taken from third-party vendors. J P Morgan says marketing data, such as some names and email addresses, was exposed, and that its own systems were not breached. Reports put the number of affected Chase customers at around sixteen thousand. The bank also says there is no link to the software outage that disrupted its services on Monday. Small numbers, but two operational headlines in one week at the biggest bank in America is not what the market wanted.
+
+Now to Anthropic, the biggest I P O on record.
+
+The shares were priced late on Wednesday at eighty-three dollars, above a seventy to seventy-eight dollar range. Trading did not start until eleven forty-eight in the morning in New York, and the first print was at around one hundred and eleven dollars fifty, a gain of about a third. The stock reached one hundred and fifteen dollars ten, then slid below one hundred during the afternoon and closed at ninety-seven dollars seventeen, about seventeen percent above the offer.
+
+On size: the I P O raised about eighty-one point three billion dollars. Estimates of the market value at the close vary widely depending on the share count used, so we will not pick one, except to say that it is comfortably above one trillion dollars.
+
+Volume was enormous: more than eight hundred and forty million shares changed hands, against about five hundred and twenty-two million on SpaceX's first day.
+
+For the banks, the read is mixed. The fee pool, led by Goldman Sachs and Morgan Stanley with about twenty banks in the syndicate, is booked. But a stock that gives back more than half its opening pop in a falling market is a reminder that the A I equity trade is not a one-way bet. That matters for every bank that is lending against A I assets, and it matters for the margin loans that insiders are allowed to take against their shares.
+
+Time for the regulators.
+
+The E C B published the results of its twenty twenty-six supervisory review on Thursday, setting capital requirements for twenty twenty-seven for one hundred and eight directly supervised banks. The headline is stability. The average core equity tier one requirement plus guidance goes to eleven point three percent of risk-weighted assets, from eleven point two percent. The total capital figure rises to fifteen point seven percent, from fifteen point six. The sector-wide Pillar Two requirement is roughly unchanged at about one point two percent of core equity tier one.
+
+Against that, the E C B says banks ran a core equity tier one ratio of around sixteen percent in the second quarter. So on average, the headroom between actual capital and requirement plus guidance is about four and a half percentage points. That is very comfortable, and it explains why the supervisor was relaxed about banks paying out roughly half their profits.
+
+Two details matter more than the averages. First, the E C B used a revised Pillar Two methodology for the first time, which moved requirements up at some banks and down at others. Second, it added binding leverage-related requirements for fourteen banks, ranging from ten to twenty-five basis points. For banks with big balance sheets and low risk weights, that is the constraint to look at, not the risk-weighted ratio.
+
+At bank level, Deutsche Bank's Pillar Two requirement falls twenty-five basis points to two point six percent, and Commerzbank's falls five basis points to two point one percent.
+
+The supervisory priorities for twenty twenty-seven to twenty twenty-nine focus on resilience to geopolitical and macro-financial shocks, and on operational resilience to technology risk. Given this week, that second line will get a lot of attention.
+
+Elsewhere on the supervisory front. In Germany, BaFin fined K T Bank one hundred and forty thousand euros for gaps in transaction monitoring and late suspicious activity reports. Small money, but it follows last week's eight-million-euro fine on Deutsche Bank. And, as we will hear in the F T review, the Bank of England and the E C B are both looking more closely at banks' data-centre loan books.
+
+Now to Europe.
+
+UniCredit and the German government have reached a broad political agreement on Commerzbank. It rests on a letter from Andrea Orcel to the finance minister, Lars Klingbeil, dated the eighteenth. Berlin drops its demand for two seats on Commerzbank's supervisory board. Commerzbank keeps its headquarters in Frankfurt and stays a separately listed German company inside the enlarged group. UniCredit commits to putting German nationals on its own board. The letter describes the deal as a basis for Berlin eventually selling its remaining stake of about thirteen point three percent, but the timing of that is still open.
+
+UniCredit said on Monday that one final regulatory approval remains, which it expects by the end of November.
+
+For credit, the political risk premium on this deal has largely gone. What remains is execution. A separately listed Commerzbank, with minority shareholders and its own bonds outstanding, keeps its own resolution and funding structure for now. That is good news for Commerzbank senior and covered bondholders, who keep a German issuer with a stronger parent. For UniCredit, watch how much excess capital the deal absorbs, and whether the distribution policy changes when the bank consolidates.
+
+Deutsche Bank had a calmer day after the selloff that followed the leak of about fifteen million internal files. The shares rose as much as about three percent at midday. Christian Sewing told the J P Morgan financials conference that the bank still expects twenty twenty-six revenues above thirty-three billion euros and costs of about twenty-one point three billion, and said the events in the files are long past. The finance minister has asked for a full accounting. Our view: the targets are not the issue. The issue is whether supervisors or prosecutors reopen any of the cases. Until that is clear, Deutsche senior non-preferred and additional tier one should trade with a small headline premium.
+
+From the same conference, H S B C's chief executive, Georges Elhedery, said Hong Kong deposits are up about ten percent, or sixty-eight billion dollars, and loans about ten to eleven percent. Time deposits are now about thirty-eight percent of the mix, up from thirty-six, which he put down to new money. He also said costs are on track for growth of about one percent this year. For credit, a bigger share of term deposits means a slightly higher funding cost, but deposit inflows of that size are exactly what a senior holder of the holding company wants to see.
+
+In the U K, October inflation came in on Wednesday at three point six percent, a one-year high, but below the Bank of England's forecast, with core steady at two point eight percent. Gilts rallied about ten basis points on the day, and the market cut the odds of a December hike to about eighty percent. For U K banks, a slower hiking path is mildly negative for margins but positive for mortgage credit quality.
+
+In France, the ten-year spread to Bunds was about one hundred and fifty-six basis points on Tuesday, wider than Italy, and the budget must still be passed by year end. The next date is the twenty-seventh, when S and P is due to review France. For French banks, the sovereign spread sets the floor for their own senior funding costs.
+
+Over to the U S for the rest of the round-up.
+
+The market story is the one we started with. The banks are being sold with the market and with the A I trade. Regional consolidation continues in the background, with last week's three point two billion dollar Hancock Whitney and Trustmark merger the latest example.
+
+And on rates, the Fed is priced for a hike in December, with the ten-year Treasury yield around five percent. For U S banks, that keeps unrealised losses on securities books in focus, especially at regionals.
+
+Now to Asia.
+
+It is a heavy morning. The Nikkei fell more than four percent early and was trading around fifty-seven thousand three hundred, down roughly three and a half to four percent. Korea's Kospi fell close to five percent, with S K Hynix and Samsung down more than five percent. M S C I's Asia Pacific index is heading for a seventh straight loss. The trigger is the same as on Wall Street: doubts about A I and chip stocks, which the Anthropic debut did not settle. Dollar-yen is around one hundred and fifty-nine and a half, close to the levels where Tokyo has stepped in before. Japanese markets are closed on Monday for a holiday.
+
+For the Japanese megabanks, M U F G, S M F G and Mizuho, the lesson is two-sided. Higher J G B yields and a hiking Bank of Japan support margins. But they are also among the biggest lenders to A I and data-centre projects globally, and their equity stakes in Japanese companies make their capital sensitive to a sharp fall in Tokyo stocks. A four percent fall in the Nikkei is a capital story for them, not just a market story.
+
+There was no major bank-specific news from China or Hong Kong in the window.
+
+Time for the I P O watch.
+
+In the U S, Anthropic is the story, and we have covered it.
+
+The U S pipeline for next week is close to empty, with only small deals on the calendar, such as a Nasdaq listing by Tracx Logis led by Roth Capital. Thanksgiving falls on Thursday, so a quiet week is normal.
+
+In Hong Kong, the tone is cooler than earlier in the year. The South China Morning Post reported last week that all six listings priced in one week came at or near the bottom of their ranges. Two Chinese chip companies, Hosin Electronics and Zhuhai Amicro, debuted on the twelfth. Hosin priced at seventy-two dollars eighty-three Hong Kong, near the bottom of its range, opened flat, and floated only about one point eight percent of its shares. Amicro, which is backed by Xiaomi, priced at nine dollars ninety Hong Kong, near the bottom, but opened about thirty-eight percent higher. Together they raised about one point eight billion Hong Kong dollars. Next up is Sinotau International Pharmaceutical, which is raising up to about four hundred and forty-six million Hong Kong dollars and is due to list on Tuesday.
+
+Why it matters: Hong Kong E C M fees have been a support for H S B C, Standard Chartered and the Chinese brokers this year. Pricing at the bottom of the range tells you the window is still open, but the buyers have the power.
+
+Looking ahead.
+
+Monday the twenty-third: Japan is closed for a holiday. Tuesday the twenty-fourth: Sinotau lists in Hong Kong. Thursday the twenty-sixth: U S Thanksgiving, with a half-day on Friday. Friday the twenty-seventh: S and P's review of France. By the end of November: the last regulatory approval for UniCredit's Commerzbank deal. Then December: the Fed, with a hike fully priced; and on the seventeenth, both the E C B and the Bank of England.
+
+Now our F T review. A note on method: our tools cannot reach ft.com directly this morning, so this review is built from F T reporting as relayed by other outlets, in our own words.
+
+First, and closest to home, Barclays has reportedly bought credit insurance on part of its A I infrastructure loan book, and H S B C has looked at doing the same, while J P Morgan considered it and decided against. Brokers say banks typically pass twenty to fifty percent of a large project exposure to insurers, and that the premium can eat half to two-thirds of what the bank earns on the insured slice. Why it matters: this is how banks keep lending past their internal limits. The risk does not disappear. It moves to insurers, some of whom are said to be near their own data-centre limits. That is a concentration you should map.
+
+Second, a related story from earlier in the week. The F T reported that I N G and Societe Generale have put up to about eight hundred million dollars of data-centre loans up for sale, including loans linked to Oracle's Stargate project, and that the Bank of England has asked U K banks for details of their data-centre lending while the E C B works on its own review. Put the two together and the direction is clear: European banks are trimming and hedging A I exposure, and supervisors want to see the numbers.
+
+Third, SpaceX. Lenders on its roughly forty-three billion dollar chip financing reportedly asked for protections to stop the Nvidia chips that secure the debt from being sent into orbit, where they could not be repossessed. SpaceX says the chips will sit in data centres on Earth, and it is not clear whether the clause made the final documents. Why it matters: the investment-grade tranche of that deal is backed by lease payments on chips. Collateral you cannot reach is not collateral. It is a neat test of how carefully the market is reading A I asset-backed structures.
+
+Fourth, private equity and leveraged finance. The F T had reported earlier in the week that T P G was close to a deal for the payments software company BILL Holdings. That deal has now been announced as a six billion dollar take-private, alongside Corpay. Take-privates of that size usually mean leveraged loan or private credit financing, so it is a useful signal that the financing window is still open, even in a falling equity market.
+
+Fifth, the F T reported on Thursday evening that the U K and the E U could finalise their reset agreement as early as today. Financial services are mostly outside it, so for U K banks the effect is a modest positive for corporate credit, not more.
+
+Sixth, one for the prime brokers. The F T reported that Leopold Aschenbrenner, whose A I-focused hedge fund was reported to have lost about two-thirds of its value in July, has been discussing a relaunch with prime brokers and investors. Small, but it tells you prime brokers are still willing to finance concentrated A I bets after heavy losses.
+
+And in one line: the F T was part of the media group behind the Deutsche Bank files, which we covered in the Europe section.
+
+Now the cross-asset wrap.
+
+Rates. The U S ten-year Treasury yield eased slightly to around five point oh five percent, with the two-year at about four point seven seven percent and the thirty-year around five point four. The curve between twos and tens is about twenty-eight basis points. The so-what for banks: even on a risk-off day, the long end barely rallied, which tells you the market is still worried about inflation and the Fed. In Europe, the ten-year Bund is around three point four percent, and the ten-year gilt is around five point three percent.
+
+Credit. The latest data we can verify is from Tuesday, when the U S high yield spread had widened about twenty basis points in two sessions to around three hundred and forty-three, its widest since late October, led by triple-C credits. Investment grade was about ninety-two basis points. Given Thursday's equity move, it is reasonable to assume that cash and index spreads widened again, but we cannot confirm the levels, so check your screens.
+
+F X. The dollar is near a nineteen-month high. Dollar-yen is around one hundred and fifty-nine and a half. For Japanese banks, a weaker yen inflates their foreign currency assets and risk-weighted assets, which leans on their capital ratios.
+
+Commodities. Oil rose again on Thursday, with W T I around eighty-four dollars, after more attacks on tankers near the Strait of Hormuz. Gold fell almost two percent to about three thousand six hundred and thirty to three thousand six hundred and sixty dollars an ounce, a fourteen-month low, as rate hike expectations firmed. Bitcoin slipped to about sixty-two thousand dollars.
+
+Equities. Beyond the U S selloff, the Euro Stoxx fifty fell about zero point four percent to around six thousand one hundred and nineteen, a fifth straight loss. European banks held up better than the market, helped by the Commerzbank news.
+
+Our view, and it is a view. This week is the first time this year that the A I trade, bank equities, and the cost of money have all moved against the market at once. The supervisors, both in Frankfurt and in London, are telling banks they have plenty of capital, and they do. But they are also quietly asking for the data-centre numbers. When banks insure, sell and hedge a single theme at the same time as the regulators are asking about it, the theme has become a credit risk, not just an equity risk. Our base case is not a crisis. It is wider spreads for the banks most exposed to A I lending and to capital markets fees, and a better relative story for the plain, deposit-funded lenders.
+
+Now a couple of market anecdotes.
+
+First, the wait. On Anthropic's first day, the shares did not trade until eleven forty-eight in the morning, more than two hours after the opening bell. By the time the first print came, the rest of the market was already falling, and the stock gave back more than half of its opening gain by the close.
+
+Second, a price check on New York offices. G I C, the Singapore sovereign fund, is reported to be selling the office tower at sixty Wall Street for around four hundred million dollars, well below what it was worth in twenty seventeen. For anyone holding commercial real estate loans or Pfandbriefe with U S office exposure, that is another data point that the bottom in older office towers is still being found.
+
+Third, the grey market that is no longer grey. A perpetual contract on Anthropic stock, run by a crypto exchange, on Anthropic stock traded about one point nine billion dollars in a day, with open interest near four hundred million. Regulated or not, that is a hedging and speculation venue that sits completely outside the banks' prime brokerage books.
+
+And now, this day in market history.
+
+On the twentieth of November, two thousand and eight, the S and P five hundred fell about six point seven percent in one session to close at seven hundred and fifty-two, its lowest close since April nineteen ninety-seven. The Dow fell about four hundred and forty-five points to around seven thousand five hundred and fifty. Jobless claims had hit their highest level since nineteen ninety-two. Citigroup's shares closed below five dollars, their lowest in more than fifteen years, even though a Saudi prince had just raised his stake to five percent. Within days, the U S government had to step in with a rescue for Citi.
+
+The link to today. Thursday's K B W death cross will bring out the comparisons, but they do not hold. In two thousand and eight the banks were short of capital and short of liquidity. Today the E C B tells us euro-area banks have core equity tier one ratios of around sixteen percent. The lesson from two thousand and eight is not that bank shares fall. It is that a concentrated exposure, then in subprime, can matter more than the averages. That is why the data-centre questions from supervisors deserve more attention than the chart.
+
+That's the Bank Credit Briefing for Friday the twentieth of November. Have a good weekend. And as always, check your terminal for late news, because this market is moving fast.
