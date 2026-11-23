@@ -1,0 +1,131 @@
+Good morning, and welcome to the Bank Credit Briefing for Monday the twenty-third of November. Large banks across Europe, the U S and Asia, read through a credit lens. As it is Monday, we cover the whole weekend.
+
+Here is what matters this morning.
+
+First, the sell-off turned into a correction. On Friday the S and P five hundred fell three point seven percent and closed more than ten percent below its October record. The Nasdaq lost more than five percent in a single session. The K B W bank index fell about nine and a half percent on the week, its worst week since April twenty twenty-five.
+
+Second, Anthropic's first week as a listed company ended at eighty-eight dollars ninety-one. Friday's low was just five cents above the eighty-three dollar offer price. The bid held, but only just.
+
+Third, Asia spent the weekend building defences. Taiwan tightened short-selling rules, China will cut margin requirements for buying shares, and Korea's exchange still had to halt program selling this morning as the Kospi fell nearly six percent at one point.
+
+And fourth, H S B C has settled the pricing of its own A T one refinancing. It is buying back old six percent paper and has replaced it with new paper at seven and five-eighths percent. That is the real cost of bank capital in this market.
+
+Later in the show: Europe, the U S and Asia, the I P O watch, our F T review, the cross-asset wrap, two market anecdotes, and the day in nineteen fifty-four when the Dow finally got back to its nineteen twenty-nine peak.
+
+No watchlist bank reports results today, and Tokyo is closed for a public holiday. So let's start with the tape.
+
+On Friday the S and P five hundred fell three point seven percent to six thousand nine hundred and ten. The Nasdaq Composite dropped five point three percent to about twenty-two thousand six hundred, and has now given back its gains for the year. The Dow lost nine hundred and fifty points, nearly two percent, to forty-eight thousand one hundred and forty-seven. Over the week the S and P lost more than eight percent. The V I X, Wall Street's fear gauge, closed near thirty-six, up from below twenty only ten days ago.
+
+The trigger was the same as all week: doubts about how much the A I build-out will earn, and how it will be financed. Anthropic was the focal point. A record listing was supposed to confirm demand for A I. Instead investors used it to sell.
+
+Banks did not escape. The K B W bank index lost about nine and a half percent on the week. Goldman Sachs and Morgan Stanley each fell more than thirteen percent, Goldman's worst week since March twenty twenty. Goldman led the Anthropic deal, so it earns the fees, but the market is looking past one deal to the whole pipeline of A I listings and financings.
+
+What does that mean for credit? Three things. First, for the two big investment banks, a weak equity tape hits revenue before it hits asset quality. That is an earnings issue for now, not a solvency one. Second, the banks with large data-centre loan books are now being judged on concentration, and we will come back to that in the F T review. Third, watch the senior spreads. So far bank senior paper has held up better than bank equity. If that gap closes this week, it is a signal to take seriously.
+
+Now to H S B C, and the price of A T one.
+
+H S B C ran a tender offer for its six percent perpetual contingent convertible securities. The cap was raised from one billion to one and a half billion dollars, and the offer closed on Thursday. It was oversubscribed, so H S B C is accepting the bonds on a pro rata basis. Settlement is tomorrow, Tuesday.
+
+The tender came with a new issue condition. H S B C first sold one and a half billion dollars of new perpetual contingent convertibles with a coupon of seven and five-eighths percent. So it is the classic liability management trade: swap an old instrument for a new one, keep the capital stack whole, and avoid the question of whether the old bond would have been called.
+
+The credit point is the coupon. Seven and five-eighths against six. That is one hundred and sixty-two and a half basis points more for the same type of capital, from one of the strongest issuers in Europe. It tells you where A T one clearing levels have moved since the old bond was issued, and it is the benchmark every other European bank will be measured against if it comes to market before year-end.
+
+Now to Europe.
+
+European stocks had their own bad Friday. The Stoxx six hundred fell about two percent to six hundred and twenty-five, its fifth straight loss. The Euro Stoxx fifty dropped nearly three percent, the DAX about two and a half percent, and the F T S E one hundred about one percent. In London, Standard Chartered, H S B C, Barclays and NatWest were among the bigger fallers.
+
+Barclays had a busier week than its share price suggests. At an investor conference in London, management set out the next stage of its plan. It now targets a return on tangible equity of more than fourteen percent by twenty twenty-eight, and loan growth of more than five percent a year. It also pointed to about fifteen billion pounds of distributions. Separately, Reuters reported on Friday that Barclays has shown early interest in Metro Bank, which has put itself up for sale. Talks are said to be at an early stage, and other suitors may be involved.
+
+For credit, Metro is small enough not to move the Barclays capital ratio by much. The questions are price and the funding mix. Metro would bring retail deposits and a mortgage book, which Barclays U K would like. Bondholders of Metro would be the clear winners if a large bank bought it. For Barclays seniors, a deal this size is noise. The bigger number is fifteen billion pounds of payouts. That is a lot of capital leaving the bank in a market that is starting to worry about loan books.
+
+Germany. Commerzbank's chief executive, Bettina Orlopp, raised the bank's twenty twenty-six net profit target to about three and a half billion euros, from at least three point four billion before. The shares still fell about two and a half percent on Friday.
+
+On the UniCredit bid, we covered the political agreement with Berlin on Friday. Over the weekend more details came out. The federal government gives up its demand for board seats. Instead UniCredit will propose two independent supervisory board members, chosen in consultation with Berlin. Frankfurt stays as the seat of the German business, including after any merger with HypoVereinsbank, and Commerzbank stays listed. The government keeps its stake of about thirteen percent, and UniCredit says it would support an orderly exit.
+
+UniCredit now holds just under fifty percent, so it does not yet have outright control. Commerzbank itself expects three to four thousand more job cuts. The European Commission and the Fed have already cleared the deal, and UniCredit expects the last regulatory approval by the end of November. For Commerzbank bondholders the direction is clear. Ownership by a larger, well-capitalised group is a positive for seniors. The question for later is the eventual capital and funding structure inside UniCredit, and whether Commerzbank keeps its own issuance programme.
+
+Deutsche Bank is still dealing with the leak of about fifteen million internal files. Reporting has focused on suspicious payments linked to Jeffrey Epstein and on old control failures. Deutsche says the issues are mostly historical and points to seven billion euros spent on controls between twenty nineteen and twenty twenty-five. So far there is no new action from BaFin. For credit, this is headline and conduct risk. It matters only if it turns into fines large enough to dent capital, or a supervisory add-on. We are not there yet.
+
+Italy was quiet over the weekend. Intesa Sanpaolo's offer for Monte dei Paschi and Credit Agricole's proposal to Banco B P M are still the two stories that will reshape Italian bank curves next year.
+
+France. The ten-year O A T traded above four point nine percent on Friday. The spread over Bunds was about one hundred and fifty-six basis points as of last Tuesday, the widest since the euro crisis. The next test is S and P's review of France, due on Friday. A downgrade would push French bank spreads wider through the sovereign link, even though the banks themselves look solid.
+
+On the supervisory front, a short reminder. Last week the E C B published its annual review. Average core equity tier one requirements and guidance come to eleven point three percent for twenty twenty-seven, broadly unchanged. No new bank-specific capital actions came out over the weekend.
+
+Now to the U S.
+
+The biggest supervisory story in the U S is the opposite of Europe's. The O C C has sent the joint rule that lowers capital requirements to the White House budget office for review. That is one of the last steps before it is finalised. The package was first proposed in March, and the net effect is a cut in required capital. For U S bank credit, lower requirements mean more room for buybacks. Equity holders benefit more than bondholders.
+
+And the Fed is still expected to hike. Markets put the chance of a quarter-point rate rise at the December ninth meeting at about ninety percent or higher. That would take the target range above four percent. Last week New York Fed president John Williams said the situation does not call for dramatic action, which took a half-point move largely off the table. But a central bank raising rates into a ten percent equity correction is rare, and it is the backdrop for every bank credit decision this month.
+
+One piece of good news for bank balance sheets. Treasuries rallied hard on Friday. The ten-year yield fell to about four point nine two percent, from just over five percent on Thursday. The two-year fell about thirteen basis points to four point six three. Lower yields reduce the unrealised losses on banks' bond portfolios, which have been the hidden pressure point since twenty twenty-three.
+
+Now to Asia.
+
+Japan is closed today for Labour Thanksgiving Day, so there is no read on the megabanks this morning. But the American depositary shares of M U F G fell about fourteen percent last week, to eighteen dollars sixty-eight, even though the bank raised its full-year profit forecast at its interim results on the thirteenth. That is an A I and global risk trade, not a credit story. M U F G's fundamentals have not changed in a week.
+
+Korea is where the pressure is. The Kospi fell almost six percent at its low this morning, and the Korea Exchange triggered a sidecar, which pauses program selling for five minutes. That was its sixtieth use this year. The index then recovered to trade about three percent lower. On Friday the Kospi had already fallen about five percent, led by Samsung Electronics and S K Hynix, which each lost more than six percent.
+
+Over the weekend, regulators acted. In Taiwan, the Financial Supervisory Commission banned short sales below the previous day's close and raised the margin on short positions from one hundred and thirty to one hundred and fifty percent. China's exchanges will cut the minimum margin ratio for buying shares on credit from one hundred percent to eighty, from November the thirtieth. And Korea is relaxing daily limits on company share buybacks for three months, from tomorrow.
+
+For Asian bank credit, these measures matter mostly through brokerage and wealth businesses. The main Korean lenders, K B Financial and Shinhan, have large securities arms, and margin lending losses are the near-term risk. In China, encouraging more borrowing to buy shares in a falling market is a familiar move. It supports prices in the short run, but adds leverage to the system.
+
+Hong Kong and mainland China opened at multi-month lows and trimmed losses, with the Hang Seng and the C S I three hundred both down less than one percent. Australia's A S X two hundred was down about a fifth of a percent early on. No Asian bank-specific results or rating actions in the window.
+
+Time for the I P O watch.
+
+Anthropic first. The company priced its Nasdaq I P O at eighty-three dollars a share on Wednesday night, above an initial range of seventy to seventy-eight dollars. It sold nine hundred and eighty million shares, which works out to about eighty-one billion dollars raised. That is the largest I P O ever.
+
+The stock opened on Thursday at one hundred and eleven dollars fifty, thirty-four percent above the offer. It closed Thursday at ninety-seven seventeen. Then on Friday it fell about eight and a half percent to eighty-eight ninety-one. From Thursday's first trade to Friday's close, that is a loss of twenty percent. It is still seven percent above the offer price. We do not quote a market value here, because reported share counts differ.
+
+Why it matters for banks: the fee pool from this deal is very large, and Goldman Sachs led it. But a weak aftermarket makes the next large A I listing harder to sell. OpenAI is often named next, but it has only filed confidentially, and its finance chief has pointed to twenty twenty-seven. Do not expect it this year.
+
+In Hong Kong, Sinotau, a Beijing-based maker of radiopharmaceuticals, is due to start trading tomorrow. It marketed about six point six million H shares at fifty-two to sixty-eight Hong Kong dollars, for up to about four hundred and forty-six million Hong Kong dollars. The final price was set on Friday, and we have not yet seen it confirmed. It will be the first nuclear medicine company listed in Hong Kong.
+
+The background in Hong Kong is less cheerful than the headline numbers. First-time share sales had reached almost fifty-two billion dollars by the tenth of November, close to the twenty ten record. But recent deals have priced near the bottom of their ranges, and the robotics company Microintelligence has cut the size of its planned listing ahead of a debut on the fourth of December. For the arranging banks, H S B C and Standard Chartered among them, that means a strong year for fees with a weaker finish.
+
+In the U S, the pipeline is quiet in a Thanksgiving week. We found no other sizeable pricings in the window.
+
+Looking ahead. Tomorrow, H S B C settles its A T one tender and Sinotau lists in Hong Kong. On Wednesday, the U S gets October P C E inflation, the second estimate of third-quarter G D P, and the Fed's Beige Book. Thursday is Thanksgiving, so U S markets are closed. On Thursday the E C B publishes the account of its last meeting, and the Bank of England's Financial Stability Report is listed for this week. Friday is a half day in New York, and S and P is due to review France. On November the thirtieth China's margin change takes effect, and the Fed meets on December the ninth.
+
+Now our F T review. As on Friday, our tools could not reach ft.com this morning, so this review is built from F T reporting as relayed by other outlets, in our own words. It only covers what we have not already discussed.
+
+First, A I hardware costs. The F T reported on Sunday that Dell, Hewlett Packard Enterprise, Lenovo and Supermicro are seeking up to forty-five percent more for A I servers, even on contracts already signed, mainly to pass on the rising cost of memory chips. Why it matters for a bank lender: data-centre project loans are sized on a capital budget. If the cost of the equipment rises by that much after a loan is signed, contingencies get used up, sponsors need more equity, and debt service coverage tightens. Construction-phase lenders should be asking their borrowers about this now.
+
+Second, chips and China. The F T reported that Samsung Electronics and S K Hynix have halted some shipments to Chinese customers while they apply for licences under new U S export rules. Samsung shares fell about seven percent. For credit, this feeds into Korean bank asset quality through the supplier chain, and it explains part of this morning's Korean sell-off. It also adds to the case that A I hardware supply will stay tight, which is the same cost story as the first item.
+
+Third, private credit. The F T reported late last week that Apollo has dropped a planned two billion dollar loan to the owner of Manchester City, after the club was found to have broken Premier League rules. One deal, but it shows private lenders now walking away on legal and reputational grounds, not just on price. Meanwhile, redemption requests at the large non-traded private credit funds remain high, and one industry tracker puts third-quarter private credit defaults at about one and a half percent, roughly double the prior quarter. Banks lend to these funds. That exposure deserves a closer look than it usually gets.
+
+Fourth, A I debt syndication. Earlier last week the F T reported that some large lenders had stepped back from Anthropic's planned debt package, which is reported at about sixty-three billion dollars, because of concentration limits. Read it together with Friday's story on Barclays buying credit insurance on A I loans. Banks are still lending to the sector, but they are actively trying to pass on the risk. The listed equity is now trading near the I P O price. That makes the job of syndicating this debt harder, not easier.
+
+Fifth, mergers. The F T reported that Amazon is in advanced talks to buy Decart, a start-up that makes A I models run more efficiently, for about seven and a half billion dollars, though the talks could still fail. For banks this is a fee story, not a credit one. It does show that large technology buyers are still spending, even in this market.
+
+And in one line: an F T column this weekend looks at how Deutsche Bank's history keeps weighing on it, which ties back to the files leak.
+
+Now the cross-asset wrap.
+
+Rates. The U S ten-year ended Friday at about four point nine two percent, down about twelve basis points on the day, and the two-year at about four point six three. A classic flight to safety. The so what for banks: lower yields reduce unrealised bond losses and help capital, even as equity prices fall.
+
+Europe. The ten-year O A T is above four point nine percent and the spread to Bunds is around one hundred and fifty-five basis points. So what: French bank spreads stay tied to the sovereign until the S and P review on Friday is out of the way.
+
+Credit. U S high yield option-adjusted spreads were about three hundred and fifty basis points on Thursday. Triple C spreads were above thirteen and a half percent, the widest in the past three years. So what: the stress is in the weakest names first. Banks with leveraged loan and fund finance books will feel it before investment-grade lenders do.
+
+Commodities. Brent closed Friday at ninety-two fifty-seven, its third weekly fall in a row. Gold fell about four percent on Friday, to around three thousand five hundred and forty dollars an ounce, as investors sold winners to raise cash. Bitcoin fell about five percent to under fifty-nine thousand dollars, a six-month low.
+
+Now a view, and it is only a view. U S futures are up more than two percent this morning, but one bounce does not change the picture. What ties the week together is the Fed tightening into a growth scare. Markets are pricing a December hike even as equities enter a correction, and that combination rarely ends quietly. For bank credit, though, the picture is better than the equity tape suggests. Bond yields are falling, which helps capital. Credit losses have not shown up yet. The risk is concentrated in two places: A I-related lending and the most junior capital. H S B C's seven and five-eighths percent coupon tells you that market has already repriced. Bank seniors are the safest place to wait. A T one is where to be selective.
+
+Now some market anecdotes.
+
+First, the Anthropic low. On Friday the stock touched eighty-three dollars and five cents, just five cents above the price at which it was sold. On a deal this size, the banks usually have a stabilisation bid in place near the offer price. Whether or not that bid was used, the price stopped almost exactly on it. One of the largest bets in market history came down to a nickel.
+
+Second, Hong Kong goes paperless. When Sinotau lists tomorrow, it is set to be the first I P O in Hong Kong to issue no physical share certificates at all. In a city where paper certificates were the norm for decades, it is a small piece of market plumbing history, and a cheaper process for the custodian banks that handle these listings.
+
+And finally, this day in market history.
+
+On the twenty-third of November nineteen fifty-four, the Dow Jones Industrial Average closed at three hundred and eighty-two point seven four. That was the first close above its peak of September the third, nineteen twenty-nine, at three hundred and eighty-one point one seven. It had taken more than twenty-five years, still the longest wait between record highs in the history of the index.
+
+The lesson is not that markets always recover. They did, but it took a generation, and only if you count price alone. The real lesson is about the entry price. Investors who bought at the top of a boom built on a genuine new technology, which in the twenties was electricity, cars and radio, waited a quarter of a century to get their money back. The technology was real. The prices were not.
+
+And one more from the same date. On the twenty-third of November nineteen eighty-seven, a month after the crash, the Chicago Board of Trade set price limits on its stock index futures. It is the same idea as this morning's sidecar in Seoul and the short-selling curbs in Taiwan. Such tools can slow a fall. They rarely stop one.
+
+That's the Bank Credit Briefing for Monday the twenty-third of November. Markets move fast, so check your terminal for late news, especially from Seoul and the U S futures open. Have a good week.

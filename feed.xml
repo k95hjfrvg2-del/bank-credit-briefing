@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Monday 23 November: Wall Street enters correction</title>
+   <description>The S&amp;P 500 falls into a correction as bank stocks post their worst week since April 2025, Anthropic's stock tests its IPO price, and HSBC refinances its AT1 at 7.625% while Asia rolls out market-support measures.</description>
+   <itunes:summary>The S&amp;P 500 falls into a correction as bank stocks post their worst week since April 2025, Anthropic's stock tests its IPO price, and HSBC refinances its AT1 at 7.625% while Asia rolls out market-support measures.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-23.mp3" length="11170839" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-23</guid>
+   <pubDate>Mon, 23 Nov 2026 05:13:31 +0000</pubDate>
+   <itunes:duration>00:23:16</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Friday 20 November: Banks hit death cross</title>
    <description>Wall Street sell-off drags US banks into a death cross, Anthropic closes 17% up after a faded debut, and the ECB keeps 2027 capital requirements broadly flat.</description>
    <itunes:summary>Wall Street sell-off drags US banks into a death cross, Anthropic closes 17% up after a faded debut, and the ECB keeps 2027 capital requirements broadly flat.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-11-04</guid>
    <pubDate>Wed, 04 Nov 2026 05:04:30 +0000</pubDate>
    <itunes:duration>00:21:59</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Tuesday 03 November: Oil Slump, AI, France</title>
-   <description>Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&amp;P's review, and UniCredit closes in on Commerzbank before its Thursday results.</description>
-   <itunes:summary>Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&amp;P's review, and UniCredit closes in on Commerzbank before its Thursday results.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-03.mp3" length="11299988" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-11-03</guid>
-   <pubDate>Tue, 03 Nov 2026 05:07:50 +0000</pubDate>
-   <itunes:duration>00:23:32</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>

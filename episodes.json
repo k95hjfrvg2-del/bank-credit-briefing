@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-23.mp3",
+  "title": "Monday 23 November: Wall Street enters correction",
+  "desc": "The S&P 500 falls into a correction as bank stocks post their worst week since April 2025, Anthropic's stock tests its IPO price, and HSBC refinances its AT1 at 7.625% while Asia rolls out market-support measures.",
+  "date": "2026-11-23",
+  "pub": "Mon, 23 Nov 2026 05:13:31 +0000",
+  "bytes": 11170839,
+  "dur": 1396
+ },
+ {
   "file": "Bank_Briefing_2026-11-20.mp3",
   "title": "Friday 20 November: Banks hit death cross",
   "desc": "Wall Street sell-off drags US banks into a death cross, Anthropic closes 17% up after a faded debut, and the ECB keeps 2027 capital requirements broadly flat.",
@@ -115,14 +124,5 @@
   "pub": "Wed, 04 Nov 2026 05:04:30 +0000",
   "bytes": 10559782,
   "dur": 1319
- },
- {
-  "file": "Bank_Briefing_2026-11-03.mp3",
-  "title": "Tuesday 03 November: Oil Slump, AI, France",
-  "desc": "Brent fell about eight percent on US-Iran talks while the Nasdaq entered a correction over AI worries, French bond spreads stay wide ahead of S&P's review, and UniCredit closes in on Commerzbank before its Thursday results.",
-  "date": "2026-11-03",
-  "pub": "Tue, 03 Nov 2026 05:07:50 +0000",
-  "bytes": 11299988,
-  "dur": 1412
  }
 ]
