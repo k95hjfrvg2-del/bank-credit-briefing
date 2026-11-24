@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Tuesday 24 November: Huang returns, Irca deal hangs</title>
+   <description>Nvidia's reinstatement of Jensen Huang sparks a 4.7% S&amp;P rebound, UBS, Barclays, BNP and HSBC are left holding €1.2bn of Irca debt after CVC walks away, and Fed's Williams keeps a December hike in play.</description>
+   <itunes:summary>Nvidia's reinstatement of Jensen Huang sparks a 4.7% S&amp;P rebound, UBS, Barclays, BNP and HSBC are left holding €1.2bn of Irca debt after CVC walks away, and Fed's Williams keeps a December hike in play.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-24.mp3" length="11431018" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-24</guid>
+   <pubDate>Tue, 24 Nov 2026 05:07:13 +0000</pubDate>
+   <itunes:duration>00:23:48</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Monday 23 November: Wall Street enters correction</title>
    <description>The S&amp;P 500 falls into a correction as bank stocks post their worst week since April 2025, Anthropic's stock tests its IPO price, and HSBC refinances its AT1 at 7.625% while Asia rolls out market-support measures.</description>
    <itunes:summary>The S&amp;P 500 falls into a correction as bank stocks post their worst week since April 2025, Anthropic's stock tests its IPO price, and HSBC refinances its AT1 at 7.625% while Asia rolls out market-support measures.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-11-05</guid>
    <pubDate>Thu, 05 Nov 2026 05:04:07 +0000</pubDate>
    <itunes:duration>00:19:31</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Wednesday 4 November: Midterms Jolt AI Trade</title>
-   <description>Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.</description>
-   <itunes:summary>Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-04.mp3" length="10559782" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-11-04</guid>
-   <pubDate>Wed, 04 Nov 2026 05:04:30 +0000</pubDate>
-   <itunes:duration>00:21:59</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>

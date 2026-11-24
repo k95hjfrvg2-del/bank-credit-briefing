@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-24.mp3",
+  "title": "Tuesday 24 November: Huang returns, Irca deal hangs",
+  "desc": "Nvidia's reinstatement of Jensen Huang sparks a 4.7% S&P rebound, UBS, Barclays, BNP and HSBC are left holding \u20ac1.2bn of Irca debt after CVC walks away, and Fed's Williams keeps a December hike in play.",
+  "date": "2026-11-24",
+  "pub": "Tue, 24 Nov 2026 05:07:13 +0000",
+  "bytes": 11431018,
+  "dur": 1428
+ },
+ {
   "file": "Bank_Briefing_2026-11-23.mp3",
   "title": "Monday 23 November: Wall Street enters correction",
   "desc": "The S&P 500 falls into a correction as bank stocks post their worst week since April 2025, Anthropic's stock tests its IPO price, and HSBC refinances its AT1 at 7.625% while Asia rolls out market-support measures.",
@@ -115,14 +124,5 @@
   "pub": "Thu, 05 Nov 2026 05:04:07 +0000",
   "bytes": 9370270,
   "dur": 1171
- },
- {
-  "file": "Bank_Briefing_2026-11-04.mp3",
-  "title": "Wednesday 4 November: Midterms Jolt AI Trade",
-  "desc": "Early US midterm results hit the Asian AI trade and pushed Treasury yields lower, Chinese regulators reportedly paused IPO underwriting, and UniCredit's Commerzbank offer closes with a 47.6 percent position ahead of Commerzbank's results.",
-  "date": "2026-11-04",
-  "pub": "Wed, 04 Nov 2026 05:04:30 +0000",
-  "bytes": 10559782,
-  "dur": 1319
  }
 ]

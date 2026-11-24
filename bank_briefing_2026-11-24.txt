@@ -1,0 +1,119 @@
+Good morning, and welcome to the Bank Credit Briefing for Tuesday the twenty-fourth of November. Large banks across Europe, the U S and Asia, read through a credit lens.
+
+Here is what matters this morning.
+
+First, the turn. One day after the S and P five hundred closed in correction, it jumped four point seven percent, its best day since April twenty twenty-five. The trigger was Nvidia's board putting Jensen Huang back in the chief executive's chair. Nvidia rose about thirty-one percent. Asia followed overnight, with the Kospi up six and a half percent.
+
+Second, a hung deal in Europe. C V C has walked away from its roughly three billion euro purchase of the Italian ingredients group Irca. U B S, Barclays, B N P Paribas and H S B C are reported to be left holding about one point two billion euros of committed financing, with a legal fight now possible.
+
+Third, the Fed. New York Fed President John Williams kept a December rate hike firmly on the table. Markets now price roughly a ninety-five percent chance of a quarter-point rise on December the ninth, and the two-year Treasury yield rose about seven basis points.
+
+And fourth, H S B C's additional tier one swap settles today. One and a half billion dollars of old six percent paper is retired, replaced by new paper at seven and five-eighths.
+
+Later in the show: Europe, the U S and Asia, regulators, the I P O watch, our F T review, the cross-asset wrap, two market anecdotes, and the day in twenty twenty when the Dow first closed above thirty thousand.
+
+No watchlist bank reports results today. So let's start with the tape.
+
+On Monday the S and P five hundred rose four point seven percent to seven thousand two hundred and thirty-seven. The Nasdaq Composite gained six and a half percent. The Dow added about three percent to forty-nine thousand five hundred and ninety-five. The V I X fell by a quarter, to about twenty-six and a half, from nearly thirty-six on Friday.
+
+The catalyst was Nvidia. Huang stepped down on November the twelfth, days before Anthropic's listing, and the board named finance chief Colette Kress interim chief executive. On Monday the board reinstated him. President Trump said he had spoken to the board directly and persuaded it. Nvidia shares rose about thirty-one percent, which one report called the stock's biggest one-day gain in twenty-three years. That followed a fall of more than forty percent over the past month.
+
+Anthropic, notably, did not join in. Its shares wavered and closed down about three percent, still above the eighty-three dollar offer price but well below the first-day close of ninety-seven dollars.
+
+What does it mean for credit? Two points. One: a relief rally is not a repricing of risk. Friday's correction was about how the A I build-out is financed, and nothing about that question changed on Monday. The answer still runs through bank balance sheets, private credit funds and the bond market. Two: for the investment banks, a calmer tape helps the fee pipeline. Goldman and Morgan Stanley had their worst week in years. One good day does not undo that, but it does reopen the door for equity and convertible issuance before year-end.
+
+Now to our second story, and it is a European one. Bloomberg reported on Monday that U B S, Barclays, B N P Paribas and H S B C are exposed after C V C Capital Partners pulled out of its agreed purchase of Irca from Advent International. Irca makes chocolate, pastry and ice cream ingredients. The deal valued it at close to three billion euros. The banks are reported to be stuck with about one point two billion euros of committed acquisition financing.
+
+C V C says forensic work during due diligence found problems with the information it was given. Advent says the contract is signed and binding. That sets up a possible court fight, and the banks are in the middle.
+
+For context, earlier reporting put Irca's E B I T D A at about two hundred million euros, so the package was six to eight times leverage. Irca already has about one point one billion euros of floating rate notes from a twenty twenty-four refinancing.
+
+The credit read-across. For the four banks, one point two billion euros is small against their balance sheets. It will not move a capital ratio. But it is exactly the risk that underwriting desks fear at the end of a volatile quarter: a commitment that cannot be syndicated and cannot be cancelled. If the dispute drags on, the banks hold the risk through year-end, and they may face mark-to-market losses if leveraged loan prices weaken. The bigger signal is about the market: sponsors are now willing to walk away from signed deals, and lenders are carrying the consequences.
+
+Third, the Fed. John Williams spoke in New York on Monday. He said inflation remains too high, and he expects it at around three and a half percent this year, falling to just above two percent next year and only reaching the two percent target in twenty twenty-eight. He said policy must act over time. He did not commit to a December move, but he did not rule out hikes at consecutive meetings either.
+
+Markets price about a ninety-five percent chance of a quarter-point hike on December the ninth, from the current range of three and three-quarters to four percent. The two-year Treasury yield rose about seven basis points to four point six nine percent. The ten-year was roughly flat around four point nine two percent.
+
+For banks, a hiking Fed in late twenty twenty-six is not the same story as in twenty twenty-two. Net interest income benefits at the margin, but deposit betas are higher now, and unrealised losses on securities portfolios rise again with the front end. For U S regional banks with large held-to-maturity books, that is the number to watch. For credit, a flatter curve and higher short rates tighten financial conditions for exactly the borrowers who have relied on floating rate debt: leveraged loans and private credit.
+
+Fourth, H S B C. The bank's tender for its six percent perpetual contingent convertible notes settles today. Investors offered about one point five seven billion dollars. H S B C accepted one point five billion, scaling back each offer to about ninety-three percent, at a price of one hundred and a half. The tender was conditional on the new seven and five-eighths percent perpetual issued on November the thirteenth.
+
+The read for additional tier one investors is simple. H S B C has chosen to refinance into a higher coupon rather than leave the old paper outstanding. It costs one hundred and sixty-two and a half basis points of extra coupon. But it protects the bank's reputation for calling and refinancing, and that is what supports the whole asset class. Expect other national champions to follow the same template in the first quarter.
+
+Now to European mergers. UniCredit and the German government have reached a broad agreement over Commerzbank, as reported by Reuters at the end of last week. In a letter to Finance Minister Lars Klingbeil, Andrea Orcel offered binding commitments, including keeping Commerzbank listed in Frankfurt, supporting its small and mid-sized business clients, and German representation on UniCredit's board. Berlin has dropped its demand to name members of Commerzbank's supervisory board. What is not settled is the sale of the government's thirteen point three percent stake.
+
+This comes after the Fed and the European Commission both cleared the deal on November the sixteenth. UniCredit says the remaining approvals should arrive by late November, and it plans to ask Commerzbank to call an extraordinary meeting to elect new supervisory board members.
+
+For credit, the path to full control and consolidation is now much clearer. For Commerzbank senior and subordinated bonds, the question becomes how UniCredit manages its funding structure. For UniCredit's own bonds, the integration and the use of excess capital are the risks to watch, not the solvency picture.
+
+Now the rest of Europe. The Stoxx six hundred rose about one point nine percent on Monday to six hundred and thirty-seven, its first gain after five straight losing days. Chipmakers led. Our sources did not give a verified close for the bank sector.
+
+In Milan the F T S E M I B rose about two-thirds of a percent to just over forty-nine thousand. That is better than it looks. Monday was a big ex-dividend day, with UniCredit, Intesa Sanpaolo, Banco B P M and B P E R among the names paying out, and together the companies distributed close to ten billion euros. That alone took about one point four percent off the index. Banks and tech led the recovery.
+
+Spreads tightened. The ten-year B T P spread over Bunds was about one hundred and seven basis points, down from about one hundred and nine on Friday. The French spread is still wider, at about one hundred and fifty basis points, with the ten-year O A T yield near four point eight two percent.
+
+And France is the sovereign to watch this week. S and P is scheduled to review its A plus stable rating on Friday. Moody's has France at A a three with a negative outlook. Monday's survey data did not help: the French private sector purchasing managers' index fell to forty-six point two in November, with businesses citing next year's presidential election and the public finances. For the French banks, B N P Paribas, Credit Agricole, Societe Generale and B P C E, the sovereign link runs through funding costs and their large holdings of French government bonds. A downgrade to A would likely be followed by rating actions on some bank senior debt, so watch Friday evening.
+
+Now to the U S. Beyond the rally, it was a quiet day for bank-specific news. One item from last week is worth flagging: the Office of the Comptroller of the Currency fined American Express National Bank three hundred and fifty million dollars over anti-money laundering failings, including weak customer due diligence and transaction monitoring. And the U S banking agencies sent their revised capital rules, which would lower requirements for banks of all sizes, to the White House for review on November the seventeenth. If they are finalised as proposed, the big banks gain capacity for buybacks in twenty twenty-seven. For senior bondholders, that is a mild negative, as more capital goes back to shareholders.
+
+Now to regulators in Europe. Last Thursday the E C B published its supervisory priorities for twenty twenty-seven to twenty twenty-nine. They include a new campaign of on-site inspections on banks' links to private credit, private equity and funds investing in real assets. The E C B says these exposures are material for only a few banks and will focus on those with significant exposures to riskier counterparties. Earlier reviews found that most banks surveyed lacked dedicated stress tests or limits for these exposures. It will also review selected banks' use of significant risk transfers in twenty twenty-seven. Supervisory Board chair Claudia Buch singled out private credit and the financing of A I as areas that need close monitoring.
+
+The credit point: expect higher Pillar two guidance or model add-ons for the outliers, not a sector-wide hit. The banks most active in fund finance and N A V lending are the ones to watch.
+
+Now to Asia. Asian markets rallied hard this morning. Japan's Nikkei rose about three point nine percent to fifty-eight thousand six hundred and fifty-four, after Monday's public holiday. Tokyo Electron climbed more than ten percent and Advantest more than fourteen percent. Korea's Kospi rose about six and a half percent to back above five thousand, with Samsung Electronics and S K Hynix each up between seven and nine percent. Taiwan rose more than nine percent. Hong Kong was the exception, roughly flat to slightly lower, and one wrap puts the Hang Seng at its weakest level since April twenty twenty-five.
+
+For the Japanese megabanks, the A I story cuts both ways. Earlier this month M U F G, S M F G and Mizuho all raised their full-year profit targets to records and announced buybacks. But they also flagged the risk of a slowdown in data-centre investment. A recent count puts direct data-centre financing at about twenty point seven billion dollars at M U F G and sixteen point three billion at S M F G. S M F G says it has tightened its standards this year and now lends mainly to the hyperscalers with the strongest credit. A separate analysis argues that Singapore's banks carry more data-centre risk than the Japanese megabanks, relative to their size.
+
+On rates, the Bank of Japan's policy rate is one and a quarter percent, and many in the market expect a rise to one and a half percent at the meeting ending December the eighteenth. The two-year J G B was about one point eight five percent last week. That is good for megabank margins, but it also means more unrealised losses on bond holdings at regional lenders.
+
+Time for the I P O watch.
+
+In Hong Kong, the radiopharmaceutical developer Sinotau starts trading today on the main board. It offered about six point six million shares at fifty-two to sixty-eight Hong Kong dollars, to raise up to four hundred and forty-six million Hong Kong dollars, or about fifty-seven million U S dollars. Margin financing for the retail tranche was reported at nearly ninety-six times the public portion. It is also Hong Kong's first new listing without paper share certificates. We have no verified first-day trading price yet. The deal is small, but strong retail demand for Hong Kong biotech is a sign that the listing pipeline there is still working, which matters for the fee income of the Hong Kong and Chinese brokers.
+
+In the U S, the calendar is empty for Thanksgiving week. Anthropic, which raised eighty-one point three billion dollars at eighty-three dollars a share, closed Monday down about three percent. It is still above its offer price, but well below its first-day close. Next in line after the holiday: American Barrick Gold, a carve-out of Barrick's North American gold business, which could raise about six billion dollars, and the insurer Core Specialty, at about two hundred and fifty million.
+
+Looking ahead. Today, H S B C's tender settles and Sinotau lists. On Wednesday, the U S publishes October P C E inflation, the second estimate of third-quarter G D P, and the Fed's Beige Book. On Thursday, U S markets are closed for Thanksgiving, the E C B publishes the account of its last meeting, and the Bank of England publishes its Financial Stability Report. On Friday, New York has a half day, and S and P reviews France. UniCredit's remaining approvals for Commerzbank are due by the end of the month. China's cut to margin requirements for share buying takes effect on November the thirtieth. Then the Fed meets on December the eighth and ninth, and the Bank of Japan on December the eighteenth.
+
+Now our F T review. Once again, our tools could not reach ft.com this morning, either by search or by fetching its pages. So this review is built from F T reporting over the past week as relayed by other outlets, in our own words, and we flag the dates. We found no relayed F T story from the last twenty-four hours that we could verify.
+
+First, banks selling A I loans. The F T reported a week ago that I N G and Societe Generale have put up to eight hundred million dollars of data-centre debt up for sale. I N G's portion is said to include about five hundred million dollars of loans linked to the operators CyrusOne, EdgeConnex and Vantage Data Centres, and an Oracle-backed project in New Mexico. Why it matters: these are European banks that were early, enthusiastic lenders to the sector. Selling now, into a weak market, tells you they want to cut concentration before year-end. The price they get will be a useful mark for every other bank holding similar loans.
+
+Second, supervisors are asking questions. The same F T reporting said the Bank of England has asked U K banks for details of their data-centre loans, and the E C B is working on a review of euro area exposures. Put that next to the E C B's private credit inspections we discussed earlier, and you have a supervisory theme for twenty twenty-seven: concentration in A I infrastructure lending. Banks with large exposures should expect questions on their stress tests, and possibly capital add-ons.
+
+Third, risk transfer. A later report citing the F T said JPMorgan, Morgan Stanley, S M B C and M U F G have been exploring significant risk transfers to offload part of their A I lending risk. Separately, Bloomberg has reported that a group including JPMorgan and M U F G has spent more than six months trying to distribute thirty-eight billion dollars of construction debt for data centres leased to Oracle. For credit investors, this is both supply and signal. Risk transfer deals will be offered to credit funds and insurers at attractive spreads. But the banks are clearly finding it hard to move this risk through the normal syndication market.
+
+Fourth, lender protections. A newsletter on Saturday relayed an F T report that lenders financing a forty billion dollar SpaceX chip purchase wanted to stop the chips being used in orbital data centres. The point for lenders: as A I financing moves into newer and stranger collateral, documentation is where the real credit work happens.
+
+Fifth, and in one line: the F T's story that Apollo dropped a planned two billion dollar loan to the owner of Manchester City, which we covered yesterday, is still the clearest example of private lenders walking away on reputational grounds.
+
+Taken together, the F T's coverage this week has one theme. Banks are still financing the A I build-out, but they are working hard to hold less of it. That is prudent. It also means the risk is moving to insurers, credit funds and investors in risk transfer notes, who will need to price it properly.
+
+Now the cross-asset wrap.
+
+Rates. The U S ten-year was little changed at about four point nine two percent, and the two-year rose about seven basis points to four point six nine. The curve flattened as the Fed hike came back into focus. So what for banks: a flatter curve squeezes the benefit of higher rates for lenders that fund short and lend long.
+
+Europe. B T P spreads at about one hundred and seven basis points, French spreads at about one hundred and fifty. So what: the gap between Italy and France keeps widening in Italy's favour, and that supports Italian bank funding costs relative to French ones, ahead of Friday's S and P review.
+
+Credit. We could not verify Monday's closing levels for the iTraxx or C D X indices. The direction was tighter with equities, after a sharp widening last week; one weekly recap had global high yield spreads about fifty-six basis points wider over the previous week. So what: last week's widening has not reversed, and new issue windows remain fragile.
+
+F X. The dollar was firmer. So what: a strong dollar raises the cost of dollar funding for European and Asian banks.
+
+Commodities. Brent settled down about three and a half percent at eighty-nine dollars thirty-seven, and W T I at eighty dollars seventeen, after President Trump signalled talks with Iran. Gold rose two to three percent to around three thousand six hundred dollars an ounce. Bitcoin rose about four percent to around sixty-one thousand dollars. So what: lower oil eases the inflation story at the margin, which matters for how many hikes the Fed delivers.
+
+Equities. The S and P up four point seven percent, the Nasdaq up six and a half, the Stoxx six hundred up nearly two percent, and this morning the Nikkei up nearly four percent and the Kospi up six and a half. So what: banks benefit through capital markets fees, and through lower volatility, which reduces trading losses and margin calls.
+
+Here is our view, and it is just a view. Monday's rally was about one man's job, not about the economics of A I lending. The things that drove last week's sell-off are still in place: a Fed that is hiking, a ten-year Treasury yield near five percent, a hung deal in European leveraged finance, and banks quietly trying to sell or insure their A I loans. For bank credit, that argues for staying with the strongest senior names and the large national champions, and being selective in additional tier one, where H S B C has just shown that the true cost of new paper is now above seven and a half percent.
+
+Time for some market anecdotes.
+
+First, the scale of Monday. Nvidia's roughly thirty-one percent gain added close to nine hundred and sixty-three billion dollars of market value in a single session, according to one live report.
+
+Second, paperwork. Sinotau's listing today is the first in Hong Kong where no paper share certificates will be issued at all. One of the world's busiest listing venues is only now starting a five-year transition away from paper. It is a reminder that market plumbing changes far more slowly than the trading screens on top of it.
+
+And now, this day in market history.
+
+On November the twenty-fourth, twenty twenty, the Dow Jones Industrial Average closed above thirty thousand for the first time, at thirty thousand and forty-six. The S and P five hundred also set a record that day. The trigger was a mix of news: progress on Covid vaccines, and the start of the formal presidential transition, which removed a source of political uncertainty.
+
+The link to today: in twenty twenty, as yesterday, one piece of news removed one big uncertainty, and the market moved fast. But the record in twenty twenty came with near-zero interest rates and huge central bank support. Today the Fed is preparing to raise rates, not cut them. A relief rally can happen in either setting. Whether it lasts depends on the cost of money, and that is still rising.
+
+That's the Bank Credit Briefing for Tuesday the twenty-fourth of November. Some figures this morning came from early or conflicting reports, so please check your terminal for late news, especially on Sinotau's debut and on European credit indices. Thank you for listening, and have a good day.
