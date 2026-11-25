@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-25.mp3",
+  "title": "Wednesday 25 November: AI trade cracks again",
+  "desc": "Nvidia and Asian chip stocks slide as Anthropic falls below its IPO price; FDIC shows US bank unrealised losses up almost 50% to $486bn; markets price a December Fed hike ahead of today's PCE.",
+  "date": "2026-11-25",
+  "pub": "Wed, 25 Nov 2026 05:07:01 +0000",
+  "bytes": 11312736,
+  "dur": 1414
+ },
+ {
   "file": "Bank_Briefing_2026-11-24.mp3",
   "title": "Tuesday 24 November: Huang returns, Irca deal hangs",
   "desc": "Nvidia's reinstatement of Jensen Huang sparks a 4.7% S&P rebound, UBS, Barclays, BNP and HSBC are left holding \u20ac1.2bn of Irca debt after CVC walks away, and Fed's Williams keeps a December hike in play.",
@@ -115,14 +124,5 @@
   "pub": "Fri, 06 Nov 2026 05:24:42 +0000",
   "bytes": 10996968,
   "dur": 1374
- },
- {
-  "file": "Bank_Briefing_2026-11-05.mp3",
-  "title": "Thursday 5 November: Midterm Rally, France Outlook",
-  "desc": "Democrats' midterm win lifted European banks about four and a half percent, Fitch cut the outlooks on BNP Paribas and Credit Agricole to negative with France, and Commerzbank reports with UniCredit cleared to go above thirty percent.",
-  "date": "2026-11-05",
-  "pub": "Thu, 05 Nov 2026 05:04:07 +0000",
-  "bytes": 9370270,
-  "dur": 1171
  }
 ]
