@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Thursday 26 November: Hot Inflation, Thanksgiving Calm</title>
+   <description>Core PCE hits a three-year high as Treasuries rally anyway, the Bank of England publishes its Financial Stability Report, and the Bank of Korea hikes to 3.25%.</description>
+   <itunes:summary>Core PCE hits a three-year high as Treasuries rally anyway, the Bank of England publishes its Financial Stability Report, and the Bank of Korea hikes to 3.25%.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-26.mp3" length="11387341" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-26</guid>
+   <pubDate>Thu, 26 Nov 2026 05:16:17 +0000</pubDate>
+   <itunes:duration>00:23:43</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Wednesday 25 November: AI trade cracks again</title>
    <description>Nvidia and Asian chip stocks slide as Anthropic falls below its IPO price; FDIC shows US bank unrealised losses up almost 50% to $486bn; markets price a December Fed hike ahead of today's PCE.</description>
    <itunes:summary>Nvidia and Asian chip stocks slide as Anthropic falls below its IPO price; FDIC shows US bank unrealised losses up almost 50% to $486bn; markets price a December Fed hike ahead of today's PCE.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-11-09</guid>
    <pubDate>Mon, 09 Nov 2026 05:22:44 +0000</pubDate>
    <itunes:duration>00:23:28</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Friday 6 November: AI Rout Hits Banks</title>
-   <description>Wall Street's worst day since April 2025 on an AI selloff spreads to Asia and AI-linked credit; the Bank of England hikes to 4 percent; Commerzbank posts a record nine months but trims interest income guidance.</description>
-   <itunes:summary>Wall Street's worst day since April 2025 on an AI selloff spreads to Asia and AI-linked credit; the Bank of England hikes to 4 percent; Commerzbank posts a record nine months but trims interest income guidance.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-06.mp3" length="10996968" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-11-06</guid>
-   <pubDate>Fri, 06 Nov 2026 05:24:42 +0000</pubDate>
-   <itunes:duration>00:22:54</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>

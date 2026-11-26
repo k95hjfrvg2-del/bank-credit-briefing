@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-26.mp3",
+  "title": "Thursday 26 November: Hot Inflation, Thanksgiving Calm",
+  "desc": "Core PCE hits a three-year high as Treasuries rally anyway, the Bank of England publishes its Financial Stability Report, and the Bank of Korea hikes to 3.25%.",
+  "date": "2026-11-26",
+  "pub": "Thu, 26 Nov 2026 05:16:17 +0000",
+  "bytes": 11387341,
+  "dur": 1423
+ },
+ {
   "file": "Bank_Briefing_2026-11-25.mp3",
   "title": "Wednesday 25 November: AI trade cracks again",
   "desc": "Nvidia and Asian chip stocks slide as Anthropic falls below its IPO price; FDIC shows US bank unrealised losses up almost 50% to $486bn; markets price a December Fed hike ahead of today's PCE.",
@@ -115,14 +124,5 @@
   "pub": "Mon, 09 Nov 2026 05:22:44 +0000",
   "bytes": 11264670,
   "dur": 1408
- },
- {
-  "file": "Bank_Briefing_2026-11-06.mp3",
-  "title": "Friday 6 November: AI Rout Hits Banks",
-  "desc": "Wall Street's worst day since April 2025 on an AI selloff spreads to Asia and AI-linked credit; the Bank of England hikes to 4 percent; Commerzbank posts a record nine months but trims interest income guidance.",
-  "date": "2026-11-06",
-  "pub": "Fri, 06 Nov 2026 05:24:42 +0000",
-  "bytes": 10996968,
-  "dur": 1374
  }
 ]
