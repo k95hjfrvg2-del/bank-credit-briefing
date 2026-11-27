@@ -1,5 +1,14 @@
 [
  {
+  "file": "Bank_Briefing_2026-11-27.mp3",
+  "title": "Friday 27 November: BoE cuts bank capital",
+  "desc": "The Bank of England cuts UK bank capital requirements by about 50bp and flags $4trn of AI exposure; euro area backs Hern\u00e1ndez de Cos for ECB president; S&P reviews France tonight.",
+  "date": "2026-11-27",
+  "pub": "Fri, 27 Nov 2026 05:16:31 +0000",
+  "bytes": 11311900,
+  "dur": 1413
+ },
+ {
   "file": "Bank_Briefing_2026-11-26.mp3",
   "title": "Thursday 26 November: Hot Inflation, Thanksgiving Calm",
   "desc": "Core PCE hits a three-year high as Treasuries rally anyway, the Bank of England publishes its Financial Stability Report, and the Bank of Korea hikes to 3.25%.",
@@ -115,14 +124,5 @@
   "pub": "Tue, 10 Nov 2026 05:15:15 +0000",
   "bytes": 10049454,
   "dur": 1256
- },
- {
-  "file": "Bank_Briefing_2026-11-09.mp3",
-  "title": "Monday 9 November: UniCredit, France, AI loans",
-  "desc": "UniCredit's Commerzbank bid faces a Brussels deadline on 16 November, France's 2027 budget was rejected, and ING is shopping data-centre loans as AI debt reprices.",
-  "date": "2026-11-09",
-  "pub": "Mon, 09 Nov 2026 05:22:44 +0000",
-  "bytes": 11264670,
-  "dur": 1408
  }
 ]

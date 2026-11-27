@@ -1,0 +1,113 @@
+Good morning, and welcome to the Bank Credit Briefing for Friday the twenty-seventh of November. Large banks across Europe, the U S and Asia, read through a credit lens.
+
+Wall Street reopens today after Thanksgiving, but only for half a day. London and Europe set the tone again, and there is plenty to work with. Here is what matters this morning.
+
+First, the Bank of England has cut capital requirements. The Financial Policy Committee finished its review of the framework and the package lowers requirements by about fifty basis points, which the Bank says frees lending capacity of around one hundred and seventy-five billion pounds. At the same time, it put the potential exposure of the big A I companies at just over four trillion dollars.
+
+Second, the euro area has picked its next central banker. Governments agreed to back Pablo Hernández de Cos, the former Bank of Spain governor, to succeed Christine Lagarde at the E C B.
+
+Third, France. S and P is scheduled to publish its review of France's A plus rating tonight, after the European close.
+
+And fourth, the rebound. European bank shares led a broad rally on Thursday, up around two and a half percent, as Washington signalled that new tariffs on Europe would be capped at fifteen percent.
+
+Later in the show: Europe, the U S and Asia, the I P O watch, a short F T review, the cross-asset wrap, two market anecdotes, and a Black Friday in two thousand and nine.
+
+No watchlist bank reports results today, so we start in Threadneedle Street.
+
+The Financial Stability Report came out on Thursday morning, with the record of the Financial Policy Committee and a separate paper on the outcome of the capital review. The headline is a reduction of roughly fifty basis points in capital requirements. Reuters framed the split this way: about sixty basis points for the largest U K-focused lenders, and about thirty basis points for the major banks in aggregate. The difference is the point. The committee concluded that the twenty nineteen increase in the countercyclical buffer had hit requirements on domestic lending disproportionately, so the relief is aimed at banks whose books are mostly in Britain.
+
+The package has several parts. The P R A will consult on changes to Pillar two A. The leverage ratio requirement comes down by zero point two of a percentage point. The countercyclical buffer itself stays at two percent. And, longer term, the committee describes a single releasable buffer inside a capital benchmark of around thirteen percent, which banks could use without automatic restrictions on distributions.
+
+That last sentence is the one for bond investors. If a buffer can be drawn without triggering the maximum distributable amount, the risk of a coupon being switched off on additional tier one paper falls in a stress. It does not disappear. But the distance between a bad year and a missed coupon gets longer. For Lloyds, NatWest and Santander U K, the most domestic of the big lenders, this is a modest positive for subordinated debt, and a clearer positive for equity holders, because released capital tends to go back as buybacks.
+
+Two caveats. First, the timing. The Bank says it wants to implement as soon as possible, but the P R A element goes through consultation, so do not expect a change in reported requirements before next year. Second, the committee also warned that cutting much further would put financial stability at risk. This is a recalibration, not the start of a race to the bottom.
+
+The rest of the report is less comfortable. Underlying return on tangible equity at the major U K banks fell to fifteen point nine percent in the third quarter, from seventeen point one in the second. Impairments are low and the banks are not rationing credit to protect capital. But the Bank's agents report more pressure among lower-income borrowers, including more use of debt-relief arrangements. And the ten-year gilt yield is up about forty basis points since the July report. The Bank says gilt and gilt repo markets have kept functioning in an orderly way.
+
+Then there is A I. Bank staff estimate the total potential exposure of the hyperscalers, the largest cloud and A I infrastructure companies, at just over four trillion dollars. That number adds their debt to commitments that sit off their balance sheets: leases, purchase agreements, guarantees and backstops. The report also cites an estimate from Morgan Stanley that around seven hundred billion dollars of data-centre spending between twenty twenty-six and twenty twenty-eight will be financed by private credit. And it flags that some private credit funds are becoming pickier on A I deals.
+
+For bank credit, the channel to watch is the one the Bank names: growing links between banks and non-banks. Banks lend to the funds that lend to the data centres. If stress appears in the private credit layer, it travels back to the banks through subscription lines, back leverage and warehouse facilities. That is the exposure supervisors want to measure, and it is the one bank disclosures still describe least well.
+
+Now to Frankfurt. On Thursday, euro area governments agreed to recommend Pablo Hernández de Cos as the next president of the European Central Bank. The European Council still has to appoint him formally, after consulting the European Parliament and the E C B's Governing Council. Christine Lagarde is due to step down on the seventh of February. The term is eight years and cannot be renewed. He would be the first Spaniard in the job.
+
+He is a known quantity. He ran the Bank of Spain, chaired the Basel Committee, and has been general manager of the Bank for International Settlements since July twenty twenty-five. Markets read the choice as continuity, and Italian assets liked it: the bank-heavy F T S E M I B was the best performer in Europe on Thursday.
+
+The credit read-across has two sides. On monetary policy, continuity supports periphery spreads and the funding of Southern European banks. On supervision, this is a central banker who spent years defending the full implementation of Basel three. Anyone hoping the E C B would join the British and American push to lighten capital rules should not expect him to lead it.
+
+Let's stay with regulators. The E C B published its supervisory review results last week. Overall core equity tier one requirements and guidance for twenty twenty-seven are broadly stable at eleven point three percent of risk-weighted assets, against eleven point two for this year. Fourteen banks received extra leverage-related requirements of ten to twenty-five basis points. Among individual names, Commerzbank's Pillar two requirement was trimmed by five basis points to two point one percent, and FinecoBank's cut from two percent to one point nine.
+
+In the U S, the O C C and the F D I C have sent their final Basel and standardised capital rule to the White House for review, the last step before publication. Media reports point to finalisation in the second or third week of December. On Wednesday the agencies also gave relief to banks that could not file certain anti-money laundering reports during a service disruption: reports due between the eighteenth of November and the twenty-ninth of December can now be filed until the thirtieth of December.
+
+Put London, Washington and Frankfurt side by side, and the picture is clear. Two of the three big supervisors are loosening at the margin. The euro area is holding the line. Over time that gap will show up in relative returns on equity, and in the pricing of senior non-preferred and tier two debt between U K, U S and euro area issuers.
+
+Now the Europe round-up, and the market first. Thursday was a broad rebound after Wednesday's sell-off. The Stoxx six hundred closed up about one point eight percent, at around six hundred and thirty-seven. The DAX gained two point one percent, to about twenty-five thousand two hundred and thirty. The F T S E one hundred rose about one and three quarter percent, to around ten thousand six hundred and nine, and Milan's F T S E M I B two point four percent.
+
+Banks led. The sector was up about two point four percent by mid-morning. Deutsche Bank gained around three percent and Standard Chartered two and a half, with B N P Paribas also strong. The trigger was trade: proposed U S duties on the European Union, Japan, South Korea, Taiwan and Switzerland would be capped at fifteen percent, including existing tariffs. That is the rate agreed with Brussels last year, so for European exporters, and for the banks that lend to them, the worst case has been taken off the table for now.
+
+Italy. Intesa Sanpaolo's offer for Monte dei Paschi has been open since Monday. The terms are one euro twenty-five in cash plus one point six six four new Intesa shares for each Monte dei Paschi share. The ratio was raised from one point six to reflect Intesa's coming interim dividend. Acceptances run to the twenty-second of January, with settlement expected on the twenty-ninth. Intesa has set a minimum threshold of two thirds, which it can waive. The Monte dei Paschi board has made no recommendation either way. The competition authority is reported to decide by the thirtieth of November, and the government is reported to be leaning towards clearing the deal without conditions.
+
+For credit, this is the cleanest story in Italian banking. Monte dei Paschi senior and subordinated bonds would end up inside a much stronger group. The usual pattern is that the target's spreads converge towards the acquirer's, and the market has already priced much of that. The risk that remains is execution: a low take-up, or a political twist, would leave Monte dei Paschi as a partly-owned subsidiary.
+
+Germany. UniCredit and the German government agreed terms on Commerzbank last Thursday. Commerzbank keeps its Frankfurt headquarters and its stock market listing. Berlin gave up the two supervisory board seats it has held since the twenty-oh-nine rescue. UniCredit promised German representation on its own board and more lending to the Mittelstand. The state still holds thirteen point three percent, and the finance minister's statement did not commit to selling it. UniCredit hopes to secure the last regulatory approvals this month.
+
+And Banco B P M remains in play. Crédit Agricole proposed earlier this month to combine its Italian unit with Banco B P M, which would leave the French group with about forty-five percent of the merged bank. Reports say Crédit Agricole and UniCredit have floated a joint approach that would split Banco B P M between them. Nothing has been agreed. The Italian names gave back between five and eight percent over the previous week before Thursday's rebound, so the market is pricing uncertainty, not a premium.
+
+France, briefly, because tonight matters. The ten-year O A T to Bund spread was about one hundred and fifty basis points on Thursday. S and P rates France A plus stable and publishes tonight. Moody's is at A a three negative and Fitch at A plus negative. Parliament has until mid-December to adopt a budget aiming at a deficit of five percent next year. A negative outlook from S and P would bring all three agencies into line and is largely priced. A downgrade is not, and would likely lead to rating actions on some French bank senior debt.
+
+Now the U S round-up. Markets were shut on Thursday. Today stocks close at one in the afternoon New York time and bonds at two, so liquidity will be thin and moves can be exaggerated.
+
+The credit story of the week in America is not a bank, it is Nvidia. Moody's moved its A a one rating to a stable outlook from positive on the eighteenth, after Jensen Huang's departure as chief executive. On Wednesday S and P placed its double A rating on watch negative, citing governance and key-person risk. For banks, the read-across is indirect but real. Nvidia sits at the centre of the A I supply chain, and many data-centre loans are, in the end, a bet on the demand Nvidia's customers keep generating.
+
+Private credit continues to leak. Blackstone's private credit fund disclosed earlier this month that it bought back about half of the shares tendered in its latest offer. BC Partners agreed to buy Investcorp's listed business development company at ninety percent of adjusted net asset value. Several other managers have capped redemptions at five percent of net assets a quarter. None of this is a bank loss. But the banks are the senior lenders to these vehicles, so falling asset values and gated investors reduce the equity cushion that sits underneath them.
+
+Now to Asia. Markets were mostly higher overnight. The Nikkei gained around seven tenths of a percent, to about fifty-seven thousand nine hundred. The Hang Seng rose four tenths, to about twenty-two thousand three hundred. Korea's Kospi rose about two percent, but is still down around sixteen percent for November. Shanghai was flat and Sydney up four tenths.
+
+In Japan, Tokyo core inflation for November rose to two point nine percent, from two point six, just below the three percent expected. It is a third month above target. The Bank of Japan meets on the eighteenth of December, with its policy rate at one and a quarter percent, and traders put the chance of a hike at around seventy percent before the data. The ten-year J G B closed Thursday near two point six seven percent, and the two-year near one point seven five. Dollar-yen is around one hundred and fifty-nine and a quarter, close to the one-sixty line where Tokyo has intervened before.
+
+For M U F G, S M B C and Mizuho, rising rates still mean higher net interest income. The cost is mark-to-market losses on their bond books, which they have been shortening for two years. On the business side, Mizuho has hired a head of data-centre investment banking in New York, and M U F G and Standard Chartered together provided about four hundred million dollars of asset-backed financing to the Saudi buy-now-pay-later company Tamara.
+
+In China, loan prime rates were held again this month, at three percent for one year and three and a half percent for five years, an eighteenth month at record lows. The central bank raised foreign currency reserve requirements from four to six percent in mid-November, and is pushing banks to explore loans priced off the overnight repo rate. For the big state banks, that means more pressure on margins that are already the thinnest in their history. Nothing in the window changes the credit picture for I C B C, C C B, Agricultural Bank or Bank of China, which rests on state support.
+
+Time for the I P O watch.
+
+In the U S, the holiday week was empty. Renaissance Capital's calendar showed no deals scheduled, and none priced. The story remains the giant of last week. Anthropic priced at eighty-three dollars a share, above its range, and raised about eighty-one point three billion dollars, the largest listing on record. It started trading on the Nasdaq on the nineteenth and opened at one hundred and eleven dollars fifty. Reports put its market value at the time at anywhere between one point four and two trillion dollars, so we will not choose a figure. By Wednesday's close, market data showed the shares at about eighty-two dollars eighty, just under the I P O price.
+
+Why it matters for banks: the underwriting fees are booked. But a deal of that size trading below issue in its first week makes the next very large technology deal harder to price, and it puts pressure on the syndication of A I-related debt.
+
+In Hong Kong, the radiopharmaceutical company Sinotau began trading on Tuesday after raising about three hundred and forty-one million Hong Kong dollars. The parent of the folding-bike maker DAHON also reported a strong move on the debut of its Hong Kong-listed unit. Context matters here: Hong Kong had raised about fifty-two billion dollars by the tenth of November, a six-year high, but six debuts the week before last all priced at or near the bottom of their ranges. Investors are getting choosier.
+
+The pipeline: the Hong Kong restaurant chain Yuen Kee Food is seeking up to about four hundred and fifty-seven million Hong Kong dollars, with pricing by the third of December and a debut on the seventh. In the U S, bankers will be watching whether the December calendar reopens at all with Anthropic below issue.
+
+Looking ahead. Tonight, S and P on France. Next week, a decision from the Italian competition authority on Intesa and Monte dei Paschi, reported for the thirtieth. Yuen Kee Food lists in Hong Kong on the seventh of December. The Fed decides on the ninth, with a hike almost fully priced. U S Basel rules could be finalised in the middle of the month. The Bank of Japan meets on the eighteenth, and the French budget deadline falls in mid-December. Further out, Intesa's offer closes on the twenty-second of January, and Christine Lagarde leaves on the seventh of February.
+
+Now for our F T review. A short one again today. Our research tools could not reach the Financial Times this morning, either its own site or its search pages, and we could not find any F T story from the last twenty-four hours relayed reliably by other outlets. We would rather tell you that than guess at what is on the front page.
+
+The F T threads we have followed recently, banks selling and insuring their data-centre loans, the Bank of England asking lenders for their data-centre exposures, and the growing use of significant risk transfers, all fed directly into Thursday's Financial Stability Report. In that sense, the Bank has just confirmed the paper's agenda. Check the F T app this morning for anything on the capital review and on Hernández de Cos, which are the two stories most likely to lead its banking coverage.
+
+Now the cross-asset wrap. Levels are from Thursday's close unless stated, and U S levels are from Wednesday.
+
+Rates. The ten-year Treasury yield was around four point eight percent at Wednesday's close, and the two-year around four point six. With the Fed expected to hike on the ninth, the curve is about the long end, not the front. The Bund ten-year is near three point two five percent, the gilt ten-year near five point three, and the J G B ten-year near two point seven. So what for banks: higher yields help margins but keep pressure on bond portfolios, and the Bank of England has just reminded us the gilt market is up forty basis points since July.
+
+Spreads. The O A T to Bund spread is about one hundred and fifty basis points, down from a peak of about one hundred and seventy-eight in October. We could not verify closing levels for the iTraxx indices, so we will give you direction only: Thursday's equity rally points to tighter.
+
+F X. The euro is near one dollar ten, slightly weaker on the day. Dollar-yen is around one hundred and fifty-nine and a quarter. The risk of intervention near one-sixty caps the move and adds volatility to Japanese bank balance sheets.
+
+Commodities. Brent is in the low to mid nineties, after a week of sharp swings tied to attacks on Gulf energy facilities. Gold rebounded from a fifteen-month low near three thousand four hundred and twenty-seven dollars on Wednesday, to around three thousand five hundred and seventy. So what: oil above ninety keeps inflation sticky, which is why both the Fed and the Bank of England are hiking.
+
+Equities. Europe up close to two percent, Japan and Hong Kong up overnight, U S futures waiting for a half-day session.
+
+Here is the view, and it is only a view. This week, central banks have been tightening monetary policy and loosening capital policy at the same time. The Fed and the Bank of England are raising rates, while the Bank of England and the U S agencies are lowering capital requirements. For bank credit that combination is supportive in the short run: wider margins, more room for distributions. But it moves the risk from the banks to the people who lend to the banks' borrowers, the private credit funds and the A I builders. That is exactly where the Bank of England's four trillion dollar number points. Be paid for that, or be careful.
+
+Time for two market anecdotes.
+
+First, Anthropic. Eight days ago it completed the largest I P O ever, with demand strong enough to push the price above the range and the stock to an opening jump of more than a third. By Wednesday night it had given all of that back and was trading a few cents below the issue price. In one week, the biggest company debut in history went from triumph to a test of the underwriters' stabilisation desk.
+
+Second, Korea. The Kospi rose about two percent on Friday. Good day. But even after that, the index is down about sixteen percent for November, in the middle of the A I sell-off, and on Thursday the Bank of Korea raised rates. A sixteen percent monthly fall in a major market, with no domestic crisis, tells you how concentrated Korean equities have become in a single theme.
+
+And now, this day in market history.
+
+On Friday the twenty-seventh of November, two thousand and nine, Wall Street reopened after Thanksgiving for a half-day session, just like today. The day before, Dubai World, the conglomerate owned by the government of Dubai, had asked creditors to accept a six-month standstill on its debt. The Dow fell one hundred and fifty-four points, or about one and a half percent, to ten thousand three hundred and ten, in a shortened session.
+
+The lesson is about implicit support. Creditors had lent to Dubai World on the assumption that the state stood behind it. It did not, at least not on the terms they expected. Today, the Bank of England's four trillion dollar figure includes guarantees, backstops and leases that sit off the balance sheets of the A I giants. Much of the debt in data-centre vehicles is priced on the belief that a hyperscaler will always stand behind it. That belief may well be right. Dubai showed what happens when a market finds out, on a thin holiday trading day, that it might not be.
+
+That's the Bank Credit Briefing for Friday the twenty-seventh of November. Watch for S and P on France tonight, and check your terminal for late news, especially from the U S half-day session. Have a good weekend.

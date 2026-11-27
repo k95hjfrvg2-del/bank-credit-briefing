@@ -13,6 +13,16 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Friday 27 November: BoE cuts bank capital</title>
+   <description>The Bank of England cuts UK bank capital requirements by about 50bp and flags $4trn of AI exposure; euro area backs Hernández de Cos for ECB president; S&amp;P reviews France tonight.</description>
+   <itunes:summary>The Bank of England cuts UK bank capital requirements by about 50bp and flags $4trn of AI exposure; euro area backs Hernández de Cos for ECB president; S&amp;P reviews France tonight.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-27.mp3" length="11311900" type="audio/mpeg"/>
+   <guid isPermaLink="false">bank-credit-briefing-2026-11-27</guid>
+   <pubDate>Fri, 27 Nov 2026 05:16:31 +0000</pubDate>
+   <itunes:duration>00:23:33</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Thursday 26 November: Hot Inflation, Thanksgiving Calm</title>
    <description>Core PCE hits a three-year high as Treasuries rally anyway, the Bank of England publishes its Financial Stability Report, and the Bank of Korea hikes to 3.25%.</description>
    <itunes:summary>Core PCE hits a three-year high as Treasuries rally anyway, the Bank of England publishes its Financial Stability Report, and the Bank of Korea hikes to 3.25%.</itunes:summary>
@@ -140,16 +150,6 @@
    <guid isPermaLink="false">bank-credit-briefing-2026-11-10</guid>
    <pubDate>Tue, 10 Nov 2026 05:15:15 +0000</pubDate>
    <itunes:duration>00:20:56</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-   <title>Monday 9 November: UniCredit, France, AI loans</title>
-   <description>UniCredit's Commerzbank bid faces a Brussels deadline on 16 November, France's 2027 budget was rejected, and ING is shopping data-centre loans as AI debt reprices.</description>
-   <itunes:summary>UniCredit's Commerzbank bid faces a Brussels deadline on 16 November, France's 2027 budget was rejected, and ING is shopping data-centre loans as AI debt reprices.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/bank-credit-briefing/episodes/Bank_Briefing_2026-11-09.mp3" length="11264670" type="audio/mpeg"/>
-   <guid isPermaLink="false">bank-credit-briefing-2026-11-09</guid>
-   <pubDate>Mon, 09 Nov 2026 05:22:44 +0000</pubDate>
-   <itunes:duration>00:23:28</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
